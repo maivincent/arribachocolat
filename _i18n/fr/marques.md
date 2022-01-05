@@ -89,6 +89,7 @@ Lancée en 2018 à Cuenca, [Viferchi](http://www.viferchi.com/) propose pour le 
 [Nat Kaw](https://www.nativaromas.com/natkaw), le chocolat de Nativaromas, provient de petites fermes dans la province de Manabi. Chaque ferme produit un type de cacao unique, résultat d'un mélange naturel réalisé par pollinisation croisée de différentes espèces endémiques de cacao fino de aroma. Le procédé de fermentation est aussi adapté à la micro-faune de chaque ferme. Chaque type de barre provient de sa ferme particulière, et à donc un profil différent sans saveurs ajoutées: fruité, floral, ou herbes.
 Ces chocolats ont tous été primés en 2021. Je crois donc que c'est une marque très récente.
 
+### Taeone
 
 ## Les marques étrangères
 
