@@ -14,8 +14,8 @@ C’est un chocolat fin qui mérite cette appellation, mais ce n’est pas, pour
 
 _Unicité_: 4  
 _Finesse_: 4  
-_Confort_: 3  
+_Confort_: 3.5  
 _Puissance_: 3  
-_Impression générale_: 3
+_Impression générale_: 3.5
 
-**Note finale**: 17/25
+**Note finale**: 18/25

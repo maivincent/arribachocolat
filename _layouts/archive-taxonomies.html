@@ -24,14 +24,6 @@ layout: default
   {%- endif -%}
 {%- endfor -%}
 
-{% for lang in site.languages %}
-  {% if forloop.index0 == 0 %}
-    <a href="{{ site.copybaseurl }}{{ page.permalink }}" class="footer__link">{{ lang }}</a>
-  {% else %}
-    |<a href="{{ site.copybaseurl }}/{{ lang }}{{ page.permalink }}" class="footer__link">{{ lang }}</a>
-  {% endif %}
-{% endfor %}
-
 <div class="taxonomies-wrapper">
   <ul class="taxonomies">
     {%- for i in (1..max_count) reversed -%}

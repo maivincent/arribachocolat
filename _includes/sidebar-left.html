@@ -9,11 +9,13 @@
       <img src="{{ avatar }}" class="avatar-image" alt="{{ site.author.name }}">
     </div>
   {%- endif %}
-  <div class="masthead-title">
-    <a href="{{ "/" | relative_url }}" title="Home">{{ site.title }}</a>
-  </div>
-  <div class="masthead-tagline">
-    <small>{{ site.description }}</small>
+  <div class="table-headline" style="background-color: rgba(60, 60, 60, 0.5);">
+    <div class="masthead-title">
+      <a href="{{ "/" | relative_url }}" title="Home">{{ site.title }}</a>
+    </div>
+    <div class="masthead-tagline" >
+      <small>{% t text.description %}</small>
+    </div>
   </div>
   {%- if site.data.navigation -%}
   <nav class="navigation">
@@ -38,5 +40,12 @@
       {%- endfor %}
       </ul>
     </div>
+    {% for lang in site.languages %}
+  {% if forloop.index0 == 0 %}
+    <a href="{{ site.copybaseurl }}/{{ page.permalink }}" class="footer__link">{{ lang }}</a>
+  {% else %}
+    | <a href="{{ site.copybaseurl }}/{{ lang }}{{ page.permalink }}" class="footer__link">{{ lang }}</a>
+  {% endif %}
+{% endfor %}
   {%- endif %}
 </header>

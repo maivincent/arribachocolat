@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Chocolate Organico con Arandano Rojo – Cranberry - 60% Cacao"
-tags: [Pacari, Noir, Canneberge] 
+title:  "Chocolate Organico con Cereza – Cherry - 60% Cacao"
+tags: [Pacari, Noir, Cerise] 
 ---
 
 J’aime beaucoup les cerises. Et j’aime beaucoup le chocolat (eh ouais!). C’est donc avec beaucoup d’attentes que j’ai ouvert la boîte de cette tablette.

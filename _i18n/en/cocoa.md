@@ -5,11 +5,16 @@ Today, the Ivory Coast and Ghana produce the most cocoa, followed by Indonesia, 
 
 What is less known is that there are several species of cocoa trees. Classified in categories, they each bring a different aroma to chocolate. The most cultivated category (80 to 90%) is the Forastero. It is the basis of the chocolate you find every day, and the only one found in Ivory Coast and Ghana. Two other categories exist, the Criollo and the Trinitario. But there is also one more: the Arriba Nacional, characterized by floral notes - jasmine and orange blossom (dixit [Wikipedia](https://fr.wikipedia.org/wiki/Nacional_(cacao)). In comparison, the Forastero would have aromas of warm bread. 
 
-Arriba Nacional is produced primarily in Ecuador. In 2014, it constituted 0.0012% of world production. Legend has it that a Swiss chocolatier walking through the jungle smelled something extraordinary and asked his guide what smelled so good. "Arriba!" the guide replied, pointing to the top of the hill. So it was a misunderstanding that this type of cocoa, considered a national treasure, would be named.
+Arriba Nacional is produced primarily in Ecuador. In 2014, it constituted 0.0012% of world production. Legend has it that a Swiss chocolatier walking through the jungle smelled something extraordinary and asked his guide what smelled so good. "Arriba!" the guide replied, pointing to the top of the hill. Therefore, it was based on a misunderstanding that this type of cocoa, considered a national treasure, would be named.
+
 
 ## Fino d'Aroma cocoa
 
-According to the [International Cocoa Organization] (https://www.icco.org/fine-or-flavor-cocoa/), the name Fino d'Aroma, or fine aroma, is given to a variety of cocoa that has floral notes, in contrast to the "bulk" cocoa that is predominant. In general, Criollo and Trinitario cocoa, as well as Arriba Nacional cocoa, are considered to have a fine aroma. All three species can be found in Ecuador. One must therefore be attentive: not all Fino d'Aroma cocoa is Arriba, but all Arriba is Fino d'Aroma. For more information, I invite you to take a look at the great site of [Yumbo's](http://yumboschocolate.com/cacao-fin-aromatique/).
+According to the [International Cocoa Organization] (https://www.icco.org/fine-or-flavor-cocoa/), the name Fino d'Aroma, or fine aroma, is given to a variety of cocoa that has floral notes, in contrast to the "bulk" cocoa that is predominant. In general, Criollo and Trinitario cocoa, as well as Arriba Nacional cocoa, are considered to have a fine aroma. All three species can be found in Ecuador. One must therefore be attentive: not all Fino d'Aroma cocoa is Arriba Nacional, but all Arriba Nacional is Fino d'Aroma. For more information, I invite you to take a look at the great site of [Yumbo's](http://yumboschocolate.com/cacao-fin-aromatique/).
+
+## Sacha cacao
+
+The Sacha cocoa species is relatively new. Developed by the Cimarron Cocoa Estates company, it tries to compete with the Arriba Nacional. Unique in the world, it is found in the province of Orellana, in Joya de las Sachas, near the Amazon. It is obviously a fino d'aroma cocoa. More information [on a news article for confectioners](https://www.confectionerynews.com/Article/2016/08/29/Sacha-Gold-Ecuador-s-next-top-fine-flavor-cocoa-Cimarron-Estates), [the site of Cimarron,](http://sachagold.com/index.php/english/our-company) and [the site of Republica del Cacao.](https://republicadelcacao.com/blogs/news/la-joya-de-los-sachas-ecuador-projects-that-nurture-our-essence)
 
 ## Chocolate making
 

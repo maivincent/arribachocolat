@@ -5,7 +5,7 @@ tags: [Republica del Cacao, Noir, Pur]
 ---
 
 
-Ce chocolat est un de mes favoris. Comme le Cleo’s, il a un petit goût de beurre et une sensation de confort et de chaleur. Ça doit être la couleur du cacao de l’Amazonie. Je ressens de surprenantes notes de menthe fraîche à la fin de la dégustation. À laisser fondre sur la langue, le temps de profiter de toutes les phases et nuances qu’il peut apporter!
+Ce chocolat est un de mes favoris. Il a un petit goût de beurre et une sensation de confort et de chaleur. Ça doit être la couleur du cacao de l’Amazonie: c'est du cacao Sacha, et non arriba. Je ressens de surprenantes notes de menthe fraîche à la fin de la dégustation. À laisser fondre sur la langue, le temps de profiter de toutes les phases et nuances qu’il peut apporter!
 
 ### Notes
 

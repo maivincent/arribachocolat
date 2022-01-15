@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chocolate Organico con Esencia de Naranja – Ornge - 60% Cacao"
+title:  "Chocolate Organico con Esencia de Naranja – Orange - 60% Cacao"
 tags: [Pacari, Noir, Orange] 
 ---
 

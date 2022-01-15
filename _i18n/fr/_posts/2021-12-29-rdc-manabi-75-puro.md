@@ -5,7 +5,7 @@ tags: [Republica del Cacao, Noir, Pur]
 ---
 
 
-Ce chocolat est gouteux et robuste. Il commence par une saveur de thé, avec des petites notes rondes. Rapidement, viennent des touches de poivre noir, puis de noisette. À la fin, il laisse une toute petite amertume. Ce chocolat est fin et très agréable, bien qu’un petit peu court en bouche.
+Ce chocolat est gouteux et robuste. Il commence par une saveur de thé, avec des petites notes rondes. Rapidement, viennent des touches de poivre noir, puis de noisette. À la fin, il laisse une toute petite amertume. Un chocolat fin et très agréable, bien qu’un petit peu court en bouche.
 
 ### Notes
 

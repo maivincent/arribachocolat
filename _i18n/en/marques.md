@@ -1,36 +1,49 @@
-EN ANGLAIS
-
-
 ## The big names
 
 If you ask an Ecuadorian to name a brand of chocolate from their country, you will receive one of two answers: Pacari, or Republica del Cacao. These two companies are the driving force behind Ecuador's effort to take its place among the leading fine chocolate producing countries.
-Stores in airports and shopping malls, cafes and restaurants, by-products, sales in supermarkets and pharmacies, and international exports: these two companies are the pioneers, the most famous and the proof of this chocolate's success.
+Stores in airports and shopping malls, cafes and restaurants, by-products, sales in supermarkets and pharmacies, and international exports: these two companies are the pioneers, the most famous and the proof of this chocolate's potential.
 
 
 ### Pacari
 
-[Pacari](www.pacari.com), is a family owned and operated company founded in 2002 that produces organic and fair trade chocolate. They were among the first to bet on arriba cocoa for high volume production. Pacari bars have since won (and are still winning) many international awards. 
+[Pacari (www.pacari.com) is a family owned and operated company founded in 2002 that produces organic and fair trade chocolate. They were among the first to bet on arriba cocoa for high volume production. Pacari bars have since won (and are still winning) many international awards. 
 
 The term "Pacari", in Quechua, means "nature" and "awakening", and its logo represents a hieroglyph of man-tree, more than 5000 years old, belonging to the Valdivian culture of the Ecuadorian coast.
 
-Pacari also relies on sustainable agriculture and the support of the farming families that produce arriba cocoa.
+Pacari also relies on sustainable agriculture and the support of the farming families who produce arriba cocoa. In particular, according to [this interview](https://cocoarunners.com/maker/pacari/), they only deal with small producers, whom they encourage to follow the permaculture path and grow other crops alongside cocoa.
+
+Pacari chocolate is sold in over 60 countries around the world, including Canada since 2020: in Montreal, it can be found at Rachel Berri, and in Ontario at Metro.
 
 ### Republica del Cacao
 
+[Republica del Cacao](https://republicadelcacao.com) was founded in 2007 by two Ecuadorian brothers who learned in Paris that the best cocoa according to a renowned chocolatier comes from the Guayaquil region. Determined to take advantage of the potential of Ecuadorian cocoa in a local and sustainable way, they first offer bars for the consumer and then in 2014 fine cocoa for companies. They then diversified their sources, going to Peru, the Dominican Republic and Colombia for new flavors of aroma fino cacao.
+
+As far as I know, Republica del Cacao's bars are mostly based on nacional arriba cocoa, but sometimes Sacha as well. They may go for other species - it will always be fino d'aroma.
 
 
 
 ## The established brands
 
+In the steps of Pacari and Republica del Cacao, several companies have established themselves in Ecuadorian chocolate. Although their products are not sold in every grocery store, they can be found from time to time in large stores in Quito. 
+
 ### Hoja Verde
+
+[Hoja Verde](https://www.facebook.com/hojaverdechocolate/) is the chocolate branch of a family company that also produces [roses](https://www.hojaverde.com.ec/?lang=en). It is also associated with the [Velez coffee](https://www.hvg.com.ec/) company. Their products can be found everywhere in Quito, among others at the Velez Café in La Floresta.
 
 ### Minka Gourmet Chocolate
 
+[Minka Chocolate](https://minkachocolate.com/) is sold in Ecuador, but also in the United States and France. Minka means "teamwork" in Quechua, the Inca language. The cocoa comes from plantations in the province of Guayas, near the Naranjal River.
+
 ### Kamm
+
+[Kamm](https://www.kammhere.com/) is a rather unusual brand. Chocolate is sold as a health and wellness product, especially accompanied by crystals of "superfoods" like ginger and lemon (to relax), mango (for energy), caramel (for smiling) and hemp (for... health). And also, but only sold in the USA, CBD (to relax and be happy, of course). In any case, their superfood staple is fine Ecuadorian flavored cocoa, so it's worth a try!
 
 ### Valdivian
 
+[Valdivian](https://www.facebook.com/ValdivianChocolate) owes its name to one of the oldest civilizations in Ecuador, which lived on the west coast, near Guayaquil. They use organic arriba cocoa from several regions, and distribute their bars in all SuperMaxi stores. 
+
 ### La Leyenda del Chocolate
+[La Leyenda del Chocolate](http://chocoleyenda.com/) is yet to be discovered - I haven't bought a bar from this brand yet!
 
 
 ## From Mindo
@@ -52,50 +65,70 @@ You can't buy these chocolates in Quito, but you can order them in Ecuador as we
 
 [Yumbos Chocolate](http://yumboschocolate.com/) is a chocolate factory in Mindo. It was founded by a couple: Claudia Ponce and Pierre-Alain Molinari. The cocoa comes from the provinces of Los Rios and Esmeraldas. You can visit the workshop in Mindo, or buy their products at their store in the historical center of Quito. 
 
-## Les communautés
+## The Amazon communities
 
 ### Kallari
+[Kallari](https://www.kallari.com.ec/) is a community-based company, born from the association of local and Quechua producers located around the Napo River in the Amazon. It is around this region that the greatest genetic diversity of cocoa is found. It is also where the consumption and cultivation of cocoa appeared, according to historical research. Some people have been cultivating it for more than 5000 years, following the ancestral agricultural system of the [chakra](https://www.kallari.com.ec/campana-chakra-mujer-y-chocolate). The chakra implies an agricultural management of natural resources according to the cosmology of the Quechuas. Women play a leading role as guardians of ancestral knowledge, guarantors of food security and administrators of the production space.
+Kallari is therefore part of the Chakra, Womn and Chocolate campaign, supported by the province of Napo and the European Union, among others, which aims to promote these elements of culture in an integral way, both locally and internationally.
+
+They sell several types of chocolates, some made from nacional arriba cocoa, others from Sacha. The bars are not available in stores in Quito, but they can be ordered. You can also find bars by chance during visits in the jungle: my first contact was on a stall of handicrafts of a community living near the lunch stop of a rafting tour in Baños...!
+
+### Tsatsayaku
+
+[Tsatsayaku](https://www.tsatsayaku.com/) is a small brand associated with the Chakra, woman and chocolate campaign. It is an association of women producers from the canton of Carlos Julio Arosemena Tola, in the province of Napo, in the Amazon. The project looks really nice, but I haven't bought any bars of this brand yet: the treasure hunt will continue next year!
+
+### Wiñak
+[Wiñak](https://www.winak.org/?lang=en) is another community business associated with Chakra, woman and chocolate. Like Tsatsayaku, I haven't found any of their shelves yet. More details next year, I hope!
+
+## The small productions
+
+Following the example of the larger productions, several small entrepreneurs are trying their luck. These chocolates are more difficult to find: in fairs, small markets, or specialized stores. It's a little treasure hunt!
 
 
-## Les petites productions
+### Cleo'sERR_CONNECTION_REFUSED
+Website: Cleo's tortillas [Facebook](https://www.facebook.com/cleos.tortillas) page. [Promotional video](https://www.youtube.com/watch?v=SlsUV0VwxxI) produced by the Mexican Embassy in Ecuador. Sales points in Quito? The little [fruteria don Vic](https://foursquare.com/v/la-fruteria/4bcb58a6b6c49c745d019291/photos) on Gonzalez Suarez.
 
-Dans le sillon des succès de Pacari et Republica del Cacao, plusieurs entrepreneurs tentent leur chance. Ces chocolats sont plus difficiles à trouver: dans des foires, des petits marchés, ou des magasins spécialisés. C'est une petite chasse au trésor!
-
-
-### Cleo's
-Le site internet: la page [Facebook](https://www.facebook.com/cleos.tortillas) de Cleo's tortillas. La [vidéo promotionelle](https://www.youtube.com/watch?v=SlsUV0VwxxI) produite par l'ambassade du Mexique en Équateur. Les points de vente à Quito? La petite [fruteria don Vic](https://foursquare.com/v/la-fruteria/4bcb58a6b6c49c745d019291/photos) sur la Gonzalez Suarez.
-
-De ce que j'ai compris, Cleotilde Gascon est une mexicaine établie à Quito, qui produit quelques aliments, dont du chocolat arriba. Qui est par ailleurs excellent. Pour prendre contact avec elle, le numéro est dans la description de la vidéo promotionelle!
+From what I understand, Cleotilde Gascon is a Mexican established in Quito, who produces a few food items, including arriba chocolate. Which is by the way excellent. To contact her, the number is in the description of the promotional video!
 
 ### Yaussa
 
-Trouvée dans une foire de Noël, la ferme touristique [Yaussa](https://yaussa.com/) est située à Puerto Quito et propose, entre autres produits, deux tablettes de chocolat arriba et du chocolat 100% pour la cuisine.  
+Met in a Christmas fair, the tourist farm [Yaussa](https://yaussa.com/) is located in Puerto Quito and offers, among other products, two arriba chocolate bars and 100% chocolate for cooking.  
 
 ### Chaman Ecuador
 
-Je pense avoir mis la main sur une des dernières tablettes de cette marque: c'est la barre de chocolat distribuée par [Cacao & Cacao](https://kacaoshop.com/), une petite boutique spécialisée en chocolat à Quito. Ils y vendent toujours d'autres marques de chocolat, ainsi que du café et du cacao pur. C'est là d'ailleurs que je l'ai achetée, et qu'ils m'ont dit que c'était les derniers modèles.
+I think I got my hands on one of the last bars of this brand: it's the chocolate bar distributed by [Cacao & Cacao](https://kacaoshop.com/), a small store specialized in chocolate in Quito. They always sell other chocolate brands, as well as coffee and pure cocoa. That's where I bought it, and they told me it was the latest available.
 
-Un petit doute cependant, car selon la boîte, elle serait élaborée par [La Leyenda del chocolate](http://chocoleyenda.com/) de Calderon... Mais il m'est impossible de trouver la marque dans leur boutique.
+I have a little doubt, however, because according to the box, it was made by [La Leyenda del chocolate](http://chocoleyenda.com/) by Calderon... But it is impossible for me to find the brand in their store.
 
 
 ### Viferchi
 
-Lancée en 2018 à Cuenca, [Viferchi](http://www.viferchi.com/) propose pour le moment une petite variété de barres. J'ai mis la main dessus à Quito, à la même fruteria que les barres Cleo's. Je suppose cependant qu'elle est appelée à grandir.
+Launched in 2018 in Cuenca, [Viferchi](http://www.viferchi.com/) offers a small variety of bars for now. I got my hands on it in Quito, at the same fruteria as Cleo's bars. I assume, however, that it will grow.
 
 ### Galletti
 
-[Galletti](https://cafegalletti.com/) est une marque de café équatorienne. Cependant, si vous visitez leur café sur la Gonzalez Suarez à Quito, vous trouverez leur chocolat maison. Il n'est pas affiché sur le site équatorien, mais on le trouve sur le [site de vente](https://cafegallettiusa.com/collections/products/products/variety-pack-of-each-fine-chocolate-bar-1) aux États-Unis.
+[Galletti](https://cafegalletti.com/) is an Ecuadorian coffee brand. However, if you visit their cafe on Gonzalez Suarez in Quito, you will find their homemade chocolate. It is not listed on the Ecuadorian site, but it can be found on the [sales site](https://cafegallettiusa.com/collections/products/products/variety-pack-of-each-fine-chocolate-bar-1) for the United States.
 
 ### Nat Kaw
 
-[Nat Kaw](https://www.nativaromas.com/natkaw), le chocolat de Nativaromas, provient de petites fermes dans la province de Manabi. Chaque ferme produit un type de cacao unique, résultat d'un mélange naturel réalisé par pollinisation croisée de différentes espèces endémiques de cacao fino de aroma. Le procédé de fermentation est aussi adapté à la micro-faune de chaque ferme. Chaque type de barre provient de sa ferme particulière, et à donc un profil différent sans saveurs ajoutées: fruité, floral, ou herbes.
-Ces chocolats ont tous été primés en 2021. Je crois donc que c'est une marque très récente.
+[Nat Kaw](https://www.nativaromas.com/natkaw), Nativaromas' chocolate, comes from small farms in the province of Manabi. Each farm produces a unique type of cocoa, the result of a natural blend achieved through cross-pollination of different endemic species of aroma fino cocoa. The fermentation process is also adapted to the micro-fauna of each farm. Each type of bar comes from its own farm, and therefore has a different profile without added flavors: fruity, floral, or herbal.
+These chocolates have all won awards in 2021, so I think it's a very new brand. In December 2021, we found these bars at the [Cacao & Cacao](https://kacaoshop.com/) store in Quito.
 
 
-## Les marques étrangères
+### Taeone
+
+[Teaone](https://teaone.ec/) is a small family production, established on the Teaone River in the unique ecosystem of the Andean Choco, near the town of Esmeraldas and the Pacific Ocean. They also have a store between two resorts on the waterfront, in Playa Escondida. In December 2021, we found their bars at the store [Wayuro Organico](https://www.facebook.com/wayruro.organico/) in Quito.
+
+### RaqEri
+[RaqEri](https://www.facebook.com/RAQERICACAO/) is a very small brand that produces cocoa products like salami and cocoa tea. I found it in a small Christmas fair of 2021 in Quito. 
+
+
+## Foreign brands
+Ecuador's fino d'aroma cocoa has long been known outside its borders. Here are some brands that use it.
 
 
 ### Millésime
-
+[Millésime Chocolat](https://www.millesime-chocolat.be/fr/) is a Belgian luxury chocolate brand, run by Jean Christophe Hubert. I understand that each year the available bars change, probably depending on the vintage of the cocoa. We found the Ecuador bar presented on this site at the [fromagerie Yannick](https://www.yannickfromagerie.ca/) on Bernard Street, in Montreal. 
 
 ### Lindt
+Everyone knows [Lindt](https://www.lindt-spruengli.com/), the international fine chocolate and Swiss truffle company. Excellence bars are available in almost every grocery store!
