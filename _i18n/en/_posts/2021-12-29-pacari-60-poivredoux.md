@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Chocolate Organico con Esencia de Pimienta Dulce – Allspice - 60% Cacao"
-tags: [Pacari, Dark, Pepper] 
+title:  "Pacari - Chocolate Organico con Esencia de Pimienta Dulce – Allspice - 60% Cacao"
+tags: [Dark, Pepper] 
+categories: [Pacari]
 ---
 
 With this chocolate, Pacari takes the gamble of sweet pepper. It's a success: without stinging, you can feel the pepper's aroma mingling with the chocolate's. The two flavors are on the same front, but they blend surprisingly well, so that it is difficult to distinguish one from the other. This is the strength of this bar: the balance achieved gives the impression of tasting something new, in the middle of a spectrum that would be continuous between pepper and cocoa.

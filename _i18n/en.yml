@@ -7,6 +7,9 @@ titles:
   marques: Chocolate brands
   cocoa: Ecuador's chocolate
   home: Arriba Chocolat
-  tags: Find by tags
+  tags: Find by flavor
+  brands: Find per brand
+  older: Older
+  newer: Newer
 text:
   description: "A life challenge: taste all the chocolate bars made from the best cocoa beans in the world, Ecuador's fino d'aroma"  

@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Chocolate Organico con Limon Mandarina - Bitter Orange - 60% Cacao"
-tags: [Pacari, Noir, Orange] 
+title:  "Pacari - Chocolate Organico con Limon Mandarina - Bitter Orange - 60% Cacao"
+tags: [Noir, Orange] 
+categories: [Pacari]
+
 ---
 
 Ce chocolat de Pacari a gagné le prix de l’Or aux International Chocolate Awards en 2019 dans la catégorie Amériques.

@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Republica del Cacao - White Chocolate and Fine Cacao Nibs"
-tags: [Republica del Cacao, White, Cacao] 
+tags: [White, Cacao] 
+categories: [Republica del Cacao]
+
 ---
 
 This one is a white chocolate special! A little treat that allows us to enjoy a gourmet pleasure without feeling guilty. Indeed, even if it is "only" white chocolate, it has a delicate flavor and the cocoa beans, adding crunch and a little body, give it the legitimacy to be part of the Republica Del Cacao collection.

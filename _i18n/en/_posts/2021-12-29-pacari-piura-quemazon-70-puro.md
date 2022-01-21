@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Single Region Fine Chocolate - Piura Quemazon 70% Cacao"
-tags: [Pacari, Dark, Pure] 
+title:  "Pacari - Single Region Fine Chocolate - Piura Quemazon 70% Cacao"
+tags: [Dark, Pure] 
+categories: [Pacari]
 ---
 
 Another very special bar. Piura is in Peru - so it is outside the usual borders of Pacari, which usually focuses on Ecuador.

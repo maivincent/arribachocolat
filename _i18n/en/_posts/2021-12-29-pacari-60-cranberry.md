@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Chocolate Organico con Arandano Rojo – Cranberry - 60% Cacao"
-tags: [Pacari, Dark, Cranberry] 
+title:  "Pacari - Chocolate Organico con Arandano Rojo – Cranberry - 60% Cacao"
+tags: [Dark, Cranberry] 
+categories: [Pacari]
+
 ---
 
 (Note: the bar I'm trying is too old and the chocolate has spoiled over time. I'll try to go over it and imagine a fresh bar - but the evaluation obviously suffers, both in texture and taste).

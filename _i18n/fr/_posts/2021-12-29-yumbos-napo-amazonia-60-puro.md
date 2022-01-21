@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Yumbos - Napo – Amazonia 60% Puro"
-tags: [Yumbos, Noir, Pur] 
+tags: [Noir, Pur] 
+categories: [Yumbos]
+
 ---
 
 

@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Pepas de cacao cubiertas con chocolate – Gengibre"
-tags: [Pacari, Noir, Gingembre, Graines de cacao] 
+title:  "Pacari - Pepas de cacao cubiertas con chocolate – Gengibre"
+tags: [Noir, Gingembre, Graines de cacao] 
+categories: [Pacari]
+
 ---
 
 _En plus des traditionnelles tablettes de chocolat, Pacari propose de petits délices à grignoter un par un: des graines de cacao recouvertes de chocolat. Soupoudrés de canelle, on les laisse fondre dans la bouche, jusqu’à ce qu’il ne reste que le morceau de cacao pur, croquant, légèrement amer, à l’interieur sucré. Pacari offre trois saveurs: naturel, à la banane, et au gingembre._

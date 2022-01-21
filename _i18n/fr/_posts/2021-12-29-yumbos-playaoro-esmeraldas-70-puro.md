@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Yumbos - Playa de Oro – Esmeraldas 70% Puro"
-tags: [Yumbos, Noir, Pur] 
+tags: [Noir, Pur] 
+categories: [Yumbos]
 ---
 
 

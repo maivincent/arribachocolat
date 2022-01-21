@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Lindt Excellence - Ecuador 75% Cacao"
-tags: [Lindt, Dark, Pure] 
+tags: [Dark, Pure] 
+categories: [Lindt]
+
 ---
 
 _The world's best-known brand of fine chocolates couldn't miss the arriba cocoa..._

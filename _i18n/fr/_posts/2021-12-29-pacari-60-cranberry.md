@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Chocolate Organico con Arandano Rojo – Cranberry - 60% Cacao"
-tags: [Pacari, Noir, Canneberge] 
+title:  "Pacari - Chocolate Organico con Arandano Rojo – Cranberry - 60% Cacao"
+tags: [Noir, Canneberge] 
+categories: [Pacari]
+
 ---
 
 (Note: la tablette que j’essaie est trop vieille et le chocolat s’est abîmé dans le temps. Je vais tenter de passer par dessus et d’imaginer une tablette fraîche – mais l’évaluation en pâtit évidemment, autant dans la texture que le goût.)

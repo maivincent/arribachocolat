@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Republica del Cacao - Duel de chocolat: Manabi vs Ecuador - 75% Fine Cacao"
-tags: [Republica del Cacao, Dark, Pure] 
+tags: [Dark, Pure] 
+categories: [Republica del Cacao]
+
 ---
 
 

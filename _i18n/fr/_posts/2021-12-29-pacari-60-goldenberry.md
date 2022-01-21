@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Chocolate Organico con Uvilla – Goldenberry - 60% Cacao"
-tags: [Pacari, Noir, Goldenberry] 
+title:  "Pacari - Chocolate Organico con Uvilla – Goldenberry - 60% Cacao"
+tags: [Noir, Goldenberry] 
+categories: [Pacari]
 ---
 
 L’ “uvilla”, ou “cerise de l’Inca”, est un fruit andin qui ressemble à la cerise de terre. Un petit peu sucrés, assez acides, et doucement croustillants, les morceaux d’uvilla parsemés dans ce chocolat se combinent avec la qualité du chocolat noir pour le plaisir des papilles. Une des meilleures combinaison de Pacari.

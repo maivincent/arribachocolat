@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Republica del Cacao - Single Origin Amazonia - 75% Fine Cacao"
-tags: [Republica del Cacao, Noir, Pur] 
+tags: [Noir, Pur] 
+categories: [Republica del Cacao]
+
 ---
 
 

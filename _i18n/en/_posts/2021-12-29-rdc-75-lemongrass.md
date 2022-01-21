@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Republica del Cacao - Single Origin 75% Fine Cacao - Dark Chocolate with Lemongrass"
-tags: [Republica del Cacao, Dark, Hierbaluisa] 
+tags: [Dark, Hierbaluisa] 
+categories: [Republica del Cacao]
+
 ---
 
 The hierbaluisa is an aromatic plant of South America, also called verbena of Peru whose taste resembles very much the citronella. In this chocolate, the taste of cocoa rather intense at the beginning quickly settles in the background. It then complements the tangy and lemony taste of the aromatic herb. The interactions between the two flavors make for complexity, to the detriment of the cocoa taste.

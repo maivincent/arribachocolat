@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Raw Chocolate Organico - 70% Cacao"
-tags: [Pacari, Dark, Pure] 
+title:  "Pacari - Raw Chocolate Organico - 70% Cacao"
+tags: [Dark, Pure] 
+categories: [Pacari]
 ---
 
 This is completely Pacari chocolate. It seems to me that this is the same base from which chocolates with other ingredients are made (except that here it is 70% instead of 60%).

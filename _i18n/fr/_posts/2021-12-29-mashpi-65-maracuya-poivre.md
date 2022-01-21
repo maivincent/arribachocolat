@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Mashpi - Chocolate Organico 65% Cacao con Maracuya y Pimiento Negro"
-tags: [Mashpi, Noir, Maracuya, Poivre] 
+tags: [Noir, Maracuya, Poivre] 
+categories: [Mashpi]
+
 ---
 
 

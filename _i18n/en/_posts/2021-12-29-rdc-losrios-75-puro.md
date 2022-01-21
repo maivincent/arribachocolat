@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Republica del Cacao - Single Origin Provincia Los Rios - 75% Fine Cacao"
-tags: [Republica del Cacao, Dark, Pure] 
+tags: [Dark, Pure] 
+categories: [Republica del Cacao]
+
 ---
 
 

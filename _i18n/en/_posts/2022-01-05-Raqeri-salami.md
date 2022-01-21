@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "RaqEri - Salami de chocolate clasico - 75% cacao"
-tags: [Raqeri, Salami, Macadam, Cranberry, Almonds, Sunflower] 
+tags: [Salami, Macadam, Cranberry, Almonds, Sunflower] 
+categories: [Raqeri]
+
 ---
 
 It's not chocolate! But it is a special product: it is a cocoa salami. I believe it is an Italian recipe... in any case, it is made from Ecuadorian chocolate.

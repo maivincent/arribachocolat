@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Republica del Cacao - Single Origin – 40% Fine Cacao - Milk chocolate"
-tags: [Republica del Cacao, Milk, Pure] 
+tags: [Milk, Pure] 
+categories: [Republica del Cacao]
+
 ---
 
 I have always loved milk chocolate. As a child, and even as an adult before I knew about cocoa arriba, I did not like dark chocolate. But for the last few years, I've had more trouble: I can't find the subtlety of the cocoa in it, which seems to be hidden by the sweetness of the milk.

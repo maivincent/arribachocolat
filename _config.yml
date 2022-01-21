@@ -17,8 +17,8 @@ title: Arriba Chocolat
 email: vmside@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Le défi d'une vie: goûter à toutes les barres de chocolat faites à partir des meilleures fèves de cacao qui soient: le cacao fino d'aroma d'Équateur.
-baseurl: "/arribachocolat" # the subpath of your site, e.g. /blog
-copybaseurl: "/arribachocolat"
+baseurl: "" # the subpath of your site, e.g. /blog
+copybaseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings

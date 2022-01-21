@@ -21,7 +21,7 @@ L'espèce de cacao Sacha est relativement nouvelle. Développée par la compagni
 
 1. Retirer les grains de cacao de la cosse, avec la pulpe blanche qui les entoure.
 2. Fermenter dans des feuilles de bananes pour utiliser le sucre de la pulpe (cette étape est facultative).
-3. Faire sécher au soleil (parfois, on les fait plutôt grillées pour accélerer le processus). La pulpe peut être conservée pour donner un goût plus doux.
+3. Faire sécher au soleil (parfois, on les fait plutôt griller pour accélerer le processus). La pulpe peut être conservée pour donner un goût plus doux.
 4. Broyer les grains secs et séparer la peau des morceaux de graines de cacao avec un ventilateur (la peau s’envole).
 5. Ici, deux choix. 
 	1. On écrase les morceaux avec une presse hydraulique, ce qui donne d’un côté le beurre de cacao, et de l’autre la pâte avec 20% de gras pour faire de la poudre à chocolat chaud 

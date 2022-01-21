@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Raw Chocolate Organico - 100% Cacao"
-tags: [Pacari, Noir, Pur] 
+title:  "Pacari - Raw Chocolate Organico - 100% Cacao"
+tags: [Noir, Pur] 
+categories: [Pacari]
+
 ---
 
 Comme beaucoup de chocolats 100% cacao, cette tablette a en bouche une présence puissante et marquée, mais qui, comme souvent avec le cacao arriba, n’est pas particulièrement amère. Pacari réussit cependant à éviter un piège commun au 100%: ce chocolat est moins pâteux que ses semblables.

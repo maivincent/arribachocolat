@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "RaqEri - Salami de chocolate clasico - 75% cacao"
-tags: [Raqeri, Salami, Macadam, Canneberge, Amande, Tournesol] 
+tags: [Salami, Macadam, Canneberge, Amande, Tournesol] 
+categories: [RaqEri]
+
 ---
 
 Ce n'est pas du chocolat! Mais un produit un peu spécial: il s'agit d'un salami de cacao. Je crois comprendre que c'est une recette italienne... en tout cas, c'est fait à partir de chocolat équatorien.

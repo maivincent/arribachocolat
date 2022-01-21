@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Republica del Cacao - Single Origin – 40% Fine Cacao - Milk chocolate"
-tags: [Republica del Cacao, Lait, Pur] 
+tags: [Lait, Pur] 
+categories: [Republica del Cacao]
 ---
 
 J’ai toujours adoré le chocolat au lait. Enfant, et même adulte avant de connaître le cacao arriba, je n’aimais pas le chocolat noir. Mais depuis quelques années, j’ai plus de mal: je n’y trouve plus la subtilité du cacao, qui me semble cachée par la douceur du lait.

@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Mindo Chocolate - 77% Macadamia"
-tags: [Mindo Chocolate Makers, Dark, Macadam] 
+tags: [Dark, Macadam] 
+categories: [Mindo Chocolate Makers]
+
 ---
 
 

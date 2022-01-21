@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Single Region Fine Chocolate - Los Rios 72% Cacao"
-tags: [Pacari, Dark, Pure] 
+title:  "Pacari - Single Region Fine Chocolate - Los Rios 72% Cacao"
+tags: [Dark, Pure] 
+categories: [Pacari]
 ---
 
 Despite its high percentage, this chocolate is more subtle than full-bodied. Woody and round in the first moments, it delivers at the very end some fruity and acidulous notes - it seems to me the characteristic of Pacari chocolates. It's a very present, well marked taste, which arrives slowly on the tongue and spreads quietly in the whole mouth.

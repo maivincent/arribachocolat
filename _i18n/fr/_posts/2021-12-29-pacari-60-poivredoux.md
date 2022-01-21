@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Chocolate Organico con Esencia de Pimienta Dulce – Allspice - 60% Cacao"
-tags: [Pacari, Noir, Poivre] 
+title:  "Pacari - Chocolate Organico con Esencia de Pimienta Dulce – Allspice - 60% Cacao"
+tags: [Noir, Poivre] 
+categories: [Pacari]
+
 ---
 
 Pacari fait avec ce chocolat le pari du poivre doux. C’est gagné: sans qu’il pique, on sent le parfum du poivre se mélanger avec fougue à celui du chocolat. Les deux saveurs sont sur le même front; elles se mêlent néanmoins surprenament bien, de façon à ce qu’on puisse difficilement distinguer l’une de l’autre. C’est là la force de cette tablette: l’équilibre atteint donne l’impression de goûter quelque chose de nouveau, au milieu d’un spectre qui serait continu entre le poivre et le cacao.

@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Republica del Cacao - Single Origin Provincia Los Rios - 52% Dark Milk chocolate"
-tags: [Republica del Cacao, Lait, Pur] 
+tags: [Lait, Pur] 
+categories: [Republica del Cacao]
+
 ---
 
 C’est un chocolat un peu plus intéressant que le 40% au lait. On y sent suffisamment de cacao pour déceler les touches caractéristiques de Republica del Cacao. Malgré cela, le lait efface toujours les notes subtiles qui font la valeur particulière du cacao arriba. C’est dommage, même si il s’agit d’un chocolat très agréable, et de bonne qualité. 

@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Chocolate Organico con Esencia de Naranja – Orange - 60% Cacao"
-tags: [Pacari, Noir, Orange] 
+title:  "Pacari - Chocolate Organico con Esencia de Naranja – Orange - 60% Cacao"
+tags: [Noir, Orange] 
+categories: [Pacari]
+
 ---
 
 Quoi de plus classique de le chocolat à l’orange? Pacari s’y donne à coeur joie, avec un produit plus doux et sucré que son cousin à l’orange amère. Ici, pas d’acidité: c’est un goût rond et réconfortant dans une texture lisse et fondante. 

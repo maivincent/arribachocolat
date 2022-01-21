@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Pepas de cacao cubiertas con chocolate – Gengibre"
-tags: [Pacari, Dark, Ginger, Cocoa nibs] 
+title:  "Pacari - Pepas de cacao cubiertas con chocolate – Gengibre"
+tags: [Dark, Ginger, Cocoa nibs] 
+categories: [Pacari]
 ---
 
 _In addition to the traditional chocolate bars, Pacari offers small delicacies to be nibbled one by one: cocoa nibs covered with chocolate. Dusted with cinnamon, they are left to melt in the mouth until only the crunchy, slightly bitter, pure cocoa piece remains inside. Pacari offers three flavors: natural, banana, and ginger._

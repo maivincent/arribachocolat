@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Republica del Cacao - Single Origin 75% Fine Cacao - Dark Chocolate with Lemongrass"
-tags: [Republica del Cacao, Noir, Hierbaluisa] 
+tags: [Noir, Hierbaluisa] 
+categories: [Republica del Cacao]
+
 ---
 
 L’hierbaluisa est une plante aromatique d’Amérique du Sud, aussi appelée verveine du Pérou dont le goût ressemble beaucoup à la citronelle. Dans ce chocolat, le goût du cacao assez intense au début vient rapidement se ranger en arrière plan. Il vient alors complémenter le goût acidulé et citronné de l’herbe aromatique. Les interactions entre les deux saveurs tiennent lieu de complexité, au détriment de celle du goût du cacao.

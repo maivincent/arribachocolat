@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Millésime Chocolat - Équateur- Terroir Santo Domingo de Las Tsachilas - 2018 - Fèves Arriba Nacional - Noir 70%"
-tags: [Millésime, Noir, Pur] 
+tags: [Noir, Pur] 
+categories: [Millésime]
+
 ---
 
 Il faut replacer la critique de ce chocolat dans le contexte temporel. J’ai d’abord gouté ce chocolat 1) après un mauvais souvenir du prix (nous n’avions pas regardé le prix avant de l’acheter… 8$ pour 30g) et 2) pendant que je parlais à des amis équatoriens des délices du chocolat de leur pays. Ma première impression a été assez mauvaise. M’est venu avant tout un goût terreux et amer qui restait dans la bouche. Une déception qui alimentait aussi le discours que nous avions…

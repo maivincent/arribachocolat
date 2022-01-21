@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Raw Chocolate Organico - 100% Cacao"
-tags: [Pacari, Dark, Pure] 
+title:  "Pacari - Raw Chocolate Organico - 100% Cacao"
+tags: [Dark, Pure] 
+categories: [Pacari]
 ---
 
 Like many 100% cocoa chocolates, this bar has a powerful and marked presence in the mouth, but as is often the case with arriba cocoa, it is not particularly bitter. However, Pacari manages to avoid a common pitfall with 100%: this chocolate is less doughy than its counterparts.

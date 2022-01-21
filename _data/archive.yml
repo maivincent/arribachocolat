@@ -1,6 +1,9 @@
 #- type: dates
 #  title: Dates
 #  url: /dates/
+- type: categories
+  title: brands
+  url: /brands/
 - type: tags
   title: tags
   url: /tags/

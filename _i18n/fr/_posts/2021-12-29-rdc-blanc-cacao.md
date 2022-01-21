@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Republica del Cacao - White Chocolate and Fine Cacao Nibs"
-tags: [Republica del Cacao, Blanc, Cacao] 
+tags: [Blanc, Cacao] 
+categories: [Republica del Cacao]
+
 ---
 
 Celui-ci est un spécial, chocolat blanc! Une petite gaterie qui nous permet de profiter d’un plaisir gourmant sans se sentir coupable. En effet, même si ce n’est “que” du chocolat blanc, il est d’une saveur délicate et les grains de cacao, en ajoutant du croquant et un peu de corps, lui donnent à chaque bouchée la légitimité de faire partie de la collection de Republica Del Cacao.

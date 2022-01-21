@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Single Region Fine Chocolate - La Cumbia - Arauquita - 70% Cacao"
-tags: [Pacari, Noir, Pur] 
+title:  "Pacari - Single Region Fine Chocolate - La Cumbia - Arauquita - 70% Cacao"
+tags: [Noir, Pur] 
+categories: [Pacari]
+
 ---
 
 Ce chocolat n’est pas équatorien mais colombien – cependant, comme il est fait par Pacari, on fera ici une exception!

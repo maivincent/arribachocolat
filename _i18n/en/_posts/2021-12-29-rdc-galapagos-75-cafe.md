@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Republica del Cacao - Single Origin Galapagos – 75% Fine Cacao - Coffee Nibs"
-tags: [Republica del Cacao, Dark, Coffee] 
+tags: [Dark, Coffee] 
+categories: [Republica del Cacao]
+
 ---
 
 One of the most bitter of the Republica del Cacao collection. As someone who is not a coffee fan, I really like how the chocolate taste surrounds the coffee bits.
