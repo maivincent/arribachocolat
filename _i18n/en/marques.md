@@ -1,6 +1,6 @@
 ## The big names
 
-If you ask an Ecuadorian to name a brand of chocolate from their country, you will receive one of two answers: Pacari, or Republica del Cacao. These two companies are the driving force behind Ecuador's effort to take its place among the leading fine chocolate producing countries.
+If you ask an Ecuadorian to name a brand of fine chocolate from their country, you will receive one of two answers: Pacari, or Republica del Cacao. These two companies are the driving force behind Ecuador's effort to take its place among the leading fine chocolate producing countries.
 Stores in airports and shopping malls, cafes and restaurants, by-products, sales in supermarkets and pharmacies, and international exports: these two companies are the pioneers, the most famous and the proof of this chocolate's potential.
 
 
@@ -44,6 +44,9 @@ In the steps of Pacari and Republica del Cacao, several companies have establish
 
 ### La Leyenda del Chocolate
 [La Leyenda del Chocolate](http://chocoleyenda.com/) is yet to be discovered - I haven't bought a bar from this brand yet!
+
+### Arawi
+[Arawi](https://www.arawicacao.com/) is a company founded in 2010 in Cuenca, which produces several types of bars of organic aroma nacional fino cocoa. You can find their bars in Supermaxi and Coral supermarkets, among others. 
 
 
 ## From Mindo
@@ -122,6 +125,8 @@ These chocolates have all won awards in 2021, so I think it's a very new brand. 
 ### RaqEri
 [RaqEri](https://www.facebook.com/RAQERICACAO/) is a very small brand that produces cocoa products like salami and cocoa tea. I found it in a small Christmas fair of 2021 in Quito. 
 
+### Chicao
+[Chicao (https://www.facebook.com/chicaochocolate/) is a small tourist farm around the Silanche River, near Puerto Quito, on the slopes of the Andes that descend to the Pacific coast. They use agroforestry, that is to say the cultivation of cocoa in the forest, in order to enrich their chocolate with the aromas of the woods. Chicao is also a center for the study of arriba cocoa, and is sometimes visited by local and international universities and colleges. The name Chicao comes from a beautiful yellow bird of the cloud forest, the black and gold oriole.
 
 ## Foreign brands
 Ecuador's fino d'aroma cocoa has long been known outside its borders. Here are some brands that use it.

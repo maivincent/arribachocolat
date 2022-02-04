@@ -1,7 +1,7 @@
 
 ## Les grands noms
 
-Si vous demandez à un.e Équatorien.ne de vous nommer une marque de chocolat de son pays, vous recevrez une de ces deux réponses: Pacari, ou Republica del Cacao. Ces deux compagnies sont le moteur de l'effort de l'Équateur, afin de prendre sa place au sein des principaux pays producteurs de chocolats fins.
+Si vous demandez à un.e Équatorien.ne de vous nommer une marque de chocolat fin de son pays, vous recevrez une de ces deux réponses: Pacari, ou Republica del Cacao. Ces deux compagnies sont le moteur de l'effort de l'Équateur, afin de prendre sa place au sein des principaux pays producteurs de chocolats fins.
 Des boutiques dans les aéroports et les centres commerciaux, des cafés et restaurants, des produits dérivés, des ventes en supermarché et en pharmacie, et une exportation à l'international: ces deux compagnies sont les pionnières, les plus connues et l'exemple du succès de ce chocolat.
 
 
@@ -44,6 +44,10 @@ Dans le sillage de Pacari et Republica del Cacao, plusieurs entreprises se sont 
 
 [Valdivian](https://www.facebook.com/ValdivianChocolate) doit son nom à une des plus vieilles civilisations d'Équateur, qui vivait sur la côte ouest, proche de Guayaquil. Ils utilisent du cacao arriba biologique provenant de plusieurs régions, et distribuent leurs barres dans tous les SuperMaxi.
 
+### Arawi
+
+[Arawi](https://www.arawicacao.com/) est une compagnie fondée en 2010 à Cuenca, qui produit plusieurs types de barres de cacao nacional fino d'aroma biologique. On peut trouver leurs barres entre autres aux supermarchés Supermaxi et Coral. 
+
 ### La Leyenda del Chocolate
 [La Leyenda del Chocolate](http://chocoleyenda.com/) est à découvrir - je n'ai encore pas acheté de barre de cette marque!
 
@@ -51,7 +55,7 @@ Dans le sillage de Pacari et Republica del Cacao, plusieurs entreprises se sont 
 
 Situées dans la vallée de Mindo, entre les orquidées, les colibris et les papillons, trois chocolatiers proposent des visites et dégustations.
 Chacun a ses producteurs de cacao, un peu plus bas vers la côte. Nous avons visité [El Quetzal – Mindo Chocolate](http://www.elquetzaldemindo.com/). On nous y a présenté les cosses dorées du cacao “fino d’aroma” (arriba), en comparaison des cosses rouges du fino vénézuelien et brunes du cacao “Forastero”, qui pousse plus vite et produit plus, mais dont la saveur est moins fine et les arbres durent moins longtemps.
-Nous avons pu voir les [étapes de la production du chocolat](/cocoa_fr.md#la-fabrication-du-chocolat), et y gouter à plusieurs étapes (la pâte pure sans sucre, c’est vraiment pas très bon! C’est amer mais surtout c’est farineux et ça assèche la bouche) et ensuite acheter quelques tablettes… Nous avons aussi pu acheter des tablettes chez les autres chocolatiers: Mashpi et Yumbos. 
+Nous avons pu voir les [étapes de la production du chocolat](/cacao#la-fabrication-du-chocolat), et y gouter à plusieurs étapes (la pâte pure sans sucre, c’est vraiment pas très bon! C’est amer mais surtout c’est farineux et ça assèche la bouche) et ensuite acheter quelques tablettes… Nous avons aussi pu acheter des tablettes chez les autres chocolatiers: Mashpi et Yumbos. 
 
 ### Mindo Chocolate Makers
 
@@ -92,7 +96,7 @@ De ce que j'ai compris, Cleotilde Gascon est une mexicaine établie à Quito, qu
 
 ### Yaussa
 
-Rencontrée dans une foire de Noël, la ferme touristique [Yaussa](https://yaussa.com/) est située à Puerto Quito et propose, entre autres produits, deux tablettes de chocolat arriba et du chocolat 100% pour la cuisine. Nous l'avons trouvée dans une foire de Noël à Cumbaya, en 2021.
+La ferme touristique [Yaussa](https://yaussa.com/) est située à Puerto Quito et propose, entre autres produits, deux tablettes de chocolat arriba et du chocolat 100% pour la cuisine. Nous l'avons trouvée dans une foire de Noël à Cumbaya, en 2021.
 
 ### Chaman Ecuador
 
@@ -119,8 +123,10 @@ Ces chocolats ont tous été primés en 2021. Je crois donc que c'est une marque
 [Teaone](https://teaone.ec/) est une petite production familiale, établie au bord de la riviève Teaone dans l'écosystème unique du Choco Andin, proche de la ville d'Esmeraldas et de l'océan Pacifique. Ils ont d'ailleurs une boutique entre deux stations balnéaires sur le bord de l'eau, à Playa Escondida. En décembre 2021, on a trouvé leurs barres au magasin [Wayuro Organico](https://www.facebook.com/wayruro.organico/) à Quito.
 
 ### RaqEri
-[RaqEri](https://www.facebook.com/RAQERICACAO/) est une toute petie marque qui produit des produits de cacao comme du salami et du thé de cacao. Je l'ai trouvée dans une petite foire de Noël de 2021 à Quito. 
+[RaqEri](https://www.facebook.com/RAQERICACAO/) est une toute petite marque qui produit des produits de cacao comme du salami et du thé de cacao. Je l'ai trouvée dans une petite foire de Noël de 2021 à Quito. 
 
+### Chicao
+[Chicao](https://www.facebook.com/chicaochocolate/) est une petite ferme touristique autour de la rivière Silanche, proche de Puerto Quito, sur le flanc des Andes qui descendent vers la côte Pacifique. Ils utilisent l'agroforesterie, c'est à dire la cultivation du cacao en forêt, afin d'enrichir leurs chocolat des arômes de la forêt. Chicao se veut aussi un centre d'étude du cacao arriba, et sont parfois visités par des universités et collèges locaux et internationaux. Le nom de Chicao vient d'un joli oiseau jaune de la forêt de nuages, l'oriole noir et or.
 
 ## Les marques étrangères
 Le cacao fino d'aroma d'Équateur est connu depuis longtemps en dehors de ses frontières. Voici donc quelques marques qui l'utilisent.

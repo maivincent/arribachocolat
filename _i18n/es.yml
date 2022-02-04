@@ -1,0 +1,17 @@
+global:
+  french: Français
+  english: English
+  espagnol: Español
+  contenu: Contenido
+titles:
+  about: Sobre nosotros
+  marques: Marcas de chocolate
+  cocoa: El chocolate ecuatoriano
+  home: Arriba Chocolat
+  english: English
+  tags: Buscar por sabor
+  brands: Buscar por marca
+  older: Más antiguo
+  newer: Más reciente
+text:
+  description: "El reto de una vida: probar todas las tabletas de chocolate elaboradas con los mejores granos de cacao que existen, el cacao fino de aroma de Ecuador"

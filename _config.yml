@@ -35,7 +35,7 @@ remote_theme: vszhub/not-pure-poole
 
 paginate: 5
 
-languages: ["fr","en"]
+languages: ["fr","en","es"]
 
 exclude_from_localizations: []
 

@@ -1,6 +1,7 @@
 global:
   french: Français
   english: English
+  espagnol: Español
   contenu: Contenu
 pages:
   about: À propos
@@ -12,7 +13,6 @@ titles:
   marques: Marques de chocolat
   cocoa: Le chocolat Équatorien
   home: Arriba Chocolat
-  english: English
   tags: Chercher par type
   brands: Chercher par marque
   older: Plus ancien
