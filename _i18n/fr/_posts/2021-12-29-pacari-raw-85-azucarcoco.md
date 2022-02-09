@@ -14,7 +14,7 @@ Un chocolat pour les amateurs et amatrices avisées, qui recherchent l’intensi
 _Unicité_: 4  
 _Finesse_: 4.5  
 _Confort_: 4  
-_Puissance_: 5  
+_Intensité_: 5  
 _Impression générale_: 4
 
 **Note finale**: 21.5/25

@@ -16,7 +16,7 @@ En bref, un bon chocolat, qui démontre par sa saveur et sa texture la variété
 _Unicité_: 5
 _Finesse_: 4.5  
 _Confort_: 3.5
-_Puissance_: 4  
+_Intensité_: 4  
 _Impression générale_: 4
 
 **Note finale**: 21/25

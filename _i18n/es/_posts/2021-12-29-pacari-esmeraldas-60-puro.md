@@ -16,7 +16,7 @@ Nota: Esmeraldas es una extensa región al noroeste de Quito, que se extiende de
 _Originalidad_: 5  
 _Fineza_: 5  
 _Reconfortante_: 5  
-_Potencia_: 4  
+_Intensidad_: 4  
 _Impresión general_: 5
 
 **Evaluación final**: 24/25

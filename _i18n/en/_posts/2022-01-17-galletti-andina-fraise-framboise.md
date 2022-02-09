@@ -16,7 +16,7 @@ It's hard to appreciate the finesse of aroma fino cacao with this bar, but it's 
 _Uniqueness_: 4.5  
 _Finesse_: 3.5  
 _Comfort_: 5  
-_Power_: 4.5  
+_Intensity_: 4.5  
 _General impression_: 4
 
 **Final evaluation**: 21.5/25

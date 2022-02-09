@@ -15,7 +15,7 @@ Malgré sa texture particulière, il est bien agréable.
 _Unicité_: 4  
 _Finesse_: 4.5  
 _Confort_: 4  
-_Puissance_: 3.5  
+_Intensité_: 3.5  
 _Impression générale_: 4
 
 **Note finale**: 20/25

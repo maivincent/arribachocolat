@@ -14,7 +14,7 @@ In itself, it is a very pleasant chocolate, although it should be reserved for t
 _Uniqueness_: 4.5  
 _Finesse_: 4.5  
 _Comfort_: 3.5  
-_Power_: 5  
+_Intensity_: 5  
 _General impression_: 4.5
 
 **Final evaluation**: 22/25

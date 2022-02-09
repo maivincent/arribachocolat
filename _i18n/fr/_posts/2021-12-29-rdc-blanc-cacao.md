@@ -14,7 +14,7 @@ Une bonne idée pour changer un peu!
 _Unicité_: 3.5  
 _Finesse_: 4  
 _Confort_: 5  
-_Puissance_: 3.5  
+_Intensité_: 3.5  
 _Impression générale_: 4
 
 **Note finale**: 20/25

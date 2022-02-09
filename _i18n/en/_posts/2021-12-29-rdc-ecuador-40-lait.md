@@ -14,7 +14,7 @@ This chocolate from Republica del Cacao is a very good milk chocolate: soft, smo
 _Uniqueness_: 3  
 _Finesse_: 3.5  
 _Comfort_: 5  
-_Power_: 4  
+_Intensity_: 4  
 _General impression_: 4
 
 **Final evaluation**: 19.5/25

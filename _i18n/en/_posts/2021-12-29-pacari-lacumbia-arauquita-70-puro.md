@@ -19,7 +19,7 @@ Note: this chocolate won gold at the International Chocolate Awards 2019 in the 
 _Uniqueness_: 5  
 _Finesse_: 4  
 _Comfort_: 4.5  
-_Power_: 5  
+_Intensity_: 5  
 _General impression_: 4.5
 
 **Final evaluation**: 23/25

@@ -15,7 +15,7 @@ Un chocolate único por su triple combinación, con la buena intuición de integ
 _Originalidad_: 5  
 _Fineza_: 5  
 _Reconfortante_: 5  
-_Potencia_: 4.5  
+_Intensidad_: 4.5  
 _Impresión general_: 5
 
 **Evaluación final**: 24.5/25

@@ -20,7 +20,7 @@ Nota: este chocolate ganó el oro en los International Chocolate Awards 2019 en 
 _Originalidad_: 5  
 _Fineza_: 4  
 _Reconfortante_: 4.5  
-_Potencia_: 5  
+_Intensidad_: 5  
 _Impresión general_: 4.5
 
 **Evaluación final**: 23/25

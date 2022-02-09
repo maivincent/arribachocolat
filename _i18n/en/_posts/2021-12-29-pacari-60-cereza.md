@@ -15,7 +15,7 @@ So we have a chocolate that is very normal for Pacari - its base is always excel
 _Uniqueness_: 3.5  
 _Finesse_: 4  
 _Comfort_: 4  
-_Power_: 4  
+_Intensity_: 4  
 _General impression_: 3.5
 
 **Final evaluation**: 19/25

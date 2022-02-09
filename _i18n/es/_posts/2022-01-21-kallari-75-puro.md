@@ -16,7 +16,7 @@ Es sin duda un chocolate grande, fino y único, sin embargo, le falta un poco de
 _Originalidad_: 5  
 _Fineza_: 4.5  
 _Reconfortante_: 4  
-_Potencia_: 4.5  
+_Intensidad_: 4.5  
 _Impresión general_: 4.5
 
 **Evaluación final**: 22.5/25

@@ -15,7 +15,7 @@ Note: Esmeraldas is a large region northwest of Quito, and it runs from the Paci
 _Uniqueness_: 5  
 _Finesse_: 5  
 _Comfort_: 5  
-_Power_: 4  
+_Intensity_: 4  
 _General impression_: 5
 
 **Final evaluation**: 24/25

@@ -14,7 +14,7 @@ Un chocolate que destaca por su intensidad y amargor, para los que les gusta est
 _Originalidad_: 4.5  
 _Fineza_: 4  
 _Reconfortante_: 4  
-_Potencia_: 5  
+_Intensidad_: 5  
 _Impresión general_: 4.5
 
 **Evaluación final**: 22/25

@@ -15,7 +15,7 @@ Nota: al tratarse de un chocolate que sólo contiene cacao, azúcar y frutos sec
 _Originalidad_: 5  
 _Fineza_: 5  
 _Reconfortante_: 5  
-_Potencia_: 5  
+_Intensidad_: 5  
 _Impresión general_: 5
 
 **Evaluación final**: 25/25

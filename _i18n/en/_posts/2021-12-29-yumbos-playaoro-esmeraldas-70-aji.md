@@ -19,7 +19,7 @@ In the end, it's a good chocolate, but it's difficult to fully appreciate becaus
 _Uniqueness_: 4.5  
 _Finesse_: 4  
 _Comfort_: 3.5  
-_Power_: 3.5  
+_Intensity_: 3.5  
 _General impression_: 4
 
 **Final evaluation**: 19.5/25

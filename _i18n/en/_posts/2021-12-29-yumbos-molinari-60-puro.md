@@ -19,7 +19,7 @@ In short, a good chocolate, which demonstrates by its flavor and texture the var
 _Uniqueness_: 5  
 _Finesse_: 4.5  
 _Comfort_: 3.5  
-_Power_: 4  
+_Intensity_: 4  
 _General impression_: 4
 
 **Final evaluation**: 21/25

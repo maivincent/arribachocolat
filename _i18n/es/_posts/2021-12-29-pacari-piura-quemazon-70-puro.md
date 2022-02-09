@@ -21,7 +21,7 @@ Por lo tanto, es una opción ideal para completar una colección de chocolates d
 _Originalidad_: 4  
 _Fineza_: 5  
 _Reconfortante_: 5  
-_Potencia_: 5  
+_Intensidad_: 5  
 _Impresión general_: 5
 
 **Evaluación final**: 24/25

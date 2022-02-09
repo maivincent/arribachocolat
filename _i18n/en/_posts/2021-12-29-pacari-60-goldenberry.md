@@ -12,7 +12,7 @@ The "uvilla", or "Inca cherry", is an Andean fruit that resembles the ground che
 _Uniqueness_: 4  
 _Finesse_: 4  
 _Comfort_: 5  
-_Power_: 4.5  
+_Intensity_: 4.5  
 _General impression_: 4.5
 
 **Final evaluation**: 22/25

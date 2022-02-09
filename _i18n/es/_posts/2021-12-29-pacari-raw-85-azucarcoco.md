@@ -15,7 +15,7 @@ Un chocolate para el conocedor exigente, que busca la intensidad de un chocolate
 _Originalidad_: 4  
 _Fineza_: 4.5  
 _Reconfortante_: 4  
-_Potencia_: 5  
+_Intensidad_: 5  
 _Impresión general_: 4
 
 **Evaluación final**: 21.5/25

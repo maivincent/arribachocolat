@@ -12,7 +12,7 @@ Ahora está claro que la pasta de chocolate de Mindo es una de mis favoritas. En
 _Originalidad_: 4.5  
 _Fineza_: 4.5  
 _Reconfortante_: 5  
-_Potencia_: 5  
+_Intensidad_: 5  
 _Impresión general_: 5
 
 **Evaluación final**: 24/25

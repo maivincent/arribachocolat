@@ -17,7 +17,7 @@ Con este chocolate, Lindt no consigue estar a la altura de la calidad del chocol
 _Originalidad_: 3  
 _Fineza_: 3.5  
 _Reconfortante_: 4  
-_Potencia_: 3.5  
+_Intensidad_: 3.5  
 _Impresión general_: 3.5
 
 **Evaluación final**: 17.5/25

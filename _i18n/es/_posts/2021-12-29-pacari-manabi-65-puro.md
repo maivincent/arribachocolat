@@ -14,7 +14,7 @@ Este es un chocolate que golpea fuerte desde el primer segundo. Su carácter bie
 _Originalidad_: 5  
 _Fineza_: 4.5  
 _Reconfortante_: 4.5  
-_Potencia_: 5  
+_Intensidad_: 5  
 _Impresión general_: 4.5
 
 **Evaluación final**: 23.5/25

@@ -16,7 +16,7 @@ I wouldn't go so far as to say that this is the finest chocolate from Ecuador. B
 _Uniqueness_: 4.5  
 _Finesse_: 4  
 _Comfort_: 4.5  
-_Power_: 4  
+_Intensity_: 4  
 _General impression_: 4.5
 
 **Final evaluation**: 21.5/25

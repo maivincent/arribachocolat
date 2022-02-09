@@ -16,7 +16,7 @@ A good quality chocolate, but perhaps not as fine as others in this list.
 _Uniqueness_: 3  
 _Finesse_: 4  
 _Comfort_: 4.5  
-_Power_: 4.5  
+_Intensity_: 4.5  
 _General impression_: 4
 
 **Final evaluation**: 20/25

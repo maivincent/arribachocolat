@@ -18,7 +18,7 @@ Au final, c’est un bon chocolat, mais qui est difficile à apprécier pleineme
 _Unicité_: 4.5  
 _Finesse_: 4  
 _Confort_: 3.5  
-_Puissance_: 3.5  
+_Intensité_: 3.5  
 _Impression générale_: 4
 
 **Note finale**: 19.5/25

@@ -15,7 +15,7 @@ Un chocolat de bonne qualité donc, mais qui n’a peut-être pas autant de fine
 _Unicité_: 3  
 _Finesse_: 4  
 _Confort_: 4.5  
-_Puissance_: 4.5  
+_Intensité_: 4.5  
 _Impression générale_: 4
 
 **Note finale**: 20/25

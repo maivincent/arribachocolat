@@ -17,7 +17,7 @@ C'est sans aucun doute un grand chocolat, fin, et unique, cependant, qui manque 
 _Unicité_: 5  
 _Finesse_: 4.5  
 _Confort_: 4  
-_Puissance_: 4.5  
+_Intensité_: 4.5  
 _Impression générale_: 4.5
 
 **Note finale**: 22.5/25

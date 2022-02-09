@@ -15,7 +15,7 @@ Nota: este chocolate ganó el Premio de Plata en los International Chocolate Awa
 _Originalidad_: 5  
 _Fineza_: 4.5  
 _Reconfortante_: 4.5  
-_Potencia_: 4.5  
+_Intensidad_: 4.5  
 _Impresión general_: 4.5
 
 **Evaluación final**: 23/25

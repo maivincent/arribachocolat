@@ -16,7 +16,7 @@ El sabor del arándano suele ser pronunciado: ácido, amargo y dulce. Aquí, por
 _Originalidad_: 4  
 _Fineza_: 4  
 _Reconfortante_: 4.5  
-_Potencia_: 4  
+_Intensidad_: 4  
 _Impresión general_: 4
 
 **Evaluación final**: 20.5/25

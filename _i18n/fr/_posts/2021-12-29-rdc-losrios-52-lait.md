@@ -14,7 +14,7 @@ Il me semble que c’est le chocolat de base de plusieurs tablettes de RdC qui l
 _Unicité_: 3.5  
 _Finesse_: 4  
 _Confort_: 5  
-_Puissance_: 4  
+_Intensité_: 4  
 _Impression générale_: 4
 
 **Note finale**: 20.5/25

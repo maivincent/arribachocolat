@@ -13,7 +13,7 @@ Este chocolate es sabroso y robusto. Comienza con un sabor a té, con pequeñas 
 _Originalidad_: 4  
 _Fineza_: 4  
 _Reconfortante_: 5  
-_Potencia_: 4.5  
+_Intensidad_: 4.5  
 _Impresión general_: 4.5
 
 **Evaluación final**: 22/25

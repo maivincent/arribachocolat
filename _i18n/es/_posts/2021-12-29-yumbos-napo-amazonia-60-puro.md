@@ -17,7 +17,7 @@ A pesar de su particular textura, es bastante agradable.
 _Originalidad_: 4  
 _Fineza_: 4.5  
 _Reconfortante_: 4  
-_Potencia_: 3.5  
+_Intensidad_: 3.5  
 _Impresión general_: 4
 
 **Evaluación final**: 20/25

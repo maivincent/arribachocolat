@@ -18,7 +18,7 @@ With this chocolate, Lindt does not manage to honor the quality of arriba cacao.
 _Uniqueness_: 3  
 _Finesse_: 3.5  
 _Comfort_: 4  
-_Power_: 3.5  
+_Intensity_: 3.5  
 _General impression_: 3.5
 
 **Final evaluation**: 17.5/25

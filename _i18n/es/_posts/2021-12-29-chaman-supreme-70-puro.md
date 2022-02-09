@@ -15,7 +15,7 @@ Un chocolate de buena calidad, pero quizás no tan fino como otros de esta lista
 _Originalidad_: 3  
 _Fineza_: 4  
 _Reconfortante_: 4.5  
-_Potencia_: 4.5  
+_Intensidad_: 4.5  
 _Impresión general_: 4
 
 **Evaluación final**: 20/25

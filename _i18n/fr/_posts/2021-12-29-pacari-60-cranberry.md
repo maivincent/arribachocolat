@@ -18,7 +18,7 @@ Est-ce que c’est un chocolat extraordinaire? Non. Mais c’est une valeur sure
 _Unicité_: 4  
 _Finesse_: 4  
 _Confort_: 4.5  
-_Puissance_: 4  
+_Intensité_: 4  
 _Impression générale_: 4
 
 **Note finale**: 20.5/25

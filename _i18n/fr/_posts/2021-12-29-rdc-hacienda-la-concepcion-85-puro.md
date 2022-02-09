@@ -15,7 +15,7 @@ Un chocolat qui se distingue donc par son intensité et son amertume, pour ceux 
 _Unicité_: 4.5  
 _Finesse_: 4  
 _Confort_: 4  
-_Puissance_: 5  
+_Intensité_: 5  
 _Impression générale_: 4.5
 
 **Note finale**: 22/25

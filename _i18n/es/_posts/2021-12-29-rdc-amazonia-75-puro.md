@@ -13,7 +13,7 @@ Este chocolate es uno de mis favoritos. Tiene un sabor mantecoso y un tacto cál
 _Originalidad_: 5  
 _Fineza_: 4.5  
 _Reconfortante_: 5  
-_Potencia_: 4.5  
+_Intensidad_: 4.5  
 _Impresión general_: 5
 
 **Evaluación final**: 24/25

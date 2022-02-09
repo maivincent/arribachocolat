@@ -16,7 +16,7 @@ This is definitely a great, fine, and unique chocolate, yet it lacks a bit of sm
 _Uniqueness_: 5  
 _Finesse_: 4.5  
 _Comfort_: 4  
-_Power__: 4.5  
+_Intensity__: 4.5  
 _General impression_: 4.5
 
 **Final evaluation**: 22.5/25

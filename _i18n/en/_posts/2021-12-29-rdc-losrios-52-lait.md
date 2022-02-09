@@ -16,7 +16,7 @@ I think that this is the base chocolate of several bars of Republica del Caca th
 _Uniqueness_: 3.5  
 _Finesse_: 4  
 _Comfort_: 5  
-_Power_: 4  
+_Intensity_: 4  
 _General impression_: 4
 
 **Final evaluation**: 20.5/25

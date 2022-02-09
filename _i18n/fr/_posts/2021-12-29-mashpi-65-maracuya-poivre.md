@@ -16,7 +16,7 @@ Un chocolat unique pour son mariage triple, avec la bonne intuition d’intégre
 _Unicité_: 5  
 _Finesse_: 5  
 _Confort_: 5  
-_Puissance_: 4.5  
+_Intensité_: 4.5  
 _Impression générale_: 5
 
 **Note finale**: 24.5/25

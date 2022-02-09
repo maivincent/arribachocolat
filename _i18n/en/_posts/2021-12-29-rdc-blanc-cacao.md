@@ -15,7 +15,7 @@ A good idea to change a little!
 _Uniqueness_: 3.5  
 _Finesse_: 4  
 _Comfort_: 5  
-_Power_: 3.5  
+_Intensity_: 3.5  
 _General impression_: 4
 
 **Final evaluation**: 20/25

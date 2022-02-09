@@ -16,7 +16,7 @@ Un clásico que gustará a todo el mundo, con un juego brillante en todos los fr
 _Originalidad_: 4  
 _Fineza_: 4.5  
 _Reconfortante_: 4.5  
-_Potencia_: 5  
+_Intensidad_: 5  
 _Impresión general_: 4.5
 
 **Evaluación final**: 22.5/25

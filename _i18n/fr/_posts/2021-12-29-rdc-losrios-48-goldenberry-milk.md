@@ -14,7 +14,7 @@ Une valeur sure pour tous ceux qui ont la dent sucrée!
 _Unicité_: 4  
 _Finesse_: 4.5  
 _Confort_: 5
-_Puissance_: 4.5
+_Intensité_: 4.5
 _Impression générale_: 4.5
 
 **Note finale**: 22.5/25

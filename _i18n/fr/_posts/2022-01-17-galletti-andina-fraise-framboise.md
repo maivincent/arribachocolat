@@ -15,7 +15,7 @@ Il est difficile d'apprécier la finesse du cacao fino d'aroma avec cette tablet
 _Unicité_: 4.5  
 _Finesse_: 3.5  
 _Confort_: 5  
-_Puissance_: 4.5  
+_Intensité_: 4.5  
 _Impression générale_: 4
 
 **Note finale**: 21.5/25

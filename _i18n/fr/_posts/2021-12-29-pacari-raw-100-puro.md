@@ -15,7 +15,7 @@ En soi, c’est un chocolat très agréable, bien qu’à réserver à ceux qui 
 _Unicité_: 4.5  
 _Finesse_: 4.5  
 _Confort_: 3.5  
-_Puissance_: 5  
+_Intensité_: 5  
 _Impression générale_: 4.5
 
 **Note finale**: 22/25

@@ -16,7 +16,7 @@ Sin más, es un chocolate muy agradable, aunque debe reservarse para quienes lo 
 _Originalidad_: 4.5  
 _Fineza_: 4.5  
 _Reconfortante_: 3.5  
-_Potencia_: 5  
+_Intensidad_: 5  
 _Impresión general_: 4.5
 
 **Evaluación final**: 22/25

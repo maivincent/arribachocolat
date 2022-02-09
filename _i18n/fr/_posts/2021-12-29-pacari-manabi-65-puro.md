@@ -14,7 +14,7 @@ C’est un chocolat qui frappe fort dès la première seconde. Son caractère bi
 _Unicité_: 5  
 _Finesse_: 4.5  
 _Confort_: 4.5  
-_Puissance_: 5  
+_Intensité_: 5  
 _Impression générale_: 4.5
 
 **Note finale**: 23.5/25

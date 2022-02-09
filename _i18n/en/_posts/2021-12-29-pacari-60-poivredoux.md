@@ -15,7 +15,7 @@ Note: this chocolate won the Silver Award at the International Chocolate Awards 
 _Uniqueness_: 5  
 _Finesse_: 4.5  
 _Comfort_: 4.5  
-_Power_: 4.5  
+_Intensity_: 4.5  
 _General impression_: 4.5
 
 **Final evaluation**: 23/25

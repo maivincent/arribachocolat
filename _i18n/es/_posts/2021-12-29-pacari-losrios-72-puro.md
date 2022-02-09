@@ -15,7 +15,7 @@ Este chocolate ganó el oro en los International Chocolate Awards y puedo ver po
 _Originalidad_: 4  
 _Fineza_: 5  
 _Reconfortante_: 5  
-_Potencia_: 5  
+_Intensidad_: 5  
 _Impresión general_: 4.5
 
 **Evaluación final**: 23.5/25

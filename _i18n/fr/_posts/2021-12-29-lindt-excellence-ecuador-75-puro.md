@@ -17,7 +17,7 @@ Avec ce chocolat, Lindt ne réussit pas à faire honneur à la qualité du choco
 _Unicité_: 3  
 _Finesse_: 3.5  
 _Confort_: 4  
-_Puissance_: 3.5  
+_Intensité_: 3.5  
 _Impression générale_: 3.5
 
 **Note finale**: 17.5/25

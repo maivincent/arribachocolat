@@ -14,7 +14,7 @@ Me parece que este es el chocolate base de varias barras República del Cacao qu
 _Originalidad_: 3.5  
 _Fineza_: 4  
 _Reconfortante_: 5  
-_Potencia_: 4  
+_Intensidad_: 4  
 _Impresión general_: 4
 
 **Evaluación final**: 20.5/25

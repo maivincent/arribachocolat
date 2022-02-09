@@ -12,7 +12,7 @@ Il est maintenant clair que la pâte du chocolat Mindo est une de mes préféré
 _Unicité_: 4.5  
 _Finesse_: 4.5  
 _Confort_: 5  
-_Puissance_: 5  
+_Intensité_: 5  
 _Impression générale_: 5
 
 **Note finale**: 24/25

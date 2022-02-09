@@ -16,7 +16,7 @@ En definitiva, un buen chocolate, que demuestra por su sabor y textura la varied
 _Originalidad_: 5  
 _Fineza_: 4.5  
 _Reconfortante_: 3.5  
-_Potencia_: 4  
+_Intensidad_: 4  
 _Impresión general_: 4
 
 **Evaluación final**: 21/25

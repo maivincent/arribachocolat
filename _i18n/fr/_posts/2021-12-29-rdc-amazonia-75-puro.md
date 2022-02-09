@@ -14,7 +14,7 @@ Ce chocolat est un de mes favoris. Il a un petit goût de beurre et une sensatio
 _Unicité_: 5  
 _Finesse_: 4.5  
 _Confort_: 5  
-_Puissance_: 4.5  
+_Intensité_: 4.5  
 _Impression générale_: 5
 
 **Note finale**: 24/25

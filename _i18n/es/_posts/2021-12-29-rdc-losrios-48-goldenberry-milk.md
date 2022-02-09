@@ -14,7 +14,7 @@ Un gran valor para los más golosos.
 _Originalidad_: 4  
 _Fineza_: 4.5  
 _Reconfortante_: 5  
-_Potencia_: 4.5  
+_Intensidad_: 4.5  
 _Impresión general_: 4.5
 
 **Evaluación final**: 22.5/25

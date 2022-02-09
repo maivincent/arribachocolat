@@ -21,7 +21,7 @@ C’est donc un choix idéal pour compléter une collection de chocolats de qual
 _Unicité_: 4  
 _Finesse_: 5  
 _Confort_: 5  
-_Puissance_: 5  
+_Intensité_: 5  
 _Impression générale_: 5
 
 **Note finale**: 24/25

@@ -17,7 +17,7 @@ It is a fine chocolate that deserves this appellation, but it is not the best I 
 _Uniqueness_: 4  
 _Finesse_: 4  
 _Comfort_: 3.5  
-_Power_: 3  
+_Intensity_: 3  
 _General impression_: 3.5
 
 **Final evaluation**: 18/25

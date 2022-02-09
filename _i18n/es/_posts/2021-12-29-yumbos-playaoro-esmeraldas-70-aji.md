@@ -19,7 +19,7 @@ Al final, es un buen chocolate, pero es difícil de apreciar plenamente debido a
 _Originalidad_: 4.5  
 _Fineza_: 4  
 _Reconfortante_: 3.5  
-_Potencia_: 3.5  
+_Intensidad_: 3.5  
 _Impresión general_: 4
 
 **Evaluación final**: 19.5/25

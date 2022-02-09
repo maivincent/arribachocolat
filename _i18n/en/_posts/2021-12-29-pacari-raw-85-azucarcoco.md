@@ -15,7 +15,7 @@ A chocolate for the experienced connoisseur, who is looking for the intensity of
 _Uniqueness_: 4  
 _Finesse_: 4.5  
 _Comfort_: 4  
-_Power_: 5  
+_Intensity_: 5  
 _General impression_: 4
 
 **Final evaluation**: 21.5/25

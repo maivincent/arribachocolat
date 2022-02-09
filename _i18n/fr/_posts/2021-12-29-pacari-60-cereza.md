@@ -15,7 +15,7 @@ On a donc un chocolat qui est très normal pour Pacari – sa base est toujours 
 _Unicité_: 3.5  
 _Finesse_: 4  
 _Confort_: 4  
-_Puissance_: 4  
+_Intensité_: 4  
 _Impression générale_: 3.5
 
 **Note finale**: 19/25

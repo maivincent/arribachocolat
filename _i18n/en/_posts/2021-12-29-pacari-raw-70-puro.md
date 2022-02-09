@@ -15,7 +15,7 @@ A classic that will appeal to everyone, playing brilliantly on all fronts.
 _Uniqueness_: 4  
 _Finesse_: 4.5  
 _Comfort_: 4.5  
-_Power_: 5  
+_Intensity_: 5  
 _General impression_: 4.5
 
 **Final evaluation**: 22.5/25

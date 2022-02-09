@@ -14,7 +14,7 @@ Este chocolate de Republica del Cacao es un muy buen chocolate con leche: suave,
 _Originalidad_: 3  
 _Fineza_: 3.5  
 _Reconfortante_: 5  
-_Potencia_: 4  
+_Intensidad_: 4  
 _Impresión general_: 4
 
 **Evaluación final**: 19.5/25

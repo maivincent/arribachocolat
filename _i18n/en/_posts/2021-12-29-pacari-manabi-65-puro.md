@@ -13,7 +13,7 @@ This is a chocolate that hits hard from the first second. Its well-defined chara
 _Uniqueness_: 5  
 _Finesse_: 4.5  
 _Comfort_: 4.5  
-_Power_: 5  
+_Intensity_: 5  
 _General impression_: 4.5
 
 **Final evaluation**: 23.5/25

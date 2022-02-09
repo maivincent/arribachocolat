@@ -16,7 +16,7 @@ Es un chocolate fino que merece este apelativo, pero no es, para mí, el mejor q
 _Originalidad_: 4  
 _Fineza_: 4  
 _Reconfortante_: 3.5  
-_Potencia_: 3  
+_Intensidad_: 3  
 _Impresión general_: 3.5
 
 **Evaluación final**: 18/25

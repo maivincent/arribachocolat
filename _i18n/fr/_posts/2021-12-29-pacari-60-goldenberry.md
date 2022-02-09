@@ -12,7 +12,7 @@ L’ “uvilla”, ou “cerise de l’Inca”, est un fruit andin qui ressemble
 _Unicité_: 4  
 _Finesse_: 4  
 _Confort_: 5  
-_Puissance_: 4.5  
+_Intensité_: 4.5  
 _Impression générale_: 4.5
 
 **Note finale**: 22/25

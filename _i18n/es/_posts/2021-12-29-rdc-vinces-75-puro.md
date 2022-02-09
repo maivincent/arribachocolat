@@ -16,7 +16,7 @@ Un chocolate negro muy bueno, que debe ser probado por todos los amantes del cho
 _Originalidad_: 4  
 _Fineza_: 4.5  
 _Reconfortante_: 5  
-_Potencia_: 5  
+_Intensidad_: 5  
 _Impresión general_: 4.5
 
 **Evaluación final**: 23/25

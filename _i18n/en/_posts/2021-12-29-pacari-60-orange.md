@@ -15,7 +15,7 @@ A classic, successful in the Pacari way.
 _Uniqueness_: 3.5  
 _Finesse_: 4  
 _Comfort_: 5  
-_Power_: 4.5  
+_Intensity_: 4.5  
 _General impression_: 4.5
 
 **Final evaluation**: 21.5/25

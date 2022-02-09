@@ -16,7 +16,7 @@ A unique chocolate for its threefold marriage, with the good intuition to includ
 _Uniqueness_: 5  
 _Finesse_: 5  
 _Comfort_: 5  
-_Power_: 4.5  
+_Intensity_: 4.5  
 _General impression_: 5
 
 **Final evaluation**: 24.5/25

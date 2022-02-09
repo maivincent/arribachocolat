@@ -12,7 +12,7 @@ It is now clear that the Mindo chocolate paste is one of my favorites. In this c
 _Uniqueness_: 4.5  
 _Finesse_: 4.5  
 _Comfort_: 5  
-_Power__: 5  
+_Intensity__: 5  
 _General impression_: 5
 
 **Final evaluation**: 24/25

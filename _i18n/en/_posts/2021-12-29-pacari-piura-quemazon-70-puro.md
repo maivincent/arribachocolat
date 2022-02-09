@@ -20,7 +20,7 @@ It is therefore an ideal choice to complete a collection of quality chocolates, 
 _Uniqueness_: 4  
 _Finesse_: 5  
 _Comfort_: 5  
-_Power_: 5  
+_Intensity_: 5  
 _General impression_: 5
 
 **Final evaluation**: 24/25

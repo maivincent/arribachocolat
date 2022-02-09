@@ -15,7 +15,7 @@ Así que tenemos un chocolate que es muy normal para Pacari -su base es siempre 
 _Originalidad_: 3.5  
 _Fineza_: 4  
 _Reconfortante_: 4  
-_Potencia_: 4  
+_Intensidad_: 4  
 _Impresión general_: 3.5
 
 **Evaluación final**: 19/25

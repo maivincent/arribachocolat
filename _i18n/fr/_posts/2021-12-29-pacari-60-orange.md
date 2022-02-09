@@ -14,7 +14,7 @@ Un classique, réussi à la manière Pacari.
 _Unicité_: 3.5  
 _Finesse_: 4  
 _Confort_: 5  
-_Puissance_: 4.5  
+_Intensité_: 4.5  
 _Impression générale_: 4.5
 
 **Note finale**: 21.5/25

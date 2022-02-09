@@ -16,7 +16,7 @@ Please note, however, that since this is a chocolate with nothing but cocoa, sug
 _Uniqueness_: 5  
 _Finesse_: 5  
 _Comfort_: 5  
-_Power_: 5  
+_Intensity_: 5  
 _General impression_: 5
 
 **Final evaluation**: 25/25

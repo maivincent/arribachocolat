@@ -17,7 +17,7 @@ Is it an extraordinary chocolate? No. But it is a sure value: the quality of Pac
 _Uniqueness_: 4  
 _Finesse_: 4  
 _Comfort_: 4.5  
-_Power_: 4  
+_Intensity_: 4  
 _General impression_: 4
 
 **Final evaluation**: 20.5/25

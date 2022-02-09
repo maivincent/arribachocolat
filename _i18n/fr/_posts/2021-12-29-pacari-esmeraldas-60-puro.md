@@ -16,7 +16,7 @@ Note: Esmeraldas est une grande région au nord-ouest de Quito, et elle va de l�
 _Unicité_: 5  
 _Finesse_: 5  
 _Confort_: 5  
-_Puissance_: 4  
+_Intensité_: 4  
 _Impression générale_: 5
 
 **Note finale**: 24/25

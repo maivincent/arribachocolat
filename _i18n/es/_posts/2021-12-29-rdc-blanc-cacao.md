@@ -14,7 +14,7 @@ Una buena idea para variar.
 _Originalidad_: 3.5  
 _Fineza_: 4  
 _Reconfortante_: 5  
-_Potencia_: 3.5  
+_Intensidad_: 3.5  
 _Impresión general_: 4
 
 **Evaluación final**: 20/25
