@@ -7,6 +7,7 @@ Ce qu’on sait moins, c’est qu’il y a plusieurs espèces de cacaoyer. Class
 
 Le Arriba Nacional est produit principalement en Équateur. En 2014, il constituait 0.0012% de la production mondiale. La légende veut qu’un chocolatier suisse se promenant dans la jungle ait senti une odeur extraordinaire et demandé à son guide ce qui sentait si bon. “Arriba!”, répondit le guide, en pointant le haut de la colline. C’est donc sur un malentendu que sera nommé ce type de cacao, considéré comme un trésor national.
 
+
 ## Le cacao Fino d'Aroma
 
 Selon l'[organisation internationale du cacao](https://www.icco.org/fine-or-flavor-cocoa/), l'appelation Fino d'Aroma, ou d'arome fin, est donnée à une variété de cacao qui présente des notes florales, en contraste avec le cacao "ordinaire" qui est majoritaire. De façon très générale, le cacao Criollo et Trinitario, ainsi que le cacao Arriba Nacional, est considéré d'arome fin. On trouve des trois espèces en Équateur, qui, selon [Republica del Cacao](https://republicadelcacao.com/es/pages/history), produit plus de 85% du cacao fino d'aroma mondial. Il faut donc faire attention: ce n'est pas tout cacao Fino d'Aroma qui est Arriba, mais tout Arriba est Fino d'Aroma. Pour plus d'informations, je vous invite à jeter un coup d'oeil au super site de [Yumbo's](http://yumboschocolate.com/cacao-fin-aromatique/).
@@ -14,6 +15,8 @@ Selon l'[organisation internationale du cacao](https://www.icco.org/fine-or-flav
 ## Le cacao Sacha
 
 L'espèce de cacao Sacha est relativement nouvelle. Développée par la compagnie Cimarron Cocoa Estates, elle tente de compétitionner avec le Nacional. Unique dans le monde, on la trouve dans la province d'Orellana, à Joya de las Sachas, proche de l'Amazonie. C'est évidemment un cacao fin d'arôme. Plus d'information [sur un article de nouvelles pour confiseurs](https://www.confectionerynews.com/Article/2016/08/29/Sacha-Gold-Ecuador-s-next-top-fine-flavor-cocoa-Cimarron-Estates), [le site de Cimarron,](http://sachagold.com/index.php/english/our-company) et [le site de Republica del Cacao.](https://republicadelcacao.com/blogs/news/la-joya-de-los-sachas-ecuador-projects-that-nurture-our-essence)
+
+
 
 ## La fabrication du chocolat
 
