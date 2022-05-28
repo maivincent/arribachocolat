@@ -137,3 +137,7 @@ Ecuador's fino d'aroma cocoa has long been known outside its borders. Here are s
 
 ### Lindt
 Everyone knows [Lindt](https://www.lindt-spruengli.com/), the international fine chocolate and Swiss truffle company. Excellence bars are available in almost every grocery store!
+
+### Avanaa
+
+[Avanaa](https://www.avanaa.ca/en/) is a Montreal based chocolate factory located in Villeray. Their chocolate bars are crafted from cocoa beans directly imported from sustainable producers from everywhere in the world. This includes Ecuador, with Kallari cocoa!

@@ -137,3 +137,7 @@ Le cacao fino d'aroma d'Équateur est connu depuis longtemps en dehors de ses fr
 ### Lindt
 
 Tout le monde connaît [Lindt](https://www.lindt-spruengli.com/), la compagnie internationale de chocolat fin et de truffes suisses. Les tablettes Excellence sont disponibles dans presque toutes les épiceries!
+
+### Avanaa
+
+[Avanaa](https://www.avanaa.ca/) est une chocolaterie montréalaise située à Villeray, qui confectionne du chocolat à partir de fèves de cacaos directement importées de producteurs durables, venant de différents endroits dans le monde, dont l'Équateur avec du cacao Kallari!
