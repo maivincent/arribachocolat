@@ -11,6 +11,9 @@ As is often the case, you need several pieces to fully enjoy the subtle flavors 
 
 If the bar I tasted is as it is supposed to be, it is a must-try in order to understand the variety of flavors that can be achieved by fine work on quality cocoa. If, on the contrary, it is a bar that has received a particular treatment (when sugar was added, or with unexpected chemical reaction), I am very happy to have tasted it!
 
+--
+[EDIT - 15th of June, 2022] I have been able to try another bar of this chocolate. The taste of sugar cane alcohol is still there, but it is significantly less agressive than in the first bar I tasted. This chocolate is still unique, and excellent!
+
 Note: this chocolate won gold at the International Chocolate Awards 2019 in the Americas category. It is sold significantly more expensive than the others (almost double the price) in Pacari stores in Quito.
 
 

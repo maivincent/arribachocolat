@@ -12,6 +12,9 @@ Comme souvent, il faut plusieurs morceaux pour profiter pleinement de la subtili
 
 Si la tablette que j’ai goûtée est telle qu’elle est censée être, il s’agit d’un immanquable afin de comprendre la variété des saveurs qui peuvent être atteintes par un travail fin sur le cacao de qualité. Si, au contraire, il s’agit d’une tablette qui a reçu un traitement particulier (quand le sucre a été ajouté, ou alors avec réaction chimique inattendue), je suis très heureux de l’avoir goutée!
 
+--
+[AJOUT du 15 juin 2022] J'ai pu goûter à une autre tablette. Le goût d'alcool de canne à sucre est toujours là, mais il est beaucoup moins agressif que pour la première tablette. Ça n'en reste pas moins un chocolat unique et excellent!
+
 Note: ce chocolat a gagné l’or aux International Chocolate Awards 2019 dans la catégorie Americas. Il est vendu nettement plus cher que les autres (presque le double du prix) dans les boutiques Pacari de Quito.
 
 
