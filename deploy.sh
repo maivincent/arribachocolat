@@ -7,7 +7,7 @@ fi
 
 cd _site && \
 echo "www.arribachocolat.ca" >> CNAME && \
-git add . && \
+git add --all && \
 git commit -m "$1" && \
 git push origin gh-pages && \
 cd .. && \
