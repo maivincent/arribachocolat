@@ -141,3 +141,8 @@ Tout le monde connaît [Lindt](https://www.lindt-spruengli.com/), la compagnie i
 ### Avanaa
 
 [Avanaa](https://www.avanaa.ca/) est une chocolaterie montréalaise située à Villeray, qui confectionne du chocolat à partir de fèves de cacaos directement importées de producteurs durables, venant de différents endroits dans le monde, dont l'Équateur avec du cacao Kallari!
+
+### Legast
+
+[Legast](https://www.legastchocolatier.com/home) est une chocolaterie belgo-colombien basée à Braine le Compte, en Wallonie. En plus des traditionnelles pralines et macarons, ils y proposent plusieurs tablettes de chocolat noir dont le cacao provient de différents coins d'Amérique Latine, dont évidemment une d'Équateur avec du cacao arriba nacional.
+J'ai trouvé cette tablette lors d'un voyage à Bruxelles, à la boutique The Belgium Chocolate Factory de la Galerie du Roy. 
