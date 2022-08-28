@@ -2,5 +2,6 @@ Sur branche main
 
 1. git add --all
 2. git commit -a -m 'MESSAGE'
-3. bundle exec jekyll build
-4. ./deploy.sh 'MESSAGE'
+3. git push
+4. bundle exec jekyll build
+5. ./deploy.sh 'MESSAGE'
