@@ -9,3 +9,6 @@ Une fois par an donc, j’ai l’occasion de renouveller mes réserves de chocol
 Ce site se veut en même temps un guide, et un journal, d’exploration de cette magnifique variété que nous proposent les chocolats équatoriens.
 
 Pour chaque barre, vous trouverez une description ainsi qu'une évaluation notée. J'essaie aussi de décrire l'histoire et le contexte de chaque marque. Au fur et à mesure que je goûte de nouvelle barres, elles seront ajoutée à ce guide!
+
+
+Contact: [email](mailto:vmside@protonmail.com)

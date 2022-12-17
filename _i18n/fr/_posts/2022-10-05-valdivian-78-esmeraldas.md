@@ -16,4 +16,4 @@ _Confort_: 5
 _Intensité_: 5  
 _Impression générale_: 4.5
 
-**Note finale**: 22.5/25
+**Note finale**: 21.5/25
