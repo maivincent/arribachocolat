@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Minka - 65% Hacienda La Zambrano"
+title:  "Minka - 65% Hacienda San Jorge"
 tags: [Noir, Pur] 
 categories: [Minka]
 ---
