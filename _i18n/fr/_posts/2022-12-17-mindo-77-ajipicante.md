@@ -6,7 +6,7 @@ categories: [Mindo Chocolate Makers]
 ---
 
 Ce chocolat de Mindo tente de trouver un équilibre entre le goût du piment, qui modifie la saveur du chocolat, et son côté piquant. On sent une hésitation: pour éviter qu'il ne pique trop fort, on n'a pas beaucoup de saveur.
-Le résultat: un chocolt qui ressemble beaucoup à (l'excellent!) chocolat Mindo 77%, avec un petit côté piquant en fin de bouche.
+Le résultat: un chocolat qui ressemble beaucoup à (l'excellent!) chocolat Mindo 77%, avec un petit côté piquant en fin de bouche.
 
 Parce que c'est du chocolat Mindo, c'est très bon. Mais c'est une légère déception quant à l'originalité. 
 
