@@ -6,6 +6,7 @@ if [[ -z "$1" ]]; then
 fi
 
 cd _site && \
+git checkout gh-pages && \
 echo "www.arribachocolat.ca" >> CNAME && \
 git add --all && \
 git commit -m "$1" && \
