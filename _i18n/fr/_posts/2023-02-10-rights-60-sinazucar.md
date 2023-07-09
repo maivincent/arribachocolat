@@ -16,7 +16,7 @@ Il vaut aussi la peine de mentionner que c'est une marque qui fait travailler de
 ### Notes
 
 _Unicité_: 4.5  
-_Finesse_: 4.5 
+_Finesse_: 4.5  
 _Confort_: 4.5  
 _Intensité_: 4.5  
 _Impression générale_: 5
