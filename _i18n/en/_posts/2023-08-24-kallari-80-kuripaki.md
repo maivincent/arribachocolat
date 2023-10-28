@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kallari - Sacha - 80% Cacao - Kuri paki con nibs de cacao y sal"
-tags: [Noir, Cocoa Nibs, Salt] 
+tags: [Dark, Cocoa Nibs, Salt] 
 categories: [Kallari]
 ---
 

@@ -6,7 +6,7 @@ categories: [Mindo Chocolate Makers]
 ---
 
 
-En dessous de cette tablette de chocolat de Mindo (oui oui, vous savez, cette base extraordinaire), on ajoute de petits éclats de noix de macadam caramélisés. Et voilà un coté croquant et sucré, une confiserie plus gourmande que gourmande.
+En dessous de cette tablette de chocolat de Mindo (oui oui, vous savez, cette base extraordinaire), on ajoute de petits éclats de noix de macadam caramélisés. Et voilà un coté croquant et sucré, une confiserie plus gourmande que gourmette.
 
 Une grande différence avec le chocolat Mindo original? Non. Mais ça reste une tablette excellente, comme toujours.
 
