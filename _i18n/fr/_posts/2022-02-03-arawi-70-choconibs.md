@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Arawi - 70% Choco + Nibs"
-tags: [Noir, Graines de Cacao] 
+tags: [Noir, Graines de cacao] 
 categories: [Arawi]
 ---
 
