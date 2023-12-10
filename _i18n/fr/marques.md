@@ -48,6 +48,15 @@ Dans le sillage de Pacari et Republica del Cacao, plusieurs entreprises se sont 
 
 [Arawi](https://www.arawicacao.com/) est une compagnie fondée en 2010 à Cuenca, qui produit plusieurs types de barres de cacao nacional fino d'aroma biologique. On peut trouver leurs barres entre autres aux supermarchés Supermaxi et Coral. 
 
+### Conexion
+
+[Conexion](https://www.conexionchocolate.com/), compagnie équatorienne et américaine, a comme objectif de mettre de l'avant le chocolat artisanal et équitable fait à partir du chocolat arriba. Visant le marché d'amateurs de chocolat fin américain, on peut en commander des tablettes aux États-Unis. À Quito, j'ai trouvé leur chocolat chez [Cacao & Cacao](https://kacaoshop.com/), une petite boutique de chocolats équatoriens à visiter absolument.
+
+### Rights
+
+[Rights](https://rightschocolates.com/) est une compagnie qui met de l'avant l'inclusivité, en employant des personnes vivant avec des handicaps physiques ou intellectuels et en produisant du chocolat à partir du cacao fin d'arome de manière équitable. Ses tablettes se retrouvent entre autres dans les supermarchés SuperMaxi.
+
+
 ### La Leyenda del Chocolate
 [La Leyenda del Chocolate](http://chocoleyenda.com/) est à découvrir - je n'ai encore pas acheté de barre de cette marque!
 
@@ -81,6 +90,11 @@ Ils vendent plusieurs types de chocolats, certains faits à partir de cacao naci
 ### Tsatsayaku
 [Tsatsayaku](https://www.tsatsayaku.com/) est une petite marque associée à la campagne Chakra, femme et chocolat. C'est une association de femmes productrices du canton de Carlos Julio Arosemena Tola, dans la province de Napo, en Amazonie. Le projet a l'air vraiment sympa, mais je n'ai pas encore acheté de tablettes de cette marque: la chasse au trésor continuera l'an prochain!
 
+### Witoca
+
+[Witoca](http://www.witoca.com/) est une communauté d'Amazonie qui produit surtout du café, mais aussi du [chocolat](https://producersmarket.com/product/chocolate-witoca-9ed1bde281984307ab1920dc197261c4) de manière artisanale, selon le sytème Chakra. J'ai trouvé une tablette au marché artisanal de Quito.
+
+
 ### Wiñak
 [Wiñak](https://www.winak.org/?lang=en) est une autre entreprise communautaire associée à Chakra, femme et chocolat. Comme pour Tsatsayaku, je n'ai pas encore trouvé de leurs tablettes. Plus de détails l'an prochain, j'espère!
 
@@ -113,6 +127,11 @@ Lancée en 2018 à Cuenca, [Viferchi](http://www.viferchi.com/) propose pour le 
 
 [Galletti](https://cafegalletti.com/) est une marque de café équatorienne. Cependant, si vous visitez leur café sur la Gonzalez Suarez à Quito, vous trouverez leur chocolat maison. Il n'est pas affiché sur le site équatorien, mais on le trouve sur le [site de vente](https://cafegallettiusa.com/collections/products/products/variety-pack-of-each-fine-chocolate-bar-1) aux États-Unis.
 
+
+### Mayta
+
+[Mayta](https://maytagourmet.com/es/) est une compagnie qui décrit son chocolat comme un produit gourmet, de luxe, mais les tablettes sont abordables. Son chocolat, fin d'arôme, provient de différentes régions: Amazonie, Esmeraldas ou Puerto Quito. On peut commander des tablettes sur leur site internet pour l'Équateur ou les États-Unis. À Quito, j'ai trouvé leur chocolat en magasin chez [Cacao & Cacao](https://kacaoshop.com/). 
+
 ### Nat Kaw
 
 [Nat Kaw](https://www.nativaromas.com/natkaw), le chocolat de Nativaromas, provient de petites fermes dans la province de Manabi. Chaque ferme produit un type de cacao unique, résultat d'un mélange naturel réalisé par pollinisation croisée de différentes espèces endémiques de cacao fino de aroma. Le procédé de fermentation est aussi adapté à la micro-faune de chaque ferme. Chaque type de barre provient de sa ferme particulière, et à donc un profil différent sans saveurs ajoutées: fruité, floral, ou herbes.
@@ -128,6 +147,17 @@ Ces chocolats ont tous été primés en 2021. Je crois donc que c'est une marque
 ### Chicao
 [Chicao](https://www.facebook.com/chicaochocolate/) est une petite ferme touristique autour de la rivière Silanche, proche de Puerto Quito, sur le flanc des Andes qui descendent vers la côte Pacifique. Ils utilisent l'agroforesterie, c'est à dire la cultivation du cacao en forêt, afin d'enrichir leurs chocolat des arômes de la forêt. Chicao se veut aussi un centre d'étude du cacao arriba, et sont parfois visités par des universités et collèges locaux et internationaux. Le nom de Chicao vient d'un joli oiseau jaune de la forêt de nuages, l'oriole noir et or.
 
+### Arariwa
+
+[Arariwa](https://www.arariwacacao.com/) est une petite entreprise équatorienne menée par des femmes, dont le nom signifie "gardiennes des Chakras", soit la manière traditionnelle de gérer la production de cacao par les femmes (voir la partie sur Kallari pour plus de détails). On trouve leurs tablettes dans certaines foires de produits fins, au marché artisanal, ou chez chez [Cacao & Cacao](https://kacaoshop.com/).
+
+### Choco Cumi
+[Choco Cumi](www.facebook.com/TalitaChocoCumi/) est une petite marque née de la fondation [Talita Cumi] (https://www.facebook.com/MujeresValientesTalitaCumi/) qui vient en aide aux mères monoparentales. L'objectif est double: en plus de valoriser le cacao fin équatorien avec des chocolats uniques, l'entreprise, créée en 2016 ou 2017, cherche à émanciper par l'emploi des femmes qui ont vécu des violences et se trouvent en situation de vulnérabilité. La marque se définit donc comme celles des "femmes du chocolat". En 2022, je n'ai trouvé leur chocolat qu'au marché artisanal. Il est possible qu'ils aient depuis étendu leurs points de vente.
+
+### Belly's
+[Belly's Cocoa](https://www.chocolatesbellyscocoa.com/) se spécialise dans le cacao fin d'arôme d'altitude, c'est à dire, cultivé à plus de 1000 mètres d'altitude dans le choco andino, écosystème protégé proche de Quito. Pour réussir à produire du cacao dans ces conditions, il aura fallu de nombreuses années de recherche et de sélection génétique. À la base provenant de la famille CCN-51, dont la qualité est inférieure au cacao fin d'arôme, le nommé [Rio Alambi](https://cocoaflavormap.cacaomovil.com/site/place/rio-alambi) présente des caractéristiques uniques. 
+On m'a donné des tablettes Belly's. On peut en commander depuis Quito, sur leur site internet.
+
 ## Les marques étrangères
 Le cacao fino d'aroma d'Équateur est connu depuis longtemps en dehors de ses frontières. Voici donc quelques marques qui l'utilisent.
 
@@ -141,6 +171,10 @@ Tout le monde connaît [Lindt](https://www.lindt-spruengli.com/), la compagnie i
 ### Avanaa
 
 [Avanaa](https://www.avanaa.ca/) est une chocolaterie montréalaise située à Villeray, qui confectionne du chocolat à partir de fèves de cacaos directement importées de producteurs durables, venant de différents endroits dans le monde, dont l'Équateur avec du cacao Kallari!
+
+### Monarque
+
+[Monarque](https://chocolats-monarque.square.site/) est une autre petite chocolaterie montréalaise, bean-to-bar, basée au Mile End, dont le cacao provient surtout d'Amérique centrale et latine. J'ai trouvé ses barres d'Équateur dans la boutique [État de Choc](https://www.etatdechoc.com/fc/), située sur St-Laurent.
 
 ### Legast
 
