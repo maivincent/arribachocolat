@@ -47,6 +47,16 @@ Siguiendo la estela de Pacari y República del Cacao, varias empresas se han est
 ### Arawi
 [Arawi](https://www.arawicacao.com/) es una empresa fundada en 2010 en Cuenca, que produce varios tipos de barras de cacao fino nacional de aroma orgánico. Sus barras se pueden encontrar en los supermercados Supermaxi y Coral, entre otros. 
 
+### Conexión
+
+[Conexión](https://www.conexionchocolate.com/), una empresa ecuatoriano-americana, tiene como objetivo destacar el chocolate artesanal y equitativo elaborado a partir de cacao arriba. Dirigido al mercado de los amantes del chocolate fino en América, se pueden pedir tabletas en los Estados Unidos. En Quito, encontré sus chocolates en [Cacao & Cacao](https://kacaoshop.com/), una pequeña tienda de chocolates ecuatorianos que definitivamente vale la pena visitar.
+
+
+### Rights
+
+[Rights](https://rightschocolates.com/) es una empresa que promueve la inclusividad al emplear a personas con discapacidades físicas o intelectuales y producir chocolate a partir de cacao fino de aroma de manera equitativa. Sus tabletas se encuentran, entre otros lugares, en los supermercados SuperMaxi.
+
+
 ### La Leyenda del Chocolate
 [La Leyenda del Chocolate](http://chocoleyenda.com/) es algo que tengo que probar - ¡todavía no he comprado una tableta de esta marca!
 
@@ -81,6 +91,10 @@ Venden varios tipos de chocolate, algunos hechos con cacao nacional de arriba, o
 ### Tsatsayaku
 [Tsatsayaku](https://www.tsatsayaku.com/) es una pequeña marca asociada a la campaña Chakra, Mujeres y Chocolate. Es una asociación de mujeres productoras del cantón de Carlos Julio Arosemena Tola, en la provincia de Napo, en la Amazonía. El proyecto parece muy interesante, pero todavía no he comprado ninguna barra de esta marca: ¡la búsqueda del tesoro continuará el año próximo!
 
+### Witoca
+
+[Witoca](http://www.witoca.com/) es una comunidad amazónica que se especializa en la producción de café, pero también elabora [chocolate](https://producersmarket.com/product/chocolate-witoca-9ed1bde281984307ab1920dc197261c4) de forma artesanal, utilizando el sistema Chakra. Encontré una tableta en el mercado artesanal de Quito.
+
 ### Wiñak
 [Wiñak](https://www.winak.org/) es otra empresa comunitaria asociada a Chakra, las mujeres y el chocolate. Al igual que con Tsatsayaku, aún no he encontrado ninguna de sus estanterías. Espero que el año que viene haya más novedades.
 
@@ -112,6 +126,12 @@ Lanzada en 2018 en Cuenca, [Viferchi](http://www.viferchi.com/) ofrece por el mo
 
 [Galletti](https://cafegalletti.com/) es una marca de café ecuatoriana. Sin embargo, si se visita su cafetería en González Suárez, en Quito, se encontrará con su chocolate casero. No aparece en el sitio ecuatoriano, pero se puede encontrar en el [sitio de ventas](https://cafegallettiusa.com/collections/products/products/variety-pack-of-each-fine-chocolate-bar-1) en los Estados Unidos.
 
+
+### Mayta
+
+[Mayta](https://maytagourmet.com/es/) es una empresa que describe su chocolate como un producto gourmet y de lujo, pero con tabletas asequibles. Su chocolate, de fino aroma, proviene de diversas regiones como la Amazonía, Esmeraldas o Puerto Quito. Se pueden realizar pedidos de tabletas a través de su sitio web para Ecuador o los Estados Unidos. En Quito, encontré sus chocolates en la tienda [Cacao & Cacao](https://kacaoshop.com/).
+
+
 ### Nat Kaw
 
 [Nat Kaw](https://www.nativaromas.com/natkaw), el chocolate de Nativaromas, procede de pequeñas explotaciones de la provincia de Manabí. Cada finca produce un tipo de cacao único, resultado de una mezcla natural lograda por la polinización cruzada de diferentes especies endémicas de cacao fino de aroma. El proceso de fermentación también se adapta a la microfauna de cada explotación. Cada tipo de barrita procede de su explotación particular y, por tanto, tiene un perfil diferente sin sabores añadidos: frutal, floral o herbal.
@@ -122,10 +142,27 @@ Todos estos chocolates han sido premiados en 2021. Así que creo que es una marc
 [Teaone](https://teaone.ec/) es una pequeña producción familiar, establecida en las orillas del río Teaone, en el ecosistema único del Choco andino, cerca de la ciudad de Esmeraldas y del Océano Pacífico. También tienen una tienda entre dos complejos turísticos frente al mar en Playa Escondida. En diciembre de 2021, sus barras se encontraban en la tienda [Wayuro Orgánico] (https://www.facebook.com/wayruro.organico/) en Quito.
 
 ### RaqEri
+
 [RaqEri](https://www.facebook.com/RAQERICACAO/) es una marca muy pequeña que produce productos de cacao como salami y té de cacao. Lo encontré en una pequeña feria navideña en 2021 en Quito. 
 
 ### Chicao
+
 [Chicao](https://www.facebook.com/chicaochocolate/) es una pequeña finca turística en torno al río Silanche, cerca de Puerto Quito, en las laderas de los Andes que descienden hasta la costa del Pacífico. Utilizan la agroforestería, es decir, el cultivo de cacao en el bosque, para enriquecer su chocolate con los sabores de la foresta. Chicao es también un centro de estudio del cacao arriba, y a veces lo visitan universidades y colegios locales e internacionales. El nombre de Chicao proviene de un hermoso pájaro amarillo del bosque nublado, la oropéndola negra y dorada.
+
+### Arariwa
+
+[Arariwa](https://www.arariwacacao.com/) es una pequeña empresa ecuatoriana liderada por mujeres, cuyo nombre significa "guardianas de los Chakras", haciendo referencia a la forma tradicional en que las mujeres gestionan la producción de cacao (consultar la sección sobre Kallari para más detalles). Sus tabletas se encuentran en algunas ferias de productos gourmet, en el mercado artesanal o en [Cacao & Cacao](https://kacaoshop.com/).
+
+### Choco Cumi
+
+[Choco Cumi](www.facebook.com/TalitaChocoCumi/) es una pequeña marca que surge de la fundación [Talita Cumi](https://www.facebook.com/MujeresValientesTalitaCumi/), la cual brinda apoyo a madres solteras. El objetivo es doble: además de destacar el cacao fino ecuatoriano con chocolates únicos, la empresa, fundada en 2016 o 2017, busca empoderar a mujeres que han experimentado violencia y se encuentran en situación de vulnerabilidad, a través del empleo. La marca se autodenomina como la de las "mujeres del chocolate". Hasta 2022, solo encontré sus chocolates en el mercado artesanal. Es posible que hayan ampliado sus puntos de venta desde entonces.
+
+### Belly's
+
+[Belly's Cocoa](https://www.chocolatesbellyscocoa.com/) se especializa en cacao fino de aroma de altura, es decir, cultivado a más de 1000 metros de altura en el chocó andino, un ecosistema protegido cerca de Quito. Para lograr producir cacao en estas condiciones, se necesitaron muchos años de investigación y selección genética. Inicialmente proveniente de la familia CCN-51, cuya calidad es inferior al cacao fino de aroma, el llamado [Rio Alambi](https://cocoaflavormap.cacaomovil.com/site/place/rio-alambi) presenta características únicas.
+
+Me regalaron tabletas de Belly's. Puedes hacer pedidos desde Quito a través de su sitio web.
+
 
 ## Marcas extranjeras
 El cacao Aroma Fino de Ecuador es conocido desde hace tiempo fuera de sus fronteras. Estas son algunas marcas que lo utilizan.
@@ -136,3 +173,15 @@ El cacao Aroma Fino de Ecuador es conocido desde hace tiempo fuera de sus fronte
 ### Lindt
 
 Todo el mundo conoce [Lindt](https://www.lindt-spruengli.com/), la empresa internacional de chocolate fino y trufas de Suiza. Las barras Excellence están disponibles en casi todas las tiendas de comestibles.
+
+### Avanaa
+
+[Avanaa](https://www.avanaa.ca/) es una chocolatería de Montreal ubicada en Villeray, que elabora chocolate a partir de granos de cacao importados directamente de productores sostenibles de diversas partes del mundo, incluido Ecuador con cacao Kallari.
+
+### Monarque
+
+[Monarque](https://chocolats-monarque.square.site/) es otra pequeña chocolatería de Montreal, bean-to-bar, con sede en Mile End, cuyo cacao proviene principalmente de América Central y Latina. Encontré sus barras de chocolate ecuatoriano en la tienda [État de Choc](https://www.etatdechoc.com/fc/), ubicada en St-Laurent.
+
+### Legast
+
+[Legast](https://www.legastchocolatier.com/home) es una chocolatería belgo-colombiana con sede en Braine le Compte, Valonia. Además de las tradicionales pralinas y macarons, ofrecen varias tabletas de chocolate negro cuyo cacao proviene de diversas regiones de América Latina, incluyendo Ecuador con cacao arriba nacional. Encontré esta tableta durante un viaje a Bruselas, en la tienda The Belgium Chocolate Factory de la Galerie du Roy.
