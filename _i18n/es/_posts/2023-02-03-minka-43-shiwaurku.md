@@ -1,23 +1,24 @@
 ---
 layout: post
 title:  "Minka - 43% Dark Milk - Communidad Shiwa Urku"
-tags: [Noir, Lait] 
+tags: [Leche, Puro] 
 categories: [Minka]
 ---
 
-Les anglais parlent d'un nuage de lait dans leur thé - et l'expression est bien trouvée. Avec le cacao arriba, je trouve souvent que le lait cache les nuances et l'intérêt comme un nuage cache un ciel étoilé.
+Los ingleses hablan de una nube de leche en su té, y la expresión es muy acertada. Con el cacao arriba, a menudo encuentro que la leche oculta las sutilezas y el interés, como una nube oculta un cielo estrellado.
 
-Mais, lors de certains couchers de soleil, les nuages font partie du spectacle. C'est le cas ici. Les notes fruitées - mangue, banane, fruit de la passion - de ce chocolat sont mises en valeur par son côté laiteux.
+Pero, durante algunas puestas de sol, las nubes forman parte del espectáculo. Es el caso aquí. Las notas afrutadas - mango, plátano, fruta de la pasión - de este chocolate se destacan por su carácter lácteo.
 
-Malgré tout, il y a une perte de profondeur claire en comparaison avec les chocolats noirs de la même marque. C'est, je crois, inévitable.
+A pesar de todo, hay una pérdida de profundidad clara en comparación con los chocolates oscuros de la misma marca. Esto es, creo, inevitable.
+
+### Evaluación
+
+_Originalidad_: 4.5  
+_Fineza_: 4  
+_Reconfortante_: 4.5  
+_Intensidad_: 4.5  
+_Impresión general_: 4
+
+**Evaluación final**: 21.5/25
 
 
-### Notes
-
-_Unicité_: 4.5  
-_Finesse_: 4  
-_Confort_: 4.5  
-_Intensité_: 4.5  
-_Impression générale_: 4
-
-**Note finale**: 21.5/25

@@ -1,26 +1,26 @@
 ---
 layout: post
 title:  "Mashpi - Chocolate ecicion especial - Curcuma"
-tags: [Noir, Curcuma] 
+tags: [Negro, Curcuma] 
 categories: [Mashpi]
 ---
 
+La cúrcuma suele asociarse con las especias indias, ya que es originaria de ese subcontinente. Sin embargo, también crece en América del Sur, y si Mashpi ya ha probado la cardamomo, es normal que intenten con chocolate y cúrcuma.
 
-Le curcuma est souvent associé aux épices indiennes, car c'est de ce sous-continent qu'il est originaire. Mais il pousse aussi en Amérique du Sud, et, si Mashpi a déjà essayé la cardamome, il est normal qu'ils tentent de chocolat au curcuma.
+El sabor del cúrcuma suele permanecer en segundo plano del plato que acompaña, y eso también ocurre aquí. Eso no significa que no esté presente: se siente, una influencia tranquila pero que agrega su toque anaranjado al delicioso sabor del chocolate Mashpi.
 
-La saveur du curcuma reste généralement en arrière plan du met qu'elle accompagne, et c'est le cas ici aussi. Ça ne veut pas dire qu'elle n'est pas là: on la sent, influence tranquille mais qui ajoute sa touche orangée au goût de l'excellent chocolat Mashpi.
+Nota: No sé cuál es el porcentaje de cacao de esta tableta, ya que es una edición especial con una caja genérica. Creo que es bastante oscuro, ya que es un chocolate más astringente de lo habitual, con un toque de amargor bien presente.
 
-Note: je ne sais pas quel est le pourcentage de cacao de cette tablette car c'est une édition spéciale dont la boîte est générique. Je crois qu'elle est assez noire, car c'est un chocolat plus astringent que d'ordinaire, avec une petit touche d'amertume bien présente.  
-
-Au final, c'est un chocolat original et bien intéressant, mais peut-être pas le meilleur de la collection Mashpi.
+En definitiva, es un chocolate original y muy interesante, pero quizás no el mejor de la colección Mashpi.
 
 
-### Notes
+### Evaluación
 
-_Unicité_: 5  
-_Finesse_: 4.5  
-_Confort_: 4  
-_Intensité_: 4.5  
-_Impression générale_: 4
+_Originalidad_: 5  
+_Fineza_: 4.5  
+_Reconfortante_: 4  
+_Intensidad_: 4.5  
+_Impresión general_: 4
 
-**Note finale**: 22/25
+**Evaluación final**: 22/25
+

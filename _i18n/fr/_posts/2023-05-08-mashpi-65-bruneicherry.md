@@ -7,7 +7,7 @@ categories: [Mashpi]
 ---
 
 
-La cerise de Brunei, ou de Borneo, ne vient, comme son nom l'indiduqe, pas d'Équateur. Il fallait donc aller la chercher... Mais Mashpi fait plus que ça: les cerises sont fermentées, ce qui apporte une saveur inattendue, entre fruit rouge et vin.
+La cerise de Brunei, ou de Borneo, ne vient, comme son nom l'indique, pas d'Équateur. Il fallait donc aller la chercher... Mais Mashpi fait plus que ça: les cerises sont fermentées, ce qui apporte une saveur inattendue, entre fruit rouge et vin.
 
 Combinée à l'excellent chocolat de Mashpi, c'est une expérience unique, qui en fait une des meilleures barres du chocolat Équatorien.
 

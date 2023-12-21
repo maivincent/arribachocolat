@@ -1,25 +1,24 @@
 ---
 layout: post
 title:  "El Rincon Amazonico"
-tags: [Lait] 
+tags: [Leche] 
 categories: [El Rincon Amazonico]
 ---
 
-Faire du bon chocolat, c'est difficile, même avec du cacao équatorien.
-C'est ce que nous démontre cette petite entreprise familiale, basée dans la forêt amazonienne. Sur l'emballage de cette tablette, trouvée au marché artisanal de Quito, il n'y a aucun détail.
-C'est donc au goût que j'identifie qu'il s'agit d'un chocolat au lait.
 
-Le goût, en une phrase? En test à l'aveugle, je ne suis pas sur de pouvoir le différencier d'un chocolat Hershey.
+Hacer un buen chocolate es difícil, incluso con cacao ecuatoriano. Eso es lo que demuestra esta pequeña empresa familiar, ubicada en la selva amazónica. En el envase de esta tableta, encontrada en el mercado artesanal de Quito, no hay ningún detalle.
+Así que es por el sabor que identifico que se trata de un chocolate con leche.
 
-C'est la nature de cette aventure d'exploration du chocolat équatorien: on chasse les trésors, les pépites d'or, mais des fois, on tombe sur de la pyrite.  
+¿El sabor, en una frase? En una prueba a ciegas, no estoy seguro de poder diferenciarlo de un chocolate Hershey.
 
+Esa es la naturaleza de esta aventura de explorar el chocolate ecuatoriano: perseguimos tesoros, pepitas de oro, pero a veces nos encontramos con pirita.
 
-### Notes
+### Evaluación
 
-_Unicité_: 1  
-_Finesse_: 1  
-_Confort_: 3  
-_Intensité_: 3  
-_Impression générale_: 2
+_Originalidad_: 1  
+_Fineza_: 1  
+_Reconfortante_: 3  
+_Intensidad_: 3  
+_Impresión general_: 2
 
-**Note finale**: 10/25
+**Evaluación final**: 10/25

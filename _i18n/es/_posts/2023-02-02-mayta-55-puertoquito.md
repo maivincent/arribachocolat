@@ -1,22 +1,23 @@
 ---
 layout: post
 title:  "Mayta Luxury Ecuadorian Chocolate - 55% Single Origin Puero Quito"
-tags: [Noir, Pur] 
+tags: [Negro, Puro] 
 categories: [Mayta]
 ---
 
 
-Pour son chocolat le moins corsé, à 55%, Mayta propose un chocolat léger, qui rappelle surtout le miel et le caramel tout en finissant sur une note acidulée.
+Para su chocolate menos intenso, con un 55%, Mayta ofrece un chocolate ligero, que evoca principalmente la miel y el caramelo, terminando con un toque ligeramente ácido.
 
-Un chocolat très agréable et facile à apprécier.
+Un chocolate muy agradable y fácil de disfrutar.
 
 
-### Notes
 
-_Unicité_: 4  
-_Finesse_: 4.5  
-_Confort_: 5  
-_Intensité_: 5  
-_Impression générale_: 4.5
+### Evaluación
 
-**Note finale**: 23/25
+_Originalidad_: 4  
+_Fineza_: 4.5  
+_Reconfortante_: 5  
+_Intensidad_: 5  
+_Impresión general_: 4.5
+
+**Evaluación final**: 23/25

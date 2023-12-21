@@ -1,24 +1,25 @@
 ---
 layout: post
 title:  "Conexion - Chocolate & Cacao Nibs - 70% Fine Cacao"
-tags: [Noir, Cacao] 
+tags: [Negro, Cacao] 
 categories: [Conexion]
 
 ---
 
-Conexion nous propose une très bonne tablette. C'est un chocolat pur et lisse, au gout de caramel avec une touche acidulée qui rappelle un peu la rhubarbe et un brin d'amertume, juste pour mériter ses 70%.
+Conexion nos presenta una tableta muy buena. Es un chocolate puro y suave, con sabor a caramelo y un toque ácido que recuerda un poco a la ruibarbo y una pizca de amargura, solo para merecer su 70%.
 
-Les morceaux de cacao, nombreux et croquants, sont incorporés sous la tablette. Ils apportent un élément de texture intéressant ainsi qu'un côté parfumé et boisé.
+Los trozos de cacao, numerosos y crujientes, están incorporados debajo de la tableta. Aportan un elemento de textura interesante, así como un toque perfumado y amaderado.
 
-C'est la première tablette de Conexion que j'essaie, et c'est clairement une bonne impression. Elle annonce une marque qui, sans être la meneuse, se trouve dans le peloton de tête. 
+Es la primera tableta de Conexion que pruebo, y claramente deja una buena impresión. Anuncia una marca que, sin ser la líder, se encuentra entre las mejores.
 
 
-### Notes
 
-_Unicité_: 4.5  
-_Finesse_: 4.5  
-_Confort_: 4.5  
-_Intensité_: 4.5  
-_Impression générale_: 4.5
+### Evaluación
 
-**Note finale**: 22.5/25
+_Originalidad_: 4.5  
+_Fineza_: 4.5  
+_Reconfortante_: 4.5  
+_Intensidad_: 4.5  
+_Impresión general_: 4.5
+
+**Evaluación final**: 22.5/25

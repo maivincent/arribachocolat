@@ -1,24 +1,22 @@
 ---
 layout: post
 title:  "Mindo Chocolate - 67% Sal y Pimienta"
-tags: [Noir, Sel, Poivre] 
+tags: [Noir, Sal, Pimienta] 
 categories: [Mindo Chocolate Makers]
 ---
 
-Tout cuisinier vous le dira: le sel et le poivre rehaussent le goût et les saveurs.
-C'est le cas ici aussi avec ce chocolat de Mindo. Le mélange ajoute finesse et lumière à un cacao comme toujours extraordinaire.
+Cualquier cocinero le dirá: la sal y la pimienta realzan el sabor y los sabores. Y eso es lo que sucede aquí también con este chocolate de Mindo. La mezcla añade delicadeza y luminosidad a un cacao siempre extraordinario.
 
-Un barre d'excellente qualité de plus de la part de Mindo - mais ça, vous vous y attendiez.
-
+Otra barra de excelente calidad de parte de Mindo, pero eso ya lo esperaban.
 
 
+### Evaluación
 
-### Notes
+_Originalidad_: 4.5  
+_Fineza_: 5  
+_Reconfortante_: 4  
+_Intensidad_: 5  
+_Impresión general_: 5
 
-_Unicité_: 4.5  
-_Finesse_: 5  
-_Confort_: 5  
-_Intensité_: 5  
-_Impression générale_: 5
+**Evaluación final**: 24.5/25
 
-**Note finale**: 24.5/25

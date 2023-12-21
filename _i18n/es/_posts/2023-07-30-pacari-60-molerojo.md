@@ -1,25 +1,26 @@
 ---
 layout: post
 title:  "Pacari - Chocolate con Mole Rojo - 60% Cacao"
-tags: [Noir, Paprika] 
+tags: [Negro, Paprika] 
 categories: [Pacari]
 
 ---
 
-Cherchez mole rojo sur internet: vous trouverez qu'il s'agit d'une sauce (mole) traditionnelle mexicaine à base de piments. 
-Puisque la boîte de la tablette montre un épice en poudre rouge, il me semble que cela doit être une forme de paprika latinoaméricaine.
+Busca "mole rojo" en internet y descubrirás que se trata de una salsa (mole) tradicional mexicana hecha a base de chiles.
+Dado que la caja de la tableta muestra un polvo rojo de especias, parece ser una forma de paprika latinoamericana.
 
-Clairement, le goût est différent du Pacari au Pimenton de la Vera (le paprika espagnol): moins fumé, moins sucré, c'est plutôt rond et robuste, avec une toute petite touche piquante qui éclaircit le tout.
+Claramente, el sabor es diferente al Pacari con Pimenton de la Vera (el pimentón español): menos ahumado, menos dulce, más redondo y robusto, con un toque picante muy sutil que lo ilumina todo.
 
-Un chocolat agréable et équilibré, original et ancré dans la tradition de qualité de Pacari. 
+Es un chocolate agradable y equilibrado, original y arraigado en la tradición de calidad de Pacari.
 
 
-### Notes
 
-_Unicité_: 4.5  
-_Finesse_: 4.5  
-_Confort_: 4.5  
-_Intensité_: 4.5  
-_Impression générale_: 4.5
+### Evaluación
 
-**Note finale**: 22.5/25
+_Originalidad_: 4.5  
+_Fineza_: 4.5  
+_Reconfortante_: 4.5  
+_Intensidad_: 4.5  
+_Impresión general_: 4.5
+
+**Evaluación final**: 22.5/25

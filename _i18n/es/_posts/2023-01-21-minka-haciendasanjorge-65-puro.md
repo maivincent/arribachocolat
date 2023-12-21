@@ -1,23 +1,24 @@
 ---
 layout: post
 title:  "Minka - 65% Hacienda San Jorge"
-tags: [Noir, Pur] 
+tags: [Negro, Puro] 
 categories: [Minka]
 ---
 
-Un chocolat floral à souhait. On ouvre avec un bouquet de jasmin, de la rose et de la fleur d'oranger, suivi de cerises et noisettes, enrobant un coeur boisé un petit peu amer. 
-C'est un grand chocolat, qui provoque un feu d'artifice de saveurs.
+Un chocolate floral a la medida. Comienza con un ramo de jazmín, rosa y flor de azahar, seguido de cerezas y avellanas, envolviendo un corazón leñoso ligeramente amargo. Es un chocolate extraordinario que desata un espectáculo de sabores.
 
-Si il lui manquait un petit quelque chose, ce serait un côté chaleureux. J'ai le sentiment étrange que les carrés sont quelque peu bougons, et la drôle d'envie de leur rappeler qu'ils pourraient faire l'effort d'être heureux d'être savourés.
+Si le faltara algo, sería un toque cálido. Tengo la extraña sensación de que los cuadrados son un tanto melancólicos, y la curiosa idea de recordarles que podrían esforzarse por ser felices al ser saboreados.
 
-Ça reste un chocolat excellent, à considérer sans faute parmi les meilleurs.
+Sigue siendo un chocolate excelente, que debe considerarse sin duda entre los mejores.
 
-### Notes
+### Evaluación
 
-_Unicité_: 5  
-_Finesse_: 5  
-_Confort_: 4.5  
-_Intensité_: 5  
-_Impression générale_: 4.5
+_Originalidad_: 5  
+_Fineza_: 5  
+_Reconfortante_: 4.5  
+_Intensidad_: 5  
+_Impresión general_: 4.5
 
-**Note finale**: 24/25
+**Evaluación final**: 24/25
+
+

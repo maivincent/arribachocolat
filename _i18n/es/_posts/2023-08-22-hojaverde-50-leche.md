@@ -1,24 +1,26 @@
 ---
 layout: post
 title:  "Hoja Verde - Chocolate 50% Con Leche"
-tags: [Noir, Lait] 
+tags: [Negro, Leche] 
 categories: [Hoja Verde]
 
 ---
 
 
-Le chocolat au lait n'a pas souvent bonne presse dans ce blog. Non pas que je n'aime pas ça - j'ai la dent assez sucrée, mais l'ajout de lait risque de cacher les subtilités du cacao.
 
-Hoja Verde se débrouille plutôt bien dans les circonstances. C'est un chocolat original, avec un petit goût de menthe et de noisette. C'est très agréable! 
+El chocolate con leche no suele tener una buena reputación en este blog. No es que no me guste; tengo un gusto bastante dulce, pero la adición de leche tiende a ocultar las sutilezas del cacao.
+
+Hoja Verde se desempeña bastante bien en estas circunstancias. Es un chocolate original, con un pequeño sabor a menta y avellana. ¡Es muy agradable!
 
 
 
-### Notes
 
-_Unicité_: 4.5  
-_Finesse_: 4  
-_Confort_: 5  
-_Intensité_: 4.5  
-_Impression générale_: 4.5  
+### Evaluación
 
-**Note finale**: 22.5/25
+_Originalidad_: 4.5  
+_Fineza_: 4  
+_Reconfortante_: 5  
+_Intensidad_: 4.5  
+_Impresión general_: 4.5
+
+**Evaluación final**: 22.5/25

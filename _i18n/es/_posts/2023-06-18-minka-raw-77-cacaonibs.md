@@ -1,21 +1,21 @@
 ---
 layout: post
 title:  "Minka - Raw 77% with Cacao Nibs"
-tags: [Noir, Cacao] 
+tags: [Negro, Cacao] 
 categories: [Minka]
 ---
 
+El chocolate Raw 77% de Minka es un poco amargo y herbal, con fuertes notas de pimienta respaldadas por pequeños trozos de cacao tostado. Agregados bajo la tableta, le confieren una textura crujiente y puntiaguda, muy agradable.
 
-Le chocolat Raw 77% de Minka est un peu amer, herbal, avec de fortes notes de poivre appuyées par les petits morceaux de cacao grillé. Ajoutés sous la tablette, ils donnent une texture croustillante et pointue, bien agréable. 
+Es un chocolate que, aunque no sea la joya de la corona, complementa bien la colección de chocolates de Minka.
 
-C'est un chocolat qui, sans en être le vaisseau amiral, complète bien la collection de chocolats Minka.
 
-### Notes
+### Evaluación
 
-_Unicité_: 4  
-_Finesse_: 4  
-_Confort_: 4  
-_Intensité_: 4.5  
-_Impression générale_: 4.5
+_Originalidad_: 4  
+_Fineza_: 4  
+_Reconfortante_: 4  
+_Intensidad_: 4.5  
+_Impresión general_: 4.5
 
-**Note finale**: 21/25
+**Evaluación final**: 21/25

@@ -1,25 +1,26 @@
 ---
 layout: post
 title:  "Pacari - Chocolate con Aceitunas - 60% Cacao"
-tags: [Noir, Olives] 
+tags: [Negro, Aceitunas] 
 categories: [Pacari]
 
 ---
 
-Un ancien colocataire à moi mangeait du nutella avec du fromage fêta. Devant mon grand dégoût initial, il m'a proposé de goûter - et c'est avec surprise que j'ai du avouer que ce n'était pas une si mauvaise idée (je n'ai cependant pas recommencé).
+Un antiguo compañero de piso solía comer Nutella con queso feta. Ante mi gran disgusto inicial, me propuso probarlo, y con sorpresa debo admitir que no era una idea tan mala (aunque no he vuelto a intentarlo).
 
-Pacari va dans le même sens: des olives vertes et du chocolat, c'est un peu saugrenu. Et si c'était surprenament bon?
+Pacari va en la misma línea: aceitunas verdes y chocolate suenan un poco extravagantes. ¿Y si resultara sorprendentemente bueno?
 
-Eh bien non. Ça goûte exactement comme on pense que ça goûte. Des olives verte dans du chocolat noir. C'est certes unique, mais plutôt désagréable...
+Bueno, no lo es. Sabe exactamente como uno podría pensar. Aceitunas verdes en chocolate negro. Es ciertamente único, pero más bien desagradable...
 
-On y retrouve malgré tout le savoir faire de Pacari: je suis certain que c'est un des meilleurs chocolats aux olives vertes du monde!
+A pesar de todo, se nota la habilidad de Pacari: ¡Estoy seguro de que es uno de los mejores chocolates con aceitunas verdes del mundo!
 
-### Notes
 
-_Unicité_: 5  
-_Finesse_: 3  
-_Confort_: 1  
-_Intensité_: 4  
-_Impression générale_: 2
+### Evaluación
 
-**Note finale**: 15/25
+_Originalidad_: 5  
+_Fineza_: 3  
+_Reconfortante_: 1  
+_Intensidad_: 4  
+_Impresión general_: 2
+
+**Evaluación final**: 15/25

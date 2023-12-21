@@ -1,23 +1,26 @@
 ---
 layout: post
 title:  "Galletti - Amazonica - Pineapple, Passion Fruit & Guayusa Energy Plant"
-tags: [Noir, Ananas, Maracuya, Guayusa] 
+tags: [Negro, Piña, Maracuya, Guayusa] 
 categories: [Galletti]
 ---
 
 
-Comme d'habitude avec Galletti, les ingrédients additionnels ne sont pas mélangés à la pâte de chocolat. Ils sont plutôt incorporés en morceaux sechés, en dessous de la tablette. Cela permet de bien séparer le goût du chocolat en lui même de l'apport des éléments ajoutés.
+Como es habitual con Galletti, los ingredientes adicionales no se mezclan con la masa de chocolate. Más bien, se incorporan en trozos secos debajo de la tableta. Esto permite separar bien el sabor del chocolate en sí mismo de la contribución de los elementos añadidos.
 
-Le chocolat de Galletti n'est pas extraordinaire. Plutôt boisé et herbal, son goût n'est ni subtil ni puissant. C'est cependant un petit plaisir coupable lorsque l'on croque une tranche d'ananas séchée. Le maracuya est moins imposant mais on en devine la présence dans de petits moments croquants. La guayusa est plus difficilement identifiable car mes papilles n'y sont pas formées.
-Au final, il ressort un petit côté tropical, pour un ensemble bien agréable.
+El chocolate de Galletti no es extraordinario. Amaderado y herbal, su sabor no es ni sutil ni potente. Sin embargo, es un pequeño placer culpable cuando muerdes una rodaja de piña deshidratada. El maracuyá es menos dominante, pero se percibe en pequeños momentos crujientes. La guayusa es más difícil de identificar porque mis papilas gustativas no están acostumbradas a ella.
+
+En definitiva, resulta un toque tropical, para un conjunto muy agradable.
 
 
-### Notes
 
-_Unicité_: 4.5  
-_Finesse_: 3.5  
-_Confort_: 4.5  
-_Intensité_: 4  
-_Impression générale_: 4
 
-**Note finale**: 20.5/25
+### Evaluación
+
+_Originalidad_: 4.5  
+_Fineza_: 3.5  
+_Reconfortante_: 4.5  
+_Intensidad_: 4  
+_Impresión general_: 4
+
+**Evaluación final**: 20.5/25

@@ -1,23 +1,24 @@
 ---
 layout: post
 title:  "Mashpi - Chocolate Organico 65% Cacao con Cereza de Brunei"
-tags: [Noir, Cerise] 
+tags: [Negro, Cereza] 
 categories: [Mashpi]
 
 ---
 
 
-La cerise de Brunei, ou de Borneo, ne vient, comme son nom l'indiduqe, pas d'Équateur. Il fallait donc aller la chercher... Mais Mashpi fait plus que ça: les cerises sont fermentées, ce qui apporte une saveur inattendue, entre fruit rouge et vin.
+La cereza de Brunei, o de Borneo, no proviene, como su nombre indica, de Ecuador. Por lo tanto, fue necesario ir a buscarla... Pero en Mashpi hacen más que eso: las cerezas se fermentan, lo que aporta un sabor inesperado, entre fruta roja y vino.
 
-Combinée à l'excellent chocolat de Mashpi, c'est une expérience unique, qui en fait une des meilleures barres du chocolat Équatorien.
+Combinada con el excelente chocolate de Mashpi, es una experiencia única que la convierte en una de las mejores barras de chocolate ecuatoriano.
 
 
-### Notes
 
-_Unicité_: 5  
-_Finesse_: 5  
-_Confort_: 5  
-_Intensité_: 5  
-_Impression générale_: 5
+### Evaluación
 
-**Note finale**: 25/25
+_Originalidad_: 5  
+_Fineza_: 5  
+_Reconfortante_: 5  
+_Intensidad_: 5  
+_Impresión general_: 5
+
+**Evaluación final**: 25/25

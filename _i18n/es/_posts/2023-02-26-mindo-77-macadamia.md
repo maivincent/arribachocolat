@@ -1,22 +1,23 @@
 ---
 layout: post
 title:  "Mindo Chocolate - 77% Macadamia"
-tags: [Noir, Macadam] 
+tags: [Negro, Macadamia] 
 categories: [Mindo Chocolate Makers]
 ---
 
 
-En dessous de cette tablette de chocolat de Mindo (oui oui, vous savez, cette base extraordinaire), on ajoute de petits éclats de noix de macadam caramélisés. Et voilà un coté croquant et sucré, une confiserie plus gourmande que gourmette.
+Debajo de esta tableta de chocolate de Mindo (sí, sí, como bien sabe, esa base extraordinaria), se agregan pequeños trozos de nuez de macadamia caramelizados. Y ahí tienes un toque crujiente y dulce, un confite más goloso que refinado.
 
-Une grande différence avec le chocolat Mindo original? Non. Mais ça reste une tablette excellente, comme toujours.
+¿Una gran diferencia con el chocolate Mindo original? No. Pero sigue siendo una tableta excelente, como siempre.
 
 
-### Notes
 
-_Unicité_: 3.5  
-_Finesse_: 4.5  
-_Confort_: 5  
-_Intensité_: 5  
-_Impression générale_: 4.5
+### Evaluación
 
-**Note finale**: 22.5/25
+_Originalidad_: 3.5  
+_Fineza_: 4.5  
+_Reconfortante_: 5  
+_Intensidad_: 5  
+_Impresión general_: 4.5
+
+**Evaluación final**: 22.5/25

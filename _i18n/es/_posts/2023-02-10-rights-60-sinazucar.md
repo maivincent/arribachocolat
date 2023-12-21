@@ -1,24 +1,25 @@
 ---
 layout: post
 title:  "Rights Chocolate Negro - 60% Sin Azucar"
-tags: [Noir, Pur] 
+tags: [Negro, Puro] 
 categories: [Rights]
 ---
 
-La boîte est jolie, mais on dirait plus celle d'une confiserie américaine des années 80 que d'un chocolat fin.
-Et pourtant. Et pourtant!
+La caja es bonita, pero parece más la de una confitería estadounidense de los años 80 que la de un chocolate fino.
+¡Y sin embargo! ¡Y sin embargo!
 
-Une nouvelle belle surprise, un autre membre valeureux de la famille magnifique des chocolats équatoriens. Sous une texture lisse et fondante parfaitement maîtrisée, on y trouve un chocolat léger, aérien, sans aucune amertume, avec des notes d'agrumes, de vanille, et de pêche. 
+Una nueva y agradable sorpresa, otro valioso miembro de la maravillosa familia de chocolates ecuatorianos. Bajo una textura suave y perfectamente dominada, se encuentra un chocolate ligero, aireado, sin amargor alguno, con notas cítricas, de vainilla y durazno.
 
-Il vaut aussi la peine de mentionner que c'est une marque qui fait travailler des personnes en situation de handicap. Merci de nous permettre de profiter d'un chocolat extraordinaire tout en participant à l'inclusion économique des plus courageux d'entre nous.
+También vale la pena mencionar que es una marca que emplea a personas en situación de discapacidad. Gracias por permitirnos disfrutar de un chocolate extraordinario mientras contribuimos a la inclusión económica de los más valientes entre nosotros.
 
 
-### Notes
+### Evaluación
 
-_Unicité_: 4.5  
-_Finesse_: 4.5  
-_Confort_: 4.5  
-_Intensité_: 4.5  
-_Impression générale_: 5
+_Originalidad_: 4.5  
+_Fineza_: 4.5  
+_Reconfortante_: 4.5  
+_Intensidad_: 4.5  
+_Impresión general_: 5
 
-**Note finale**: 23/25
+**Evaluación final**: 23/25
+

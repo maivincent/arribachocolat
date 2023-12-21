@@ -1,27 +1,24 @@
 ---
 layout: post
 title:  "Hoja Verde - 100% Cacao Fino de Aroma"
-tags: [Noir, Pur] 
+tags: [Negro, Puro] 
 categories: [Hoja Verde]
 
 ---
 
-Note à moi même: les chocolats 100% devraient être évalués dans une catégorie spéciale.
-Quand on en achète une tablette, on ne s'attend pas à une barre gourmande, confortable. On sait qu'on n'aura pas à se raisonner pour ne pas la terminer en quelques minutes.
-On veut plutôt une expérience pure, honnête, de la finesse du cacao et du savoir faire du chocolatier. N'étant pas caché derrière un fruit ou un épice, n'étant pas maquillé par du sucre, du beurre de cacao ou du lait, le cacao s'exprime complètement.
+Nota para mí mismo: los chocolates al 100% deberían estar evaluadas en una categoría especial. Cuando compramos una tableta, no esperamos una barra indulgente y reconfortante. Sabemos que no tendremos que contenernos para no terminarla en unos minutos. Más bien, buscamos una experiencia pura, honesta, que muestre la fineza del cacao y la habilidad del chocolatero. Al no estar oculto detrás de una fruta o especia, sin ser disfrazado por azúcar, manteca de cacao o leche, el cacao se expresa completamente.
 
-On a ici un cacao boisé et sec. Il faut attendre quelques secondes pour que les nuances apparaissent: noisettes, paprika, cuir, avec une amertume et une aciditée bien présentes mais contrôlées.
+Aquí tenemos un cacao amaderado y seco. Hay que esperar unos segundos para que aparezcan las sutilezas: avellanas, pimentón, cuero, con una amargura y acidez bien presentes pero controladas.
 
-La texture de ce chocolat est agréable, et n'assèche pas trop la bouche, ce qui est toujours un défi pour les tablettes 100%. Après quelques morceaux, on a quand même envie de prendre un petit verre d'eau ou de lait!
+La textura de este chocolate es agradable y no reseca demasiado la boca, lo cual siempre es un desafío para las tabletas al 100%. ¡Después de algunos trozos, aún dan ganas de tomar un pequeño vaso de agua o leche!
 
+### Evaluación
 
+_Originalidad_: 4  
+_Fineza_: 4  
+_Reconfortante_: 4  
+_Intensidad_: 5  
+_Impresión general_: 4
 
-### Notes
+**Evaluación final**: 21.5/25
 
-_Unicité_: 4.5  
-_Finesse_: 4  
-_Confort_: 4  
-_Intensité_: 5  
-_Impression générale_: 4  
-
-**Note finale**: 21.5/25

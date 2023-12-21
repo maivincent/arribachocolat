@@ -1,25 +1,26 @@
 ---
 layout: post
 title:  "Jeff de Bruges - No 8 - Équateur Corsé & Aromatique - 80% Cacao"
-tags: [Noir, Pur] 
+tags: [Negro, Puro] 
 categories: [Jeff de Bruges]
 
 ---
 
-Voici un autre chocolatier européen qui propose du cacao équatorien.
-La tablette est épaisse, la texture soyeuse, la robe uniforme et profonde.
+Aquí tiene otro chocolatero europeo que ofrece cacao ecuatoriano.
+La tableta es gruesa, la textura sedosa, el color uniforme y profundo.
 
-Au niveau du goût, on retrouve certaines touches caractéristiques du cacao arriba, surtout dans ses accents boisés, avec des couleurs de thé et de noisettes. L'amertume est bien présente, ce qui n'est pas surprenant pour une marque européenne.
+En cuanto al sabor, se encuentran ciertos toques característicos del cacao arriba, especialmente en sus matices amaderados, con tonalidades de té y avellanas. La amargura está bien presente, lo cual no es sorprendente para una marca europea.
 
-Ce chocolat est bon. Il me fait penser aux chocolats plus robustes de Republica del Cacao, celui de Los Rios 75% ou de la Hacienda la Concepcion 85%. Il n'exploite pas, cependant, à leur plein potentiel les saveurs uniques et nuancées du cacao équatorien.
+Este chocolate es bueno. Me recuerda a los chocolates más robustos de Republica del Cacao, como el de Los Rios 75% o el de la Hacienda la Concepcion 85%. Sin embargo, no explora completamente el potencial de las sabores únicas y matizadas del cacao ecuatoriano.
 
 
-### Notes
 
-_Unicité_: 4  
-_Finesse_: 4  
-_Confort_: 4.5  
-_Intensité_: 4.5  
-_Impression générale_: 4.5
+### Evaluación
 
-**Note finale**: 21.5/25
+_Originalidad_: 4  
+_Fineza_: 4  
+_Reconfortante_: 4.5  
+_Intensidad_: 4.5  
+_Impresión general_: 4.5
+
+**Evaluación final**: 21.5/25

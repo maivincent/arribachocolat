@@ -1,22 +1,23 @@
 ---
 layout: post
 title:  "Nat Kaw - 76% Herbal Nativo"
-tags: [Noir, Pur] 
+tags: [Negro, Puro] 
 categories: [Nat Kaw]
 
 ---
 
-Nat Kaw fait des assemblages de cacaos afin de proposer des saveurs distinctes. Dans ce chocolat "herbal", l'objectif est atteint. Les saveurs de thé, thym, cumin et menthe orbitent autour d'un coeur qui rappelle le caramel.
 
-C'est un chocolat extraordinaire par l'exploration et la diversité de ses saveurs. Cependant, à mon goût, il son petit côté austère lui fait perdre la comparaison avec son équivalent "frutal" de la même marque.
+Nat Kaw realiza mezclas de cacao para ofrecer sabores distintivos. En este chocolate "herbal", el objetivo se logra. Los sabores de té, tomillo, comino y menta orbitan alrededor de un núcleo que recuerda al caramelo.
+
+Es un chocolate extraordinario por la exploración y la diversidad de sus sabores. Sin embargo, a mi parecer, su ligero toque austero lo hace perder la comparación con su equivalente "frutal" de la misma marca.
 
 
-### Notes
+### Evaluación
 
-_Unicité_: 5  
-_Finesse_: 5  
-_Confort_: 4  
-_Intensité_: 5  
-_Impression générale_: 4.5
+_Originalidad_: 5  
+_Fineza_: 5  
+_Reconfortante_: 4  
+_Intensidad_: 5  
+_Impresión general_: 4.5
 
-**Note finale**: 23.5/25
+**Evaluación final**: 23.5/25

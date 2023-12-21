@@ -1,21 +1,23 @@
 ---
 layout: post
 title:  "ChocoCumi - Mandarina y Te Verde - 60% Cacao"
-tags: [Noir, Mandarine, Thé] 
+tags: [Negro, Mandarina, Te] 
 categories: [ChocoCumi]
 
 ---
 
-C'est un chocolat qui donne beaucoup plus de place aux saveurs ajoutées qu'au cacao. L'essence de mandarine, en particulier, est très forte, et ne laisse pas la place au cacao arriba de s'exprimer.
-Une bonne friandise à la mandarine, mais difficile à distinguer d'un chocolat à l'orange de grande surface, si ce n'est par un peu d'amertume à la fin. C'est dommage.
+Es un chocolate que otorga mucho más espacio a los sabores añadidos que al cacao. La esencia de mandarina, en particular, es muy fuerte y no deja espacio para que el cacao arriba se exprese.
+Un buen dulce con sabor a mandarina, pero difícil de distinguir de un chocolate de naranja de supermercado, excepto por un poco de amargor al final. Es una lástima.
 
 
-### Notes
 
-_Unicité_: 3  
-_Finesse_: 3  
-_Confort_: 4  
-_Intensité_: 4  
-_Impression générale_: 3.5
 
-**Note finale**: 17.5/25
+### Evaluación
+
+_Originalidad_: 3  
+_Fineza_: 3  
+_Reconfortante_: 4  
+_Intensidad_: 4  
+_Impresión general_: 3.5
+
+**Evaluación final**: 17.5/25

@@ -1,25 +1,27 @@
 ---
 layout: post
 title:  "Mashpi - Chocolate Organico Edicion Especial - Macambo"
-tags: [Noir, Macambo] 
+tags: [Negro, Macambo] 
 categories: [Mashpi]
 
 ---
 
-Qu'est-ce que le macambo?
-C'est un cousin du cacao, qui fait aussi partie du genre theobroma (qui veut dire "nourriture des dieux", en latin).
-On pourrait faire du chocolat de macambo, mais c'est en général moins bon que le chocolat de cacao. Cependant, on peut en mettre des morceaux dans le chocolat: c'est alors assez similaire à de la noix de pecan.
 
-Comme toujours, le chocolat Mashpi est extraordinaire: c'est le même gage de qualité, quelque soit l'ajout de saveur. Le macambo ajoute une petite touche de croquant qui est bien agréable. Une bonne occasion d'essayer le cousin de notre fruit préféré!
+¿Qué es el macambo?
+Es un primo del cacao, que también pertenece al género Theobroma (que significa "comida de los dioses" en latín). Se podría hacer chocolate de macambo, pero generalmente es menos bueno que el chocolate de cacao. Sin embargo, se pueden agregar trozos de macambo al chocolate, lo que lo hace bastante similar a las nueces de pacana.
+
+Como siempre, el chocolate Mashpi es extraordinario: ofrece la misma garantía de calidad, independientemente de la adición de sabores. El macambo añade un pequeño toque crujiente que es muy agradable. ¡Una buena oportunidad para probar el primo de nuestra fruta favorita!
 
 
 
-### Notes
 
-_Unicité_: 4.5  
-_Finesse_: 5  
-_Confort_: 4.5  
-_Intensité_: 5  
-_Impression générale_: 5
 
-**Note finale**: 24/25
+### Evaluación
+
+_Originalidad_: 4.5  
+_Fineza_: 5  
+_Reconfortante_: 4.5  
+_Intensidad_: 5  
+_Impresión general_: 5
+
+**Evaluación final**: 24/25

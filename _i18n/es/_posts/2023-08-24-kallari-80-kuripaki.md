@@ -1,24 +1,25 @@
 ---
 layout: post
 title:  "Kallari - Sacha - 80% Cacao - Kuri paki con nibs de cacao y sal"
-tags: [Noir, Cacao, Sel] 
+tags: [Negro, Cacao, Sal] 
 categories: [Kallari]
 ---
 
-Enfin! Un chocolat Kallari en bon état, qui fait honneur à son nom.
-Car, vous le savez peut-être, les précédentes barres de chocolat Kallari que j'ai essayées m'étaient arrivées en mauvais état.
+¡Finalmente! Un chocolate Kallari en buen estado, que hace honor a su nombre.
+Porque, como quizás sepas, las barras de chocolate Kallari anteriores que probé llegaron en mal estado.
 
-On goûte ici toute la rondeur du cacao Sacha, espèce unique qui provient d'Amazonie. Comme d'habitude, un fort goût de beurre et une étrange fraîcheur.
-Les petits morceaux de sel sont un ajout très agréable, qui vient relever certaines nuances, en faisant en particulier le côté boisé et acidulé des morceaux de cacao qui croquent sous la dent.
+Aquí podemos saborear toda la redondez del cacao Sacha, una especie única que proviene de la Amazonia. Como de costumbre, un fuerte sabor a mantequilla y una extraña frescura.
+Los pequeños trozos de sal son una adición muy agradable, que realza ciertos matices, especialmente el lado amaderado y ácido de los trozos de cacao que crujen bajo la dentadura.
 
-Un très bon chocolat - qui, dans le contexte de ce blog, amène Kallari dans la cour des grands.
+Un chocolate muy bueno, que, en el contexto de este blog, sitúa a Kallari entre los grandes.
 
-### Notes
 
-_Unicité_: 5  
-_Finesse_: 4.5  
-_Confort_: 5  
-_Intensité_: 4.5  
-_Impression générale_: 5
+### Evaluación
 
-**Note finale**: 24/25
+_Originalidad_: 5  
+_Fineza_: 4.5  
+_Reconfortante_: 5  
+_Intensidad_: 4.5  
+_Impresión general_: 5
+
+**Evaluación final**: 24/25
