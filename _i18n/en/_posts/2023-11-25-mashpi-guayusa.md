@@ -1,22 +1,21 @@
 ---
 layout: post
 title:  "Mashpi - Chocolate organico Edicion especial - Guayusa"
-tags: [Noir, Guayusa] 
+tags: [Dark, Guayusa] 
 categories: [Mashpi]
 
 ---
 
-La guayusa est une plante de la famille du houx, originaire de la forêt amazonienne et qui possède de la cafféine. Elle est donc utilisée en tisane, comme du thé, pour ses effets stimulants.
-Mes papilles ont du mal à en reconnaître le goût. Dans ce chocolat - édition spéciale de Mashpi - c'est en tout cas un côté herbal qui ressort, et qui laisse un arrière goût un peu âpre.
+Guayusa is a plant from the holly family, native to the Amazon rainforest, and it contains caffeine. It is used as an herbal tea, similar to tea, for its stimulating effects. My taste buds struggle to recognize its flavor. In this chocolate - a special edition from Mashpi - an herbal aspect comes through, leaving a slightly bitter aftertaste.
 
-C'est une expérience intéressante, pour découvrir une nouvelle plante (et peut-être, se réveiller un peu?), mais ce n'est pas le mélange qui met le plus en valeur le chocolat Mashpi. 
+It's an interesting experience to discover a new plant (and perhaps, wake up a bit?), but it's not the blend that best showcases Mashpi's chocolate.
 
-### Notes
+### Evaluation
 
-_Unicité_: 5  
+_Uniqueness_: 5  
 _Finesse_: 4  
-_Confort_: 4  
-_Intensité_: 4.5  
-_Impression générale_: 4
+_Comfort_: 4  
+_Intensity_: 4.5  
+_General impression_: 4
 
-**Note finale**: 21.5/25
+**Final evaluation**: 21.5/25

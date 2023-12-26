@@ -5,15 +5,15 @@ Si vous demandez à un.e Équatorien.ne de vous nommer une marque de chocolat fi
 Des boutiques dans les aéroports et les centres commerciaux, des cafés et restaurants, des produits dérivés, des ventes en supermarché et en pharmacie, et une exportation à l'international: ces deux compagnies sont les pionnières, les plus connues et l'exemple du succès de ce chocolat.
 
 
-### Pacari
+### Paccari
 
-[Pacari](www.pacari.com), c'est une compagnie familiale fondée en 2002, qui produit du chocolat biologique et équitable. Ils furent parmi les premiers à parier sur le cacao arriba pour une production à grand volume. Les barres Pacari ont depuis gagné (et gagnent toujours) quantité de prix à l'international. 
+[Paccari](www.paccari.com), anciennement appelé Pacari, est une compagnie familiale fondée en 2002, qui produit du chocolat biologique et équitable. Ils furent parmi les premiers à parier sur le cacao arriba pour une production à grand volume. Les barres Paccari ont depuis gagné (et gagnent toujours) quantité de prix à l'international. 
 
-Le terme "Pacari", en Quechua, signifie "nature" et "réveil", et son logo représente un hieroglyphe d'homme-arbre, vieux de plus de 5000 ans, appartenant à la culture Valdivienne de la côte équatorienne.
+Le terme "Paccari", en Quechua, signifie "nature" et "réveil", et son logo représente un hieroglyphe d'homme-arbre, vieux de plus de 5000 ans, appartenant à la culture Valdivienne de la côte équatorienne.
 
-Pacari mise aussi sur une agriculture soutenable et le support des familles de fermiers qui produisent le cacao arriba. En particulier, selon [cette entrevue](https://cocoarunners.com/maker/pacari/), ils ne font affaire qu'avec de petits producteurs, qu'ils encouragent à suivre la voie de la permaculture et de cultiver d'autres plantes à côté du cacao.
+Paccari mise aussi sur une agriculture soutenable et le support des familles de fermiers qui produisent le cacao arriba. En particulier, selon [cette entrevue](https://cocoarunners.com/maker/pacari/), ils ne font affaire qu'avec de petits producteurs, qu'ils encouragent à suivre la voie de la permaculture et de cultiver d'autres plantes à côté du cacao.
 
-Le chocolat Pacari est vendu dans plus de 60 pays du monde, entre autres au Canada depuis 2020: à Montréal, on peut le trouver chez Rachel Berri, et en Ontario chez Metro.
+Le chocolat Paccari est vendu dans plus de 60 pays du monde, entre autres au Canada depuis 2020: à Montréal, on peut le trouver chez Rachel Berri, et en Ontario chez Metro.
 
 ### Republica del Cacao
 
@@ -96,7 +96,13 @@ Ils vendent plusieurs types de chocolats, certains faits à partir de cacao naci
 
 
 ### Wiñak
-[Wiñak](https://www.winak.org/?lang=en) est une autre entreprise communautaire associée à Chakra, femme et chocolat. Comme pour Tsatsayaku, je n'ai pas encore trouvé de leurs tablettes. Plus de détails l'an prochain, j'espère!
+[Wiñak](https://www.winak.org/?lang=en) est une autre entreprise communautaire associée à Chakra, femme et chocolat. J'ai pu commander de leurs tablettes à Quito en les contactant par courriel.
+
+
+### Malky
+[Malky](https://www.facebook.com/yuramuyo/) est un projet sur lequel il n'existe que peu d'information. Il semble (mais je peux me tromper) qu'il s'agit d'une entreprise fondée par une femme Kichwa, Senaida Cerda, afin de soutenir les femmes dans les communautés d'Amazonie. C'est relié, de près ou de loin, au projet [Woman of the Rio Napo](https://www.rainforestpartnership.org/projects/women-of-the-rio-napo) du Rainforest Partnership. Selon l'emballage des tablettes, il y a aussi un lien avec l'entreprise [Valenco](https://valenco.com.ec/), qui produit entre autres du chocolat fin d'arôme pour les chocolatiers. 
+J'ai trouvé une tablette au Pasaje Arzobispal du centre historique de Quito.
+
 
 ## Les petites productions
 
@@ -157,6 +163,19 @@ Ces chocolats ont tous été primés en 2021. Je crois donc que c'est une marque
 ### Belly's
 [Belly's Cocoa](https://www.chocolatesbellyscocoa.com/) se spécialise dans le cacao fin d'arôme d'altitude, c'est à dire, cultivé à plus de 1000 mètres d'altitude dans le choco andino, écosystème protégé proche de Quito. Pour réussir à produire du cacao dans ces conditions, il aura fallu de nombreuses années de recherche et de sélection génétique. À la base provenant de la famille CCN-51, dont la qualité est inférieure au cacao fin d'arôme, le nommé [Rio Alambi](https://cocoaflavormap.cacaomovil.com/site/place/rio-alambi) présente des caractéristiques uniques. 
 On m'a donné des tablettes Belly's. On peut en commander depuis Quito, sur leur site internet.
+
+### Victory
+[Victory Ecuadorian Product](https://www.victoryecuadorianproduct.com/) semble une petite entreprise de chocolat équatorien qui a commencé en 2022 avec des bonbons pralines et qui produit aussi quelques barres de chocolat. Il est écrit sur leur page [Facebook](https://www.facebook.com/photo/?fbid=171233948834851&set=pcb.171234272168152) que le cacao est le CCN51, soit la plus commune et productive des espèces de cacao, cependant, qu'ils choisissent le cacao de plus haute qualité, le fino d'aroma.
+Nous avons trouvé leurs barres dans le café d'une des tours de la Basilica del Voto Nacional, au centre historique.
+
+### Huma
+[Huma](https://humachocolate.com/) produit du chocolat Single Origin à partir de cacao acheté directement des producteurs venant de plusieurs régions d'Équateur, comme Guayaquil, Tsachila, Montanita, Cotopaxi, Quitu, et Yasuni. Ce n'est pas du cacao arriba, mais bien du fino d'aroma. J'ai trouvé leurs tablettes dans une boutique du Pasaje Arzobispal, situé au coeur du centre historique de Quito.
+
+### Mestizo
+
+Il y a peu d'information sur le site internet de [Mestizo](https://beacons.ai/mestizo). Peu de choses aussi sur leur [Facebook](https://www.facebook.com/profile.php?id=100076049232989). Les emballages des tablettes parlent simplement de cacao fino d'aroma d'Équateur et de commerce équitable avec de petits producters. Cependant, un détail permet d'allr chercher plus loin: c'est produit par "PapaCacao" à Pomasqui. PapaCacao? Un détective trouverait [ici](https://www.culturaypatrimonio.gob.ec/wp-content/uploads/downloads/2023/07/Agenda-Cultural-y-Patrimonial-14-al-27-JUL-2023-V3.pdf) un article de l'agenda culturel du gouvernement Équatorien qui met de l'avant [Jaime Freire](https://www.linkedin.com/in/jaime-freire-gonz%C3%A1lez-24995858/?originalSubdomain=ec), surnommé Papa Cacao, qui serait à l'origine du projet de réactivation du cacao nacional arriba et fino d'aroma du gouvernement Équatorien dans les années 2010 et qui a depuis formé plusieurs chocolatiers équatoriens.
+Quel est le lien exact entre Mestizo et Papa Cacao? À creuser. En tout cas, j'ai trouvé ces tablettes dans une boutique du Pasaje Arzobispal, situé au coeur du centre historique de Quito.
+
 
 ## Les marques étrangères
 Le cacao fino d'aroma d'Équateur est connu depuis longtemps en dehors de ses frontières. Voici donc quelques marques qui l'utilisent.

@@ -14,13 +14,13 @@ The little bits of salt are a very pleasant addition, bringing out certain nuanc
 
 A very good chocolate - which, in the context of this blog, puts Kallari in the big league.
 
-### Notes
 
-_Unicité_: 4.5  
+### Evaluation
+
+_Uniqueness_: 4.5  
 _Finesse_: 5  
-_Confort_: 4.5  
-_Intensité_: 5  
-_Impression générale_: 5
+_Comfort_: 4.5  
+_Intensity_: 5  
+_General impression_: 5
 
-**Note finale**: 24/25
-
+**Final evaluation**: 24/25

@@ -1,21 +1,23 @@
 ---
 layout: post
 title:  "Conexion - Virgin - 100% Cacao Arriba"
-tags: [Noir, Pur] 
+tags: [Dark, Pure] 
 categories: [Conexion]
 
 ---
 
-Encore un chocolat 100% qui défie les stéréotype. Conexion démontre ici un cacao fin et léger. Après un petit coup intense de poivre noir et de whisky, le chocolat fondant laisse s'échapper des notes douces de violette et de réglisse.
 
-Parfaitement équilibré au niveau de la texture et de l'astringence, c'est un chocolat 100% qui se mange tout seul. Un coup de maître de Conexion.  	  
+Another 100% chocolate that defies stereotypes. Conexion demonstrates here a fine and light cocoa. After a brief intense kick of black pepper and whiskey, the melting chocolate releases gentle notes of violet and licorice.
 
-### Notes
+Perfectly balanced in terms of texture and astringency, it's a 100% chocolate that stands well on its own. A masterstroke by Conexion.
 
-_Unicité_: 5  
+
+### Evaluation
+
+_Uniqueness_: 5  
 _Finesse_: 5  
-_Confort_: 4.5  
-_Intensité_: 5  
-_Impression générale_: 4.5
+_Comfort_: 4.5  
+_Intensity_: 5  
+_General impression_: 4.5
 
-**Note finale**: 24/25
+**Final evaluation**: 24/25

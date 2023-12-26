@@ -42,11 +42,20 @@ In the steps of Pacari and Republica del Cacao, several companies have establish
 
 [Valdivian](https://www.facebook.com/ValdivianChocolate) owes its name to one of the oldest civilizations in Ecuador, which lived on the west coast, near Guayaquil. They use organic arriba cocoa from several regions, and distribute their bars in all SuperMaxi stores. 
 
-### La Leyenda del Chocolate
-[La Leyenda del Chocolate](http://chocoleyenda.com/) is yet to be discovered - I haven't bought a bar from this brand yet!
-
 ### Arawi
 [Arawi](https://www.arawicacao.com/) is a company founded in 2010 in Cuenca, which produces several types of bars of organic aroma nacional fino cocoa. You can find their bars in Supermaxi and Coral supermarkets, among others. 
+
+### Conexion
+
+[Conexion](https://www.conexionchocolate.com/), an Ecuadorian and American company, aims to promote artisanal and fair-trade chocolate made from arriba chocolate. Targeting the market of American fine chocolate enthusiasts, you can order their chocolate bars in the United States. In Quito, I found their chocolate at [Cacao & Cacao](https://kacaoshop.com/), a must-visit small shop for Ecuadorian chocolates.
+
+### Rights
+
+[Rights](https://rightschocolates.com/) is a company that promotes inclusivity by employing individuals living with physical or intellectual disabilities and producing chocolate from fine flavor cocoa in a fair-trade manner. Its chocolate bars can be found, among other places, in SuperMaxi supermarkets.
+
+
+### La Leyenda del Chocolate
+[La Leyenda del Chocolate](http://chocoleyenda.com/) is yet to be discovered - I haven't bought a bar from this brand yet!
 
 
 ## From Mindo
@@ -80,15 +89,24 @@ They sell several types of chocolates, some made from nacional arriba cocoa, oth
 
 [Tsatsayaku](https://www.tsatsayaku.com/) is a small brand associated with the Chakra, woman and chocolate campaign. It is an association of women producers from the canton of Carlos Julio Arosemena Tola, in the province of Napo, in the Amazon. The project looks really nice, but I haven't bought any bars of this brand yet: the treasure hunt will continue next year!
 
+### Witoca
+
+[Witoca](http://www.witoca.com/) is a community in the Amazon that primarily produces coffee but also crafts [chocolate](https://producersmarket.com/product/chocolate-witoca-9ed1bde281984307ab1920dc197261c4) using the Chakra system. I found a chocolate bar at the artisanal market in Quito.
+
 ### Wiñak
-[Wiñak](https://www.winak.org/?lang=en) is another community business associated with Chakra, woman and chocolate. Like Tsatsayaku, I haven't found any of their shelves yet. More details next year, I hope!
+
+[Wiñak](https://www.winak.org/?lang=en) is another community enterprise associated with Chakra, focusing on women and chocolate. I was able to order their chocolate bars in Quito by contacting them via email.
+
+### Malky
+
+[Malky](https://www.facebook.com/yuramuyo/) is a project with limited available information. It appears (though I may be mistaken) to be an enterprise founded by a Kichwa woman, Senaida Cerda, with the aim of supporting women in Amazonian communities. It is somehow connected, closely or loosely, to the [Woman of the Rio Napo](https://www.rainforestpartnership.org/projects/women-of-the-rio-napo) project by Rainforest Partnership. According to the packaging of the chocolate bars, there is also a link to the company [Valenco](https://valenco.com.ec/), which produces, among other things, fine flavor chocolate for chocolatiers. I found a chocolate bar at Pasaje Arzobispal in the historic center of Quito.
 
 ## The small productions
 
 Following the example of the larger productions, several small entrepreneurs are trying their luck. These chocolates are more difficult to find: in fairs, small markets, or specialized stores. It's a little treasure hunt!
 
 
-### Cleo'sERR_CONNECTION_REFUSED
+### Cleo's
 Website: Cleo's tortillas [Facebook](https://www.facebook.com/cleos.tortillas) page. [Promotional video](https://www.youtube.com/watch?v=SlsUV0VwxxI) produced by the Mexican Embassy in Ecuador. Sales points in Quito? The little [fruteria don Vic](https://foursquare.com/v/la-fruteria/4bcb58a6b6c49c745d019291/photos) on Gonzalez Suarez.
 
 From what I understand, Cleotilde Gascon is a Mexican established in Quito, who produces a few food items, including arriba chocolate. Which is by the way excellent. To contact her, the number is in the description of the promotional video!
@@ -128,6 +146,31 @@ These chocolates have all won awards in 2021, so I think it's a very new brand. 
 ### Chicao
 [Chicao (https://www.facebook.com/chicaochocolate/) is a small tourist farm around the Silanche River, near Puerto Quito, on the slopes of the Andes that descend to the Pacific coast. They use agroforestry, that is to say the cultivation of cocoa in the forest, in order to enrich their chocolate with the aromas of the woods. Chicao is also a center for the study of arriba cocoa, and is sometimes visited by local and international universities and colleges. The name Chicao comes from a beautiful yellow bird of the cloud forest, the black and gold oriole.
 
+
+### Arariwa
+
+[Arariwa](https://www.arariwacacao.com/) is a small Ecuadorian company led by women, whose name means "guardians of the Chakras," representing the traditional way of managing cocoa production by women (refer to the section on Kallari for more details). You can find their chocolate bars at certain gourmet fairs, the artisanal market, or at [Cacao & Cacao](https://kacaoshop.com/).
+
+### Choco Cumi
+
+[Choco Cumi](www.facebook.com/TalitaChocoCumi/) is a small brand born from the [Talita Cumi](https://www.facebook.com/MujeresValientesTalitaCumi/) foundation, which assists single mothers. The dual objective is to valorize Ecuadorian fine flavor cocoa with unique chocolates and to empower women who have experienced violence and are in vulnerable situations. The brand, established in 2016 or 2017, defines itself as the "women of chocolate." In 2022, I found their chocolate only at the artisanal market. They may have expanded their points of sale since then.
+
+### Belly's
+
+[Belly's Cocoa](https://www.chocolatesbellyscocoa.com/) specializes in high-altitude fine flavor cocoa, cultivated at over 1000 meters above sea level in the Andean Chocó, a protected ecosystem near Quito. To successfully produce cocoa in these conditions, it required many years of research and genetic selection. Originally from the CCN-51 family, whose quality is inferior to fine flavor cocoa, the named [Rio Alambi](https://cocoaflavormap.cacaomovil.com/site/place/rio-alambi) presents unique characteristics. I was given Belly's chocolate bars. You can order them from Quito on their website.
+
+### Victory
+
+[Victory Ecuadorian Product](https://www.victoryecuadorianproduct.com/) appears to be a small Ecuadorian chocolate company that started in 2022 with praline candies and also produces some chocolate bars. It is stated on their [Facebook](https://www.facebook.com/photo/?fbid=171233948834851&set=pcb.171234272168152) page that they use CCN51 cocoa, the most common and productive cocoa species, but they select the highest quality, fino de aroma cocoa. We found their bars in the cafe of one of the towers of the Basilica del Voto Nacional, in the historic center.
+
+### Huma
+
+[Huma](https://humachocolate.com/) produces Single Origin chocolate from cocoa purchased directly from producers in various regions of Ecuador, such as Guayaquil, Tsachila, Montanita, Cotopaxi, Quitu, and Yasuni. It's not arriba cocoa but rather fino de aroma. I found their chocolate bars in a shop in Pasaje Arzobispal, located in the heart of the historic center of Quito.
+
+### Mestizo
+
+There is limited information on the [Mestizo](https://beacons.ai/mestizo) website, and not much on their [Facebook](https://www.facebook.com/profile.php?id=100076049232989) page either. The packaging of the bars simply mentions Ecuadorian fino de aroma cocoa and fair trade with small producers. However, a detail invites further investigation: it is produced by "PapaCacao" in Pomasqui. PapaCacao? A detective would find [here](https://www.culturaypatrimonio.gob.ec/wp-content/uploads/downloads/2023/07/Agenda-Cultural-y-Patrimonial-14-al-27-JUL-2023-V3.pdf) an article in the Ecuadorian government's cultural agenda that highlights [Jaime Freire](https://www.linkedin.com/in/jaime-freire-gonz%C3%A1lez-24995858/?originalSubdomain=ec), nicknamed Papa Cacao, who is said to be the originator of the Ecuadorian government's project to reactivate arriba nacional and fino de aroma cocoa in the 2010s and has since trained several Ecuadorian chocolatiers. What is the exact connection between Mestizo and Papa Cacao? That remains to be explored. In any case, I found these bars in a shop in Pasaje Arzobispal, located in the heart of the historic center of Quito.
+
 ## Foreign brands
 Ecuador's fino d'aroma cocoa has long been known outside its borders. Here are some brands that use it.
 
@@ -141,3 +184,11 @@ Everyone knows [Lindt](https://www.lindt-spruengli.com/), the international fine
 ### Avanaa
 
 [Avanaa](https://www.avanaa.ca/en/) is a Montreal based chocolate factory located in Villeray. Their chocolate bars are crafted from cocoa beans directly imported from sustainable producers from everywhere in the world. This includes Ecuador, with Kallari cocoa!
+
+### Monarque
+
+[Monarque](https://chocolats-monarque.square.site/) is another small bean-to-bar chocolate shop based in Mile End, Montreal, sourcing its cocoa mainly from Central and Latin America. I found its Ecuadorian bars at the [État de Choc](https://www.etatdechoc.com/fc/) store on St-Laurent.
+
+### Legast
+
+[Legast](https://www.legastchocolatier.com/home) is a Belgian-Colombian chocolatier based in Braine le Compte, Wallonia. In addition to traditional pralines and macarons, they offer several dark chocolate bars with cocoa sourced from various parts of Latin America, including, of course, one from Ecuador with arriba nacional cocoa. I found this bar during a trip to Brussels, at The Belgium Chocolate Factory store in Galerie du Roy.

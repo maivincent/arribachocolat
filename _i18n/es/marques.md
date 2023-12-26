@@ -98,6 +98,12 @@ Venden varios tipos de chocolate, algunos hechos con cacao nacional de arriba, o
 ### Wiñak
 [Wiñak](https://www.winak.org/) es otra empresa comunitaria asociada a Chakra, las mujeres y el chocolate. Al igual que con Tsatsayaku, aún no he encontrado ninguna de sus estanterías. Espero que el año que viene haya más novedades.
 
+### Malky
+
+[Malky](https://www.facebook.com/yuramuyo/) es un proyecto del cual hay poca información disponible. Parece (aunque podría equivocarme) que se trata de una empresa fundada por una mujer Kichwa, Senaida Cerda, con el objetivo de apoyar a las mujeres en las comunidades de la Amazonía. Está vinculado, de cerca o de lejos, al proyecto [Woman of the Rio Napo](https://www.rainforestpartnership.org/projects/women-of-the-rio-napo) de Rainforest Partnership. Según el empaque de las tabletas, también hay una conexión con la empresa [Valenco](https://valenco.com.ec/), que produce, entre otras cosas, chocolate fino de aroma para chocolateros.
+
+Encontré una tableta en el Pasaje Arzobispal del centro histórico de Quito.
+
 ## Producciones más pequeñas
 
 Siguiendo el ejemplo de las grandes producciones, varios pequeños empresarios están probando suerte. Estos chocolates son más difíciles de encontrar: en ferias, pequeños mercados o tiendas especializadas. Es una pequeña búsqueda del tesoro.
@@ -162,6 +168,19 @@ Todos estos chocolates han sido premiados en 2021. Así que creo que es una marc
 [Belly's Cocoa](https://www.chocolatesbellyscocoa.com/) se especializa en cacao fino de aroma de altura, es decir, cultivado a más de 1000 metros de altura en el chocó andino, un ecosistema protegido cerca de Quito. Para lograr producir cacao en estas condiciones, se necesitaron muchos años de investigación y selección genética. Inicialmente proveniente de la familia CCN-51, cuya calidad es inferior al cacao fino de aroma, el llamado [Rio Alambi](https://cocoaflavormap.cacaomovil.com/site/place/rio-alambi) presenta características únicas.
 
 Me regalaron tabletas de Belly's. Puedes hacer pedidos desde Quito a través de su sitio web.
+
+
+### Victory
+
+[Victory Ecuadorian Product](https://www.victoryecuadorianproduct.com/) parece ser una pequeña empresa de chocolate ecuatoriano que comenzó en 2022 con bombones pralinés y también produce algunas tabletas de chocolate. En su página [Facebook](https://www.facebook.com/photo/?fbid=171233948834851&set=pcb.171234272168152), se menciona que utilizan cacao CCN51, la especie de cacao más común y productiva, pero eligen la más alta calidad, el fino de aroma. Encontramos sus tabletas en el café de una de las torres de la Basílica del Voto Nacional, en el centro histórico.
+
+### Huma
+
+[Huma](https://humachocolate.com/) produce chocolate Single Origin a partir de cacao comprado directamente a productores de varias regiones de Ecuador, como Guayaquil, Tsachila, Montanita, Cotopaxi, Quitu y Yasuni. Aunque no es cacao arriba, es fino de aroma. Encontré sus tabletas en una tienda del Pasaje Arzobispal, ubicado en el corazón del centro histórico de Quito.
+
+### Mestizo
+
+Hay poca información en el sitio web de [Mestizo](https://beacons.ai/mestizo). También hay poca información en su [Facebook](https://www.facebook.com/profile.php?id=100076049232989). Los envases de las tabletas simplemente hablan de cacao fino de aroma de Ecuador y comercio justo con pequeños productores. Sin embargo, un detalle permite investigar más a fondo: está producido por "PapaCacao" en Pomasqui. ¿PapaCacao? Un detective encuentraría [aquí](https://www.culturaypatrimonio.gob.ec/wp-content/uploads/downloads/2023/07/Agenda-Cultural-y-Patrimonial-14-al-27-JUL-2023-V3.pdf) un artículo en la agenda cultural del gobierno ecuatoriano que destaca a [Jaime Freire](https://www.linkedin.com/in/jaime-freire-gonz%C3%A1lez-24995858/?originalSubdomain=ec), apodado Papa Cacao, quien supuestamente está detrás del proyecto de reactivación del cacao nacional arriba y fino de aroma del gobierno ecuatoriano en la década de 2010 y que ha formado a varios chocolateros ecuatorianos desde entonces. ¿Cuál es el vínculo exacto entre Mestizo y Papa Cacao? Es algo que se debe investigar. En cualquier caso, encontré estas tabletas en una tienda del Pasaje Arzobispal, ubicado en el corazón del centro histórico de Quito.
 
 
 ## Marcas extranjeras

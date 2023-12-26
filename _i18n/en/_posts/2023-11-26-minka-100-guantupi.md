@@ -1,25 +1,24 @@
 ---
 layout: post
 title:  "Minka - 100% - Hacienda Guantupi"
-tags: [Noir, Pur] 
+tags: [Dark, Pure] 
 categories: [Minka]
 ---
 
-J'ai fait goûter ce chocolat noir 100% à cinq collègues de bureau. Je n'ai reçu que de bons commentaires. Il y a deux possibilités: 1) devant mon enthousiasme, mes collègues se sont sentis obligés de feindre une bonne surprise, ou 2) c'est un chocolat noir 100% qui est accessible et que l'on peut apprécier en tant que tel.
 
-Je mise sur un peu des deux (oui, je suis parfois un peu trop enthousiaste), mais le fait est que ce chocolat de Minka est riche des saveurs et des nuances du cacao arriba, alors qu'il n'est pas amer et d'une atringence très supportable. Sur la boite, il est écrit: aromes de fleurs, caramel, bois, miel, raisins secs, épices. Pour moi, le bois, les épices (poivre), et les fleurs, ça fonctionne. Mais sans sucre, c'est dur de sentir le miel, le caramel ou les raisins.
+I had five colleagues at the office taste this 100% dark chocolate. I received only positive comments. There are two possibilities: 1) Faced with my enthusiasm, my colleagues felt obliged to pretend a pleasant surprise, or 2) it's a 100% dark chocolate that is accessible and can be enjoyed as such.
 
-Ça reste un très bon chocolat 100%, peut-être le meilleur pour ceux qui essaient pour la première fois.
+I'm betting on a bit of both (yes, I'm sometimes a bit too enthusiastic), but the fact is that this chocolate from Minka is rich in the flavors and nuances of Arriba cocoa, while not being bitter and with a very tolerable astringency. On the box, it says: aromas of flowers, caramel, wood, honey, raisins, spices. For me, the wood, spices (pepper), and flowers are indeed present. But without sugar, it's tough to pick up on the honey, caramel, or raisins.
+
+It remains a very good 100% chocolate, perhaps the best for those trying it for the first time.
 
 
+### Evaluation
 
-
-### Notes
-
-_Unicité_: 4  
+_Uniqueness_: 4  
 _Finesse_: 4.5  
-_Confort_: 4.5 
-_Intensité_: 5  
-_Impression générale_: 4.5
+_Comfort_: 4.5  
+_Intensity_: 5  
+_General impression_: 4.5
 
-**Note finale**: 22.5/25
+**Final evaluation**: 22.5/25

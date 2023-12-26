@@ -1,22 +1,22 @@
 ---
 layout: post
 title:  "Pacari - Chocolate con Juniper-Enebro-Gin - 60% Cacao"
-tags: [Noir, Genièvre] 
+tags: [Dark, Juniper] 
 categories: [Pacari]
 
 ---
 
-Une combinaison étrange de saveurs, et pourtant, le mélange est parfait. La baie de genièvre est souvent utilisée pour faire du gin - c'est donc le premier élément qui vient à l'esprit. Après la première surprise, elle laisse cependant le chocolat s'exprimer, le relevant et permettant à ses saveurs d'être découvertes sous un nouvel angle.
+A strange combination of flavors, and yet, the blend is perfect. Juniper berry is often used to make gin - so that's the first element that comes to mind. After the initial surprise, however, it allows the chocolate to express itself, enhancing it and enabling its flavors to be discovered from a new perspective.
 
-Un pari très bien tenu pour Pacari.  
+A very well-executed gamble by Pacari.
 
 
-### Notes
+### Evaluation
 
-_Unicité_: 5  
+_Uniqueness_: 5  
 _Finesse_: 4.5  
-_Confort_: 5  
-_Intensité_: 4.5  
-_Impression générale_: 4.5
+_Comfort_: 5  
+_Intensity_: 4.5  
+_General impression_: 4.5
 
-**Note finale**: 23.5/25
+**Final evaluation**: 23.5/25

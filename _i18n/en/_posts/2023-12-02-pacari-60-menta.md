@@ -1,30 +1,31 @@
 ---
 layout: post
 title:  "Pacari - Chocolate con Menta - 60% Cacao"
-tags: [Noir, Menthe] 
+tags: [Dark, Mint] 
 categories: [Pacari]
 
 ---
 
-Du chocolat à la menthe... Quoi de plus classique? After Eight, vous avez dit?
 
-Attendez, ici, on parle de "menthe andine", appelée muña ou tipo. Je ne cacherai pas mon ignorance en botanique qui m'empêche d'interpéter correctement les informations récoltées sur Wikipédia: _minthostachys mollis_ fait-elle partie du genre _mentha_, ou est-ce un cousin proche? 
+Mint chocolate... What could be more classic? Did I hear you say After Eight?
 
-Toujours est-il que c'est aérien, moins herbal ou glacial que les menthes plus communes. Ce qui, associé au cacao nacional et au chocolat Pacari, propose une expérience unique, plus fine et unique qu'un After Eight.
+Wait, here we're talking about "Andean mint," called muña or tipo. I won't hide my botanical ignorance, which prevents me from interpreting the information gathered on Wikipedia correctly: does minthostachys mollis belong to the mentha genus, or is it a close cousin?
 
-Le meilleur chocolat équatorien? Non.
-Le meilleur chocolat Pacari? Non plus.
-Le meilleur chocolat à la menthe que j'ai gouté? Ça, oui.
+Nevertheless, it's airy, less herbal or icy than more common mints. This, combined with Nacional cocoa and Pacari chocolate, offers a unique, finer experience than an After Eight.
 
-(Enfin, seulement si c'est vraiment de la menthe.)
+The best Ecuadorian chocolate? No.
+The best Pacari chocolate? Not quite.
+The best mint chocolate I've tasted? Yes, indeed.
+
+(Well, only if it's really mint.)
 
 
-### Notes
+### Evaluation
 
-_Unicité_: 4.5  
+_Uniqueness_: 4.5  
 _Finesse_: 4.5  
-_Confort_: 4.5  
-_Intensité_: 4.5  
-_Impression générale_: 4.5
+_Comfort_: 4.5  
+_Intensity_: 4.5  
+_General impression_: 4.5
 
-**Note finale**: 22.5/25
+**Final evaluation**: 22.5/25

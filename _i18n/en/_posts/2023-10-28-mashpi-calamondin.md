@@ -1,25 +1,24 @@
 ---
 layout: post
 title:  "Mashpi - Chocolate Organico 65% con Calamondin"
-tags: [Noir, Calamondin] 
+tags: [Dark, Calamondin] 
 categories: [Mashpi]
 
 ---
 
-Le calamondin? En Équateur? Avec du chocolat? C'est un choix original, et audacieux. Le calamondin est un petit agrume originaire des Philippines, proche de la mandarine et du kumquat.
+Calamondin? In Ecuador? With chocolate? That's an original and bold choice. Calamondin is a small citrus fruit native to the Philippines, similar to mandarin and kumquat.
 
-Son zeste parfumé se marie parfaitement au chocolat fruité et riche de Mashpi, qui se termine sur une petite goutte d'amertume. C'est d'une finesse et d'une intensité rares.
+Its fragrant zest blends perfectly with Mashpi's fruity and rich chocolate, culminating in a subtle drop of bitterness. It's a rare combination of finesse and intensity.
 
-Comme souvent, Mashpi va chercher des mélanges improbables, qui pourtant, lorsqu'on les savoure, semblent évidents.
+As often is the case, Mashpi explores unlikely blends that, when tasted, seem surprisingly obvious.
 
 
+### Evaluation
 
-### Notes
-
-_Unicité_: 5  
+_Uniqueness_: 5  
 _Finesse_: 5  
-_Confort_: 4.5  
-_Intensité_: 5  
-_Impression générale_: 5
+_Comfort_: 4.5  
+_Intensity_: 5  
+_General impression_: 5
 
-**Note finale**: 24.5/25
+**Final evaluation**: 24.5/25

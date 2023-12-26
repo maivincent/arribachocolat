@@ -1,21 +1,23 @@
 ---
 layout: post
 title:  "Mayta Luxury Ecuadorian Chocolate - 55% Raspberry"
-tags: [Noir, Framboise] 
+tags: [Dark, Raspberry] 
 categories: [Mayta]
 ---
 
 
-Les petits morceaux de framboise séchée, ajoutés sous la tablette, apportent une touche d'acidité ronde qui se mêle parfaitement au chocolat onctueux et réconfortant de Mayta.
+The small pieces of dried raspberry added beneath the chocolate bring a rounded touch of acidity that blends perfectly with Mayta's smooth and comforting chocolate.
 
-Ce chocolat n'est peut-être pas unique par les nuances de son cacao. C'est plutôt l'impression de croquer au coeur d'une mousse chocolat-framboise élaborée par un maître patissier, de déguster un riche brownie accompagné d'un sorbet framboise qui fond nonchalamment, qui en fait un chocolat nécessaire à tout amateur.
+This chocolate may not be unique in the nuances of its cocoa. Instead, it gives the impression of biting into the heart of a chocolate-raspberry mousse crafted by a master pastry chef, savoring a rich brownie accompanied by a raspberry sorbet that melts languidly. This makes it a chocolate essential for any connoisseur.
 
-### Notes
 
-_Unicité_: 4.5  
+
+### Evaluation
+
+_Uniqueness_: 4.5  
 _Finesse_: 5  
-_Confort_: 5  
-_Intensité_: 5  
-_Impression générale_: 5
+_Comfort_: 5  
+_Intensity_: 5  
+_General impression_: 5
 
-**Note finale**: 24.5/25
+**Final evaluation**: 24.5/25

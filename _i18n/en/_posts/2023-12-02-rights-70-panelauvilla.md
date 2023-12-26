@@ -1,21 +1,24 @@
 ---
 layout: post
 title:  "Rights Chocolate Negro - 70% Panela y Uvilla"
-tags: [Noir, Goldenberry, Panela] 
+tags: [Dark, Goldenberry, Panela] 
 categories: [Rights]
 ---
 
-Ce chocolat de Rights est très agréable. Le goût un rond du sucre de canne, bien présent, se marie bien avec l'acidité des uvillas (une sorte de cerise de terre). Le cacao fin et léger de Rights complète le tout, liant chaleureux aux tons de pêche et de miel.
 
-Une performance solide.
+This chocolate from Rights is very enjoyable. The round taste of cane sugar, quite prominent, pairs well with the acidity of uvillas (a type of ground cherry). The fine and light cocoa from Rights completes the picture, creating a warm blend with hints of peach and honey.
+
+A solid performance.
 
 
-### Notes
 
-_Unicité_: 4.5  
+
+### Evaluation
+
+_Uniqueness_: 4.5  
 _Finesse_: 4.5  
-_Confort_: 5  
-_Intensité_: 4.5  
-_Impression générale_: 5
+_Comfort_: 5  
+_Intensity_: 4.5  
+_General impression_: 5
 
-**Note finale**: 23.5/25
+**Final evaluation**: 23.5/25

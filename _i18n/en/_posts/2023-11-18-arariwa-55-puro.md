@@ -1,21 +1,22 @@
 ---
 layout: post
 title:  "Arariwa - Chocolate organico 55% Cacao"
-tags: [Noir, Pur] 
+tags: [Dark, Pure] 
 categories: [Arariwa]
 
 ---
 
-Un chocolat tout doux, aux saveurs de miel et de mélasse, avec une petite touche de bergamote.
-On sent fortement qu'il est sucré à la canne à sucre, ce qui en fait une barre très agréable mais pas des plus originales.  
+
+A very gentle chocolate, with flavors of honey and molasses, with a subtle touch of bergamot.
+The taste distinctly reveals that it's sweetened with cane sugar, making it a very pleasant but not the most original bar.
 
 
-### Notes
+### Evaluation
 
-_Unicité_: 3.5  
+_Uniqueness_: 3.5  
 _Finesse_: 4  
-_Confort_: 5  
-_Intensité_: 5  
-_Impression générale_: 4  
+_Comfort_: 5  
+_Intensity_: 5  
+_General impression_: 4
 
-**Note finale**: 21.5/25
+**Final evaluation**: 21.5/25

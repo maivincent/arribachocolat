@@ -1,23 +1,26 @@
 ---
 layout: post
 title:  "Monarque - Ecuador Jaguar - 75% Cacao"
-tags: [Noir, Mocambo] 
+tags: [Dark, Mocambo] 
 categories: [Monarque]
 
 ---
 
-Monarque est un chocolatier Montréalais - pas Équatorien, donc. C'est une surprise lors de la visite du magasin de chocolat fin "État de Choc": un cacao d'Équateur... Mais différent des autres.
 
-Eh oui, le "Jaguar", c'est le cousin du cacao que l'on a déjà vu en morceaux sous le nom de Mocambo dans une tablette de Mashpi. Ici, le mocambo est directement intégré à la pâte de chocolat. Rajoutez une touche de vanille, et voici un chocolat unique.
+Monarque is a Montreal-based chocolatier—not Ecuadorian. It comes as a surprise during a visit to the fine chocolate shop "État de Choc": Ecuadorian cocoa... but different from the others.
 
-Notes de noix de cajou, de noisettes et d'amandes, avec un petit goût de biscuit, c'est un chocolat chaleureux et rond en bouche, qui fera le plaisir de tous.
+Indeed, the "Jaguar" is the cousin of the cocoa we've already seen in pieces under the name Mocambo in a Mashpi chocolate bar. Here, the mocambo is directly integrated into the chocolate paste. Add a touch of vanilla, and you have a unique chocolate.
 
-### Notes
+With notes of cashews, hazelnuts, and almonds, along with a hint of biscuit, it's a warm and rounded chocolate that will delight everyone.
 
-_Unicité_: 5  
+
+
+### Evaluation
+
+_Uniqueness_: 5  
 _Finesse_: 4.5  
-_Confort_: 4.5  
-_Intensité_: 4.5  
-_Impression générale_: 4.5
+_Comfort_: 4.5  
+_Intensity_: 4.5  
+_General impression_: 4.5
 
-**Note finale**: 23/25
+**Final evaluation**: 23/25
