@@ -52,10 +52,6 @@ Dans le sillage de Pacari et Republica del Cacao, plusieurs entreprises se sont 
 
 [Conexion](https://www.conexionchocolate.com/), compagnie équatorienne et américaine, a comme objectif de mettre de l'avant le chocolat artisanal et équitable fait à partir du chocolat arriba. Visant le marché d'amateurs de chocolat fin américain, on peut en commander des tablettes aux États-Unis. À Quito, j'ai trouvé leur chocolat chez [Cacao & Cacao](https://kacaoshop.com/), une petite boutique de chocolats équatoriens à visiter absolument.
 
-### Rights
-
-[Rights](https://rightschocolates.com/) est une compagnie qui met de l'avant l'inclusivité, en employant des personnes vivant avec des handicaps physiques ou intellectuels et en produisant du chocolat à partir du cacao fin d'arome de manière équitable. Ses tablettes se retrouvent entre autres dans les supermarchés SuperMaxi.
-
 
 ### La Leyenda del Chocolate
 [La Leyenda del Chocolate](http://chocoleyenda.com/) est à découvrir - je n'ai encore pas acheté de barre de cette marque!
@@ -102,6 +98,24 @@ Ils vendent plusieurs types de chocolats, certains faits à partir de cacao naci
 ### Malky
 [Malky](https://www.facebook.com/yuramuyo/) est un projet sur lequel il n'existe que peu d'information. Il semble (mais je peux me tromper) qu'il s'agit d'une entreprise fondée par une femme Kichwa, Senaida Cerda, afin de soutenir les femmes dans les communautés d'Amazonie. C'est relié, de près ou de loin, au projet [Woman of the Rio Napo](https://www.rainforestpartnership.org/projects/women-of-the-rio-napo) du Rainforest Partnership. Selon l'emballage des tablettes, il y a aussi un lien avec l'entreprise [Valenco](https://valenco.com.ec/), qui produit entre autres du chocolat fin d'arôme pour les chocolatiers. 
 J'ai trouvé une tablette au Pasaje Arzobispal du centre historique de Quito.
+
+
+## Les initiatives à mission sociale
+
+Le chocolat est un moyen pour plusieurs entreprises à mission sociale d'atteindre des objectifs aussi différents que la conservation écologique ou les opportunités pour personnes vulnérables. On trouve ici des initiatives qui évoluent dans des réalités très différentes. J'ai cependant voulu souligner leur mission en leur donnant une catégorie à part.
+
+### Rights
+
+[Rights](https://rightschocolates.com/) est une compagnie qui met de l'avant l'inclusivité, en employant des personnes vivant avec des handicaps physiques ou intellectuels et en produisant du chocolat à partir du cacao fin d'arome de manière équitable. Ses tablettes se retrouvent entre autres dans les supermarchés SuperMaxi.
+
+### Choco Cumi
+[Choco Cumi](www.facebook.com/TalitaChocoCumi/) est une petite marque née de la fondation [Talita Cumi] (https://www.facebook.com/MujeresValientesTalitaCumi/) qui vient en aide aux mères monoparentales. L'objectif est double: en plus de valoriser le cacao fin équatorien avec des chocolats uniques, l'entreprise, créée en 2016 ou 2017, cherche à émanciper par l'emploi des femmes qui ont vécu des violences et se trouvent en situation de vulnérabilité. La marque se définit donc comme celles des "femmes du chocolat". En 2022, je n'ai trouvé leur chocolat qu'au marché artisanal. Il est possible qu'ils aient depuis étendu leurs points de vente.
+
+### Washu
+[Washu](https://www.washuchocolate.com/) est un projet qui vise à donner des opportunités économiques aux communautés vivant dans la forêt primaire du Tesoro Escondido. En vivant de la forêt de manière durable, ces communautés protégent ainsi 250 hectares du chocó equatorien. Cet écosystème en danger abrite nombre d'espèces en voie d'extinction, incluant le singe araignée à tête noire dont le nom en langue Chicha est Washu. Ce singe fait partie des 25 primates les plus à risques au monde et est l'espèce la plus menacée du pays.
+
+Cette initiative fait partie d'une initiative plus globale menée par [Projecto Washu](https://www.proyectowashu.org/), qui y fait aussi de l'éducation, recherche scientifique, et conservation.
+
 
 
 ## Les petites productions
@@ -157,8 +171,7 @@ Ces chocolats ont tous été primés en 2021. Je crois donc que c'est une marque
 
 [Arariwa](https://www.arariwacacao.com/) est une petite entreprise équatorienne menée par des femmes, dont le nom signifie "gardiennes des Chakras", soit la manière traditionnelle de gérer la production de cacao par les femmes (voir la partie sur Kallari pour plus de détails). On trouve leurs tablettes dans certaines foires de produits fins, au marché artisanal, ou chez chez [Cacao & Cacao](https://kacaoshop.com/).
 
-### Choco Cumi
-[Choco Cumi](www.facebook.com/TalitaChocoCumi/) est une petite marque née de la fondation [Talita Cumi] (https://www.facebook.com/MujeresValientesTalitaCumi/) qui vient en aide aux mères monoparentales. L'objectif est double: en plus de valoriser le cacao fin équatorien avec des chocolats uniques, l'entreprise, créée en 2016 ou 2017, cherche à émanciper par l'emploi des femmes qui ont vécu des violences et se trouvent en situation de vulnérabilité. La marque se définit donc comme celles des "femmes du chocolat". En 2022, je n'ai trouvé leur chocolat qu'au marché artisanal. Il est possible qu'ils aient depuis étendu leurs points de vente.
+
 
 ### Belly's
 [Belly's Cocoa](https://www.chocolatesbellyscocoa.com/) se spécialise dans le cacao fin d'arôme d'altitude, c'est à dire, cultivé à plus de 1000 mètres d'altitude dans le choco andino, écosystème protégé proche de Quito. Pour réussir à produire du cacao dans ces conditions, il aura fallu de nombreuses années de recherche et de sélection génétique. À la base provenant de la famille CCN-51, dont la qualité est inférieure au cacao fin d'arôme, le nommé [Rio Alambi](https://cocoaflavormap.cacaomovil.com/site/place/rio-alambi) présente des caractéristiques uniques. 
@@ -175,6 +188,7 @@ Nous avons trouvé leurs barres dans le café d'une des tours de la Basilica del
 
 Il y a peu d'information sur le site internet de [Mestizo](https://beacons.ai/mestizo). Peu de choses aussi sur leur [Facebook](https://www.facebook.com/profile.php?id=100076049232989). Les emballages des tablettes parlent simplement de cacao fino d'aroma d'Équateur et de commerce équitable avec de petits producters. Cependant, un détail permet d'allr chercher plus loin: c'est produit par "PapaCacao" à Pomasqui. PapaCacao? Un détective trouverait [ici](https://www.culturaypatrimonio.gob.ec/wp-content/uploads/downloads/2023/07/Agenda-Cultural-y-Patrimonial-14-al-27-JUL-2023-V3.pdf) un article de l'agenda culturel du gouvernement Équatorien qui met de l'avant [Jaime Freire](https://www.linkedin.com/in/jaime-freire-gonz%C3%A1lez-24995858/?originalSubdomain=ec), surnommé Papa Cacao, qui serait à l'origine du projet de réactivation du cacao nacional arriba et fino d'aroma du gouvernement Équatorien dans les années 2010 et qui a depuis formé plusieurs chocolatiers équatoriens.
 Quel est le lien exact entre Mestizo et Papa Cacao? À creuser. En tout cas, j'ai trouvé ces tablettes dans une boutique du Pasaje Arzobispal, situé au coeur du centre historique de Quito.
+
 
 
 ## Les marques étrangères
