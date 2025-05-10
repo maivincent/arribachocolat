@@ -15,9 +15,9 @@ C'est un chocolat agréable, assez sucré (60%). Il reste plutôt ordinaire à p
 ### Notes
 
 _Unicité_: 3.5  
-_Finesse_: 4  
+_Finesse_: 3.5  
 _Confort_: 4.5  
 _Intensité_: 4  
-_Impression générale_: 4  
+_Impression générale_: 3.5  
 
-**Note finale**: 20/25
+**Note finale**: 19/25
