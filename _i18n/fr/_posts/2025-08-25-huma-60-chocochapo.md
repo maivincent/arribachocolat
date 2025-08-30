@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Huma - Colleccion Identidad - 60% - Choco Chapo"
-tags: [Huma, Pur] 
+tags: [Noir, Pur] 
 categories: [Huma]
 
 ---
@@ -18,9 +18,9 @@ P.S. L'emballage de la tablette, avec les masques de Tigua mérite mention à lu
 ### Notes
 
 _Unicité_: 5  
-_Finesse_: 4  
+_Finesse_: 4.5  
 _Confort_: 4.5  
-_Intensité_: 4  
-_Impression générale_: 4
+_Intensité_: 4.5  
+_Impression générale_: 5
 
-**Note finale**: 21.5/25
+**Note finale**: 23.5/25
