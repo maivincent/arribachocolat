@@ -12,4 +12,5 @@ git add --all && \
 git commit -m "$1" || true && \
 git push origin gh-pages && \
 cd .. && \
+git checkout main && \
 echo "Successfully built and pushed gh-pages to Github."
