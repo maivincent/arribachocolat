@@ -9,6 +9,10 @@ fi
 echo "Generating grades data..."
 ruby bin/generate_grades.rb
 
+# Build Jekyll site
+echo "Building Jekyll site..."
+bundle exec jekyll build
+
 cd _site && \
 git checkout gh-pages && \
 echo "www.arribachocolat.ca" >> CNAME && \
