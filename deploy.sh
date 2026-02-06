@@ -5,6 +5,10 @@ if [[ -z "$1" ]]; then
   exit
 fi
 
+# Generate grades data from post content before building
+echo "Generating grades data..."
+ruby bin/generate_grades.rb
+
 cd _site && \
 git checkout gh-pages && \
 echo "www.arribachocolat.ca" >> CNAME && \
