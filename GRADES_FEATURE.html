@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="fr">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/grids-responsive-min.css">
+  
+   <link rel="stylesheet" href="/assets/styles.css"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Arriba Chocolat - Grade-Based Sorting Feature | Arriba Chocolat</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Arriba Chocolat - Grade-Based Sorting Feature" />
+<meta property="og:locale" content="fr" />
+<meta name="description" content="Le défi d’une vie: goûter à toutes les barres de chocolat faites à partir des meilleures fèves de cacao qui soient: le cacao fino d’aroma d’Équateur." />
+<meta property="og:description" content="Le défi d’une vie: goûter à toutes les barres de chocolat faites à partir des meilleures fèves de cacao qui soient: le cacao fino d’aroma d’Équateur." />
+<link rel="canonical" href="/GRADES_FEATURE.html" />
+<meta property="og:url" content="/GRADES_FEATURE.html" />
+<meta property="og:site_name" content="Arriba Chocolat" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Arriba Chocolat - Grade-Based Sorting Feature" />
+<script type="application/ld+json">
+{"url":"/GRADES_FEATURE.html","headline":"Arriba Chocolat - Grade-Based Sorting Feature","@type":"WebPage","description":"Le défi d’une vie: goûter à toutes les barres de chocolat faites à partir des meilleures fèves de cacao qui soient: le cacao fino d’aroma d’Équateur.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Arriba Chocolat" /></head>
+
+
+  <body>
+
+    <div class="container pure-g"><div class="sidebar-left pure-u-1 pure-u-md-1-4" style="background-color: rgb(40, 73, 77); color: rgb(255, 255, 255); background-image: url(/bg.jpeg);"><header class="masthead">
+  
+  <div class="table-headline" style="background-color: rgba(60, 60, 60, 0.5);">
+    <div class="masthead-title">
+      <a href="/" title="Home">Arriba Chocolat</a>
+    </div>
+    <div class="masthead-tagline" >
+      <small>Le défi d'une vie: goûter à toutes les barres de chocolat faites à partir des meilleures fèves de cacao qui soient, le cacao fino d'aroma d'Équateur.</small>
+    </div>
+  </div><nav class="navigation">
+    <ul class="navigation-list"><li class="navigation-item">
+        <a onclick="sessionStorage.setItem('forceCheckScroll', 'true')" href="/">Arriba Chocolat</a>
+      </li><li class="navigation-item">
+        <a onclick="sessionStorage.setItem('forceCheckScroll', 'true')" href="/about">À propos</a>
+      </li><li class="navigation-item">
+        <a onclick="sessionStorage.setItem('forceCheckScroll', 'true')" href="/grades">Classement des tablettes de chocolat</a>
+      </li><li class="navigation-item">
+        <a onclick="sessionStorage.setItem('forceCheckScroll', 'true')" href="/cacao">Le chocolat Équatorien</a>
+      </li><li class="navigation-item">
+        <a onclick="sessionStorage.setItem('forceCheckScroll', 'true')" href="/marques">Marques de chocolat</a>
+      </li></ul>
+  </nav><div class="social pure-menu pure-menu-horizontal">
+      <ul class="social-icons pure-menu-list">
+      <li class="pure-menu-item">
+          <a class="social-icon pure-menu-link" href="mailto:vmside@protonmail.com">
+            <i class="fas fa-envelope" title="Email"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+    
+  <a href="/" class="footer__link">fr</a>
+
+  
+    | <a href="/en" class="footer__link">en</a>
+  
+
+  
+    | <a href="/es" class="footer__link">es</a>
+  
+
+</header>
+</div>
+
+      <div class="content pure-u-1 pure-u-md-1-2"><main>
+  <article class="page">
+  <h1 class="page-title"></h1>
+  <h1 id="arriba-chocolat---grade-based-sorting-feature">Arriba Chocolat - Grade-Based Sorting Feature</h1>
+
+<h2 id="overview">Overview</h2>
+
+<p>You now have a <strong>“Find by Grade”</strong> tab at <code class="language-plaintext highlighter-rouge">/grades/</code> that displays all chocolate posts sorted by their final evaluation score.</p>
+
+<h2 id="how-it-works">How It Works</h2>
+
+<h3 id="1-grade-data-generation">1. Grade Data Generation</h3>
+<ul>
+  <li>Run <code class="language-plaintext highlighter-rouge">ruby bin/generate_grades.rb</code> (or automatically via <code class="language-plaintext highlighter-rouge">./deploy.sh</code>)</li>
+  <li>This script scans all post markdown files and extracts the final evaluation score</li>
+  <li>Creates <code class="language-plaintext highlighter-rouge">_data/grades.yml</code> with posts organized into grade buckets</li>
+</ul>
+
+<h3 id="2-grade-buckets">2. Grade Buckets</h3>
+<p>Posts are grouped by the <strong>floor of their score</strong>:</p>
+<ul>
+  <li><strong>25</strong> - Perfect or near-perfect scores (25–25.9)</li>
+  <li><strong>24</strong> - Scores 24–24.9</li>
+  <li><strong>23</strong> - Scores 23–23.9</li>
+  <li><strong>22</strong> - Scores 22–22.9</li>
+  <li><strong>21</strong> - Scores 21–21.9</li>
+  <li><strong>20</strong> - Scores 20–20.9</li>
+  <li><strong>&lt;20</strong> - Scores below 20</li>
+</ul>
+
+<h3 id="3-layout--templates">3. Layout &amp; Templates</h3>
+<ul>
+  <li>New file: <code class="language-plaintext highlighter-rouge">grades.md</code> - archive page using <code class="language-plaintext highlighter-rouge">archive-taxonomies</code> layout</li>
+  <li>Updated layout: <code class="language-plaintext highlighter-rouge">_layouts/archive-taxonomies.html</code> - detects <code class="language-plaintext highlighter-rouge">page.type: grades</code> and renders from <code class="language-plaintext highlighter-rouge">site.data.grades</code></li>
+  <li>The layout already supported “Find by Brand” (categories) and “Find by Flavor” (tags), so grades fit naturally into the same template</li>
+</ul>
+
+<h3 id="4-localization">4. Localization</h3>
+<p>The grade extraction regex supports:</p>
+<ul>
+  <li><strong>English</strong>: “Final evaluation”</li>
+  <li><strong>Spanish</strong>: “Evaluación final”</li>
+  <li><strong>French</strong>: “Note finale”</li>
+</ul>
+
+<p>The script also strips Markdown emphasis (<code class="language-plaintext highlighter-rouge">**</code>, <code class="language-plaintext highlighter-rouge">_</code>, etc.) for robust parsing.</p>
+
+<h2 id="usage">Usage</h2>
+
+<h3 id="for-development">For Development</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Generate grades data</span>
+ruby bin/generate_grades.rb
+
+<span class="c"># Build locally</span>
+bundle <span class="nb">exec </span>jekyll build
+
+<span class="c"># Or serve with local preview</span>
+bundle <span class="nb">exec </span>jekyll serve
+</code></pre></div></div>
+
+<h3 id="for-deployment">For Deployment</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>./deploy.sh <span class="s2">"Added new chocolate reviews"</span>
+</code></pre></div></div>
+<p>The deploy script automatically regenerates grades before pushing.</p>
+
+<h2 id="statistics">Statistics</h2>
+
+<p>Currently <strong>625 posts</strong> are indexed across grade buckets, with distribution:</p>
+<ul>
+  <li>25: 32 posts</li>
+  <li>24: 83 posts</li>
+  <li>23: 120 posts</li>
+  <li>22: 168 posts</li>
+  <li>21: 86 posts</li>
+  <li>20: 49 posts</li>
+  <li>&lt;20: 87 posts</li>
+</ul>
+
+<h2 id="files-createdmodified">Files Created/Modified</h2>
+
+<h3 id="created">Created</h3>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">bin/generate_grades.rb</code> - Grade data generator script</li>
+  <li><code class="language-plaintext highlighter-rouge">bin/README.md</code> - Documentation for the generator</li>
+  <li><code class="language-plaintext highlighter-rouge">grades.md</code> - Archive page entry point</li>
+  <li><code class="language-plaintext highlighter-rouge">_data/grades.yml</code> - Generated data file (created by script)</li>
+</ul>
+
+<h3 id="modified">Modified</h3>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">_layouts/archive-taxonomies.html</code> - Added grades rendering logic</li>
+  <li><code class="language-plaintext highlighter-rouge">deploy.sh</code> - Added grade generation step</li>
+</ul>
+
+<h3 id="removed">Removed</h3>
+<ul>
+  <li>Unused plugin files (Jekyll hooks/generators didn’t work well with multilanguage plugin)</li>
+</ul>
+
+<h2 id="notes">Notes</h2>
+
+<ul>
+  <li>The grade generation must run <strong>before</strong> each Jekyll build (included in deploy.sh)</li>
+  <li>The YAML data file (<code class="language-plaintext highlighter-rouge">_data/grades.yml</code>) should be regenerated whenever posts are added or scores are updated</li>
+  <li>The feature respects the same multilingual structure as brands and flavors, so <code class="language-plaintext highlighter-rouge">/en/grades/</code>, <code class="language-plaintext highlighter-rouge">/es/grades/</code>, <code class="language-plaintext highlighter-rouge">/fr/grades/</code> all work automatically</li>
+</ul>
+
+</article>
+
+</main>
+
+<footer class="footer"><small>
+    &copy; 2021&nbsp;-&nbsp;2026 . All rights reserved.
+    Powered by <a href="https://jekyllrb.com/">Jekyll</a> & <a href="https://github.com/vszhub/not-pure-poole">Not Pure Poole</a>.
+  </small>
+</footer>
+</div>
+      <div class="sidebar-right pure-u-1 pure-u-md-1-4">
+</div>
+    </div>
+
+    <script async src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script><script>
+  function strip(str, remove) {
+    while (str.length > 0 && remove.indexOf(str.charAt(0)) != -1) {
+      str = str.substr(1);
+    }
+    while (str.length > 0 && remove.indexOf(str.charAt(str.length - 1)) != -1) {
+      str = str.substr(0, str.length - 1);
+    }
+    return str;
+  }
+
+  function scroll() {
+    console.log('scroll');
+    window.scrollTo({
+      left: 0, 
+      top: window.innerHeight,
+      behavior: 'smooth'
+    });
+    sessionStorage.removeItem('forceCheckScroll');
+  }
+
+  const forceCheckScroll = sessionStorage.getItem('forceCheckScroll') === 'true';
+  const checkScroll = strip(window.location.pathname, '/') !== strip('', '/');
+
+  if (forceCheckScroll || checkScroll) {
+    const maxWidth = "(max-width: 48rem)";
+    const result = window.matchMedia(maxWidth);
+    if (result.matches) {
+      scroll();
+    } else {
+      result.addListener((match) => {
+        if (match.media == maxWidth) {
+          if (match.matches) {
+            scroll();
+          }
+        }
+      });
+    }
+  }
+</script>
+</body>
+</html>
