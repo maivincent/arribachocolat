@@ -9,7 +9,7 @@ cd _site && \
 git checkout gh-pages && \
 echo "www.arribachocolat.ca" >> CNAME && \
 git add --all && \
-git commit -m "$1" && \
+git commit -m "$1" || true && \
 git push origin gh-pages && \
 cd .. && \
 echo "Successfully built and pushed gh-pages to Github."
