@@ -21,6 +21,19 @@ if ! git show-ref --verify --quiet refs/heads/$source_branch; then
   source_branch=master
 fi
 
+# Sanity checks: must be on the source branch and have a clean working tree
+current_branch=$(git rev-parse --abbrev-ref HEAD)
+if [[ "$current_branch" != "$source_branch" ]]; then
+  echo "ERROR: deploy must be run from the '$source_branch' branch (currently '$current_branch')."
+  exit 1
+fi
+
+if [[ -n "$(git status --porcelain)" ]]; then
+  echo "ERROR: working tree is dirty. Commit or stash your changes before deploying."
+  git status --porcelain
+  exit 1
+fi
+
 # Ensure we're on the source branch while building
 git checkout "$source_branch"
 
