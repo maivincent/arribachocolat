@@ -8,7 +8,7 @@ categories: [ChocoCumi]
 
 Este es un chocolate negro sorprendente, cuyas notas difieren claramente de los chocolates ecuatorianos que he probado hasta ahora.
 
-Aquí estamos en un mundo herbáceo, con notas a hongo y tabaco, y matices a baguette tostada... todo comienza aireado y preciso, pero gana lentamente espacio y redondez, con un sabor que permanece largo tiempo en la boca.
+Aquí estamos en un mundo herbáceo, con notas a hongo y tabaco, y matices a baguette tostada y a romero... todo comienza aireado y preciso, pero gana lentamente espacio y redondez, con un sabor que permanece largo tiempo en la boca.
 
 Es un chocolate bastante agradable, pero sobre todo que destaca por nuevas tonalidades.
 
