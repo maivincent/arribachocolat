@@ -1,7 +1,8 @@
 Sur branche main
 
-1. git add --all
-2. git commit -a -m 'MESSAGE'
-3. git push
-4. bundle exec jekyll build
-5. ./deploy.sh 'MESSAGE'
+1. ruby bin/generate_grades.rb  # regenère _data/grades.yml
+2. git add --all
+3. git commit -a -m 'MESSAGE'
+4. git push
+5. bundle exec jekyll build
+6. ./deploy.sh 'MESSAGE'
