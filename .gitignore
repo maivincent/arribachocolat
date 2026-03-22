@@ -1,3 +1,6 @@
 _site
 _site/
 AFaire.txt
+
+# DeepL API key (not checked in)
+.deepl_key
