@@ -1,8 +1,15 @@
 Sur branche main
 
-1. ruby bin/generate_grades.rb  # regenère _data/grades.yml
-2. git add --all
-3. git commit -a -m 'MESSAGE'
-4. git push
-5. bundle exec jekyll build
-6. ./deploy.sh 'MESSAGE'
+# (Optional) Translate latest French posts to English + Spanish using DeepL.
+# You can store the key in a file named `.deepl_key` at repo root (not tracked by git).
+# Or set DEEPL_AUTH_KEY in your environment.
+# Example: DEEPL_AUTH_KEY=xxx ruby bin/translate_posts.rb
+# Dry-run: ruby bin/translate_posts.rb --dry-run
+
+1. ruby bin/translate_posts.rb  # génère/_met à jour _i18n/en/_posts et _i18n/es/_posts
+2. ruby bin/generate_grades.rb  # regenère _data/grades.yml
+3. git add --all
+4. git commit -a -m 'MESSAGE'
+5. git push
+6. bundle exec jekyll build
+7. ./deploy.sh 'MESSAGE'
