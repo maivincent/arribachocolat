@@ -1,22 +1,17 @@
 ---
+title: "Kallari - Chocolate negro con 63% de cacao y cacahuete Inca"
+tags: ["Negro", "Cacahuete"]
+categories: ["Kallari"]
 layout: post
-title: "Kallari - 63% Chocolate oscuro con maní Inca"
-tags: [Oscuro, Maní]
-categories: [Kallari]
-
 ---
 
-Plukenetia volubilis, conocida como sacha inchi, es nativa de Sudamérica; sus semillas tostadas se parecen al maní. Es principalmente eso lo que se percibe en esta tableta, mientras que el chocolate Kallari se mantiene bastante discreto. Los trozos de sacha inchi, esparcidos en fragmentos, aportan un sabor tipo cacahuete—lo suficientemente distinto del maní habitual como para despertar curiosidad. Un poco más herbáceo, quizá algo rancio, pero agradable.
-
-Un chocolate original, ¡para probar!
-
+Plukenetia volubilis. O sacha inchi. Es una planta originaria de Sudamérica, cuyas semillas tostadas recuerdan a los cacahuetes, y eso es lo que se saborea en esta tableta, mientras que el chocolate Kallari suele ser más bien discreto. Los trozos de sacha inchi, dispuestos en virutas, aportan un sabor a cacahuete, pero lo suficientemente diferente del que estamos acostumbrados como para despertar nuestra curiosidad. Un poco más herbáceo, quizás un poco rancio, pero agradable. ¡Un chocolate original, que merece la pena probar!
 
 ### Evaluación
-
 _Originalidad_: 5  
-_Finesa_: 4  
-_Confort_: 4.5  
+_Fineza_: 4  
+_Reconfortante_: 4.5  
 _Intensidad_: 4  
-_Impresión general_: 4
+_Impresión general_: 4  
 
-**Evaluación final**: 21.5/25
+**Nota final**: 21.5/25

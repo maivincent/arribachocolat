@@ -6,7 +6,7 @@
 #   DEEPL_AUTH_KEY=<key> ruby bin/translate_posts.rb
 #   ruby bin/translate_posts.rb               # reads key from .deepl_key if present
 #   ruby bin/translate_posts.rb --dry-run     # list files that would be translated
-#   ruby bin/translate_posts.rb --force       # overwrite existing translations
+#   ruby bin/translate_posts.rb               # read key from .deepl_key if present
 #
 # The script translates only the markdown body (everything after the front matter)
 # and leaves the YAML front matter keys intact (except it updates the `title`).
@@ -20,7 +20,6 @@ require 'time'
 require 'fileutils'
 
 options = {
-  force: false,
   dry_run: false,
   langs: %w[en es],
   source_lang: 'FR',
@@ -28,10 +27,6 @@ options = {
 
 OptionParser.new do |opts|
   opts.banner = "Usage: #{$PROGRAM_NAME} [options]"
-
-  opts.on('-f', '--force', 'Overwrite existing translations') do
-    options[:force] = true
-  end
 
   opts.on('-n', '--dry-run', 'Show which files would be translated without calling DeepL or writing output') do
     options[:dry_run] = true
@@ -184,26 +179,91 @@ Dir.glob(File.join(source_dir, '*.md')).sort.each do |src_path|
 
 # Build a grades block using template labels (if provided) and the numeric values from source_grades_lines
 def build_grades_block(template_labels, source_grades_lines)
-  return source_grades_lines.join("\n") if template_labels.nil? || source_grades_lines.empty?
+  # If no template labels provided, we'll fall back to language defaults elsewhere.
+  return source_grades_lines.join("\n") if source_grades_lines.empty?
 
-  # extract numbers from source lines in order
-  numbers = source_grades_lines.map do |line|
-    m = line.match(/([0-9]+(?:\.[0-9]+)?)(?:\s*\/\s*25)?/)
-    m ? m[1] : ''
+  # Determine heading, labels and final label based on template_labels or language hints.
+  # If template_labels is a Hash mapping (lang => labels), handle accordingly; otherwise
+  # assume it's an Array of five labels.
+
+  # Normalize input: if first line is a heading like '###', drop it but remember to emit localized heading.
+  heading = nil
+  lines = source_grades_lines.dup
+  if lines[0] =~ /^\s*#+\s*/
+    heading = lines.shift.strip
   end
 
-  out_lines = []
-  template_labels.each_with_index do |label, idx|
-    num = numbers[idx] || ''
-    out_lines << "#{label}: #{num}".rstrip
+  # Extract numeric values (in order) and final score/fraction
+  numbers = []
+  final_fraction = nil
+  lines.each do |ln|
+    # final line often contains bold markers and a fraction like 23/25
+    if ln =~ /\*\*/
+      m = ln.match(/([0-9]+(?:\.[0-9]+)?\s*\/\s*25)/)
+      final_fraction = m ? m[1].gsub('\s','') : nil
+      next
+    end
+    m = ln.match(/([0-9]+(?:\.[0-9]+)?)/)
+    numbers << (m ? m[1] : '')
   end
-  out_lines.join("\n")
+
+  # If template_labels is an Array, use as-is; otherwise caller may supply nil.
+  labels = template_labels.is_a?(Array) ? template_labels : nil
+
+  # Attempt to infer language from labels if possible (look for obvious words)
+  lang = nil
+  if labels
+    # quick heuristic
+    first = labels[0].to_s.downcase
+    lang = 'es' if first.include?('original') || first.include?('originalidad')
+    lang = 'en' if first.include?('uniqu') || first.include?('uniqueness')
+  end
+
+  # Fallback label sets per language
+  fallbacks = {
+    'en' => ['Uniqueness', 'Finesse', 'Comfort', 'Intensity', 'Overall impression'],
+    'es' => ['Originalidad', 'Fineza', 'Reconfortante', 'Intensidad', 'Impresión general']
+  }
+
+  # Choose labels: prefer provided template_labels, else fallbacks based on lang, else English.
+  chosen = labels || (lang && fallbacks[lang]) || fallbacks['en']
+
+  # Choose heading and final label by lang
+  heading_map = { 'en' => '### Evaluation', 'es' => '### Evaluación' }
+  final_map = { 'en' => '**Final evaluation**', 'es' => '**Nota final**' }
+  heading_emit = heading_map[lang] || heading_map['en']
+  final_label_emit = final_map[lang] || final_map['en']
+
+  out = []
+  out << heading_emit
+  # Emit five labeled lines with single underscores and two trailing spaces to preserve linebreaks
+  chosen.each_with_index do |lbl, idx|
+    # sanitize label: remove surrounding underscores/asterisks and trailing colons
+    clean = lbl.to_s.gsub(/^\s+|\s+$/, '').gsub(/^_+|_+$|^\*+|\*+$/, '').sub(/:$/, '')
+    val = numbers[idx] || ''
+    out << "_#{clean}_: #{val}  "
+  end
+  # Emit final fraction if found, else attempt to sum numbers
+  if final_fraction
+    out << "\n#{final_label_emit}: #{final_fraction}"
+  else
+    # compute a total if numbers look numeric
+    if numbers.all? { |n| n.to_s =~ /^\d+(?:\.\d+)?$/ }
+      total = numbers.map(&:to_f).sum
+      total_s = (total % 1.0 == 0) ? total.to_i.to_s : total.to_s
+      out << "\n#{final_label_emit}: #{total_s}/25"
+    else
+      out << "\n#{final_label_emit}:"
+    end
+  end
+
+  out.join("\n")
 end
     dest_dir = File.join(root, '_i18n', lang, '_posts')
     FileUtils.mkdir_p(dest_dir)
     dest_path = File.join(dest_dir, filename)
 
-    if File.exist?(dest_path) && !options[:force]
+    if File.exist?(dest_path)
       skipped << dest_path
       next
     end
@@ -232,9 +292,10 @@ end
     translated_body = [translated_before.to_s.strip, grades_block.to_s.strip, translated_after.to_s.strip].reject(&:empty?).join("\n\n")
 
     # Translate title if present
+    translated_title = nil
     if front_matter.is_a?(Hash) && front_matter['title'].is_a?(String)
-      translated_title = deepl_translate(front_matter['title'], lang, options[:source_lang], api_key, api_url, options)
-      front_matter['title'] = translated_title.strip
+      translated_title = deepl_translate(front_matter['title'], lang, options[:source_lang], api_key, api_url, options).strip
+      front_matter['title'] = translated_title
     end
 
     # Translate tags if present and ensure tags are an array
@@ -243,21 +304,72 @@ end
       translated_tags = tags.map do |t|
         t = t.to_s.strip
         next t if t.empty?
-        # keep short tags untranslated? here we translate all tags
-        deepl_translate(t, lang, options[:source_lang], api_key, api_url, options).strip
+
+        # Hard-coded overrides for specific tags (avoid calling DeepL for these)
+        lc = t.downcase
+        if lc == 'noir'
+          case lang
+          when 'es'
+            'Oscuro'
+          when 'en'
+            'Dark'
+          else
+            t
+          end
+        else
+          deepl_translate(t, lang, options[:source_lang], api_key, api_url, options).strip
+        end
       end
       front_matter['tags'] = translated_tags
+      translated_tags_var = translated_tags
     end
 
-    # Add metadata about translation
-    if front_matter.is_a?(Hash)
-      front_matter['translated_from'] = 'fr'
-      front_matter['translated_at'] = Time.now.utc.iso8601
-      front_matter['translated_to'] = lang
-    end
+    # Do not add translation metadata fields (translated_from/translated_at/translated_to)
+    # — these were removed to keep generated front matter minimal.
 
     output = "---\n"
-    output += YAML.dump(front_matter).sub(/^---\n/, '')
+    # Always write the title as a quoted YAML scalar to match site conventions.
+    # Use the translated_title (if set) as a reliable source; fall back to front_matter['title'].
+    title_to_emit = translated_title || (front_matter.is_a?(Hash) && front_matter['title'])
+    if title_to_emit
+      title_val = title_to_emit.to_s
+      escaped = title_val.gsub('"', '\\"')
+      output += "title: \"#{escaped}\"\n"
+      front_matter.delete('title') if front_matter.is_a?(Hash)
+    end
+
+    # Emit tags and categories as inline bracket lists to match site conventions,
+    # then dump any remaining front_matter. We remove emitted keys to avoid duplication.
+    if front_matter.is_a?(Hash)
+      # Emit tags: handle both String and Array (use translated_tags_var if present)
+      tags_val = defined?(translated_tags_var) ? translated_tags_var : front_matter['tags']
+      if tags_val
+        tags_arr = tags_val.is_a?(Array) ? tags_val : [tags_val.to_s]
+        tags_arr = tags_arr.map(&:to_s).reject(&:empty?)
+        unless tags_arr.empty?
+          formatted = tags_arr.map { |t| "\"#{t.gsub('"', '\\\"')}\"" }.join(', ')
+          output += "tags: [#{formatted}]\n"
+        end
+        front_matter.delete('tags')
+      end
+
+      # Emit categories: handle both String and Array
+      cats_val = front_matter['categories']
+      if cats_val
+        cats_arr = cats_val.is_a?(Array) ? cats_val : [cats_val.to_s]
+        cats_arr = cats_arr.map(&:to_s).reject(&:empty?)
+        unless cats_arr.empty?
+          formatted = cats_arr.map { |c| "\"#{c.gsub('"', '\\\"')}\"" }.join(', ')
+          output += "categories: [#{formatted}]\n"
+        end
+        front_matter.delete('categories')
+      end
+
+      unless front_matter.empty?
+        output += YAML.dump(front_matter).sub(/^---\n/, '')
+      end
+    end
+
     output += "---\n\n"
     output += translated_body.strip + "\n"
 
@@ -270,4 +382,4 @@ puts "Translated #{translated.size} files (#{options[:langs].join(', ')})"
 translated.each do |path|
   puts "  - #{path}"
 end
-puts "Skipped #{skipped.size} existing files (use --force to overwrite)" if skipped.any?
+puts "Skipped #{skipped.size} existing files" if skipped.any?

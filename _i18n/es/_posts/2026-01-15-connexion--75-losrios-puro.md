@@ -1,22 +1,17 @@
 ---
+title: "Conexion - 70% Cacao Fino - Los Rios"
+tags: ["Negro", "Puro"]
+categories: ["Conexion"]
 layout: post
-title: "Conexion - 75% Cacao Fino - Los Ríos"
-tags: [Oscuro, Puro]
-categories: [Conexion]
-
 ---
 
-Afro y floral, como indica la caja morada de este chocolate Conexion. Es así: una mezcla ligera de amargor y acidez recuerda a la toronja, redondeada por la dulzura de la uva roja y notas potentes derivadas de la fermentación.
-
-Todo esto se presenta en una textura crujiente pero tersa — un éxito que confirma la calidad constante de Conexion.
-
+Afrutado y floral, reza en la caja malva de este chocolate Conexion. Y así es: una ligera mezcla de amargor y acidez que recuerda al pomelo, redondeada por la dulce redondez de la uva tinta y potentes notas de fermentación, todo ello en una textura crujiente pero suave, un éxito que confirma la calidad constante de los chocolates Conexion
 
 ### Evaluación
-
 _Originalidad_: 4.5  
-_Finesa_: 5  
-_Confort_: 4.5  
+_Fineza_: 5  
+_Reconfortante_: 4.5  
 _Intensidad_: 4.5  
-_Impresión general_: 4.5
+_Impresión general_: 4.5  
 
-**Evaluación final**: 23.5/25
+**Nota final**: 23/25

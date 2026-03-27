@@ -1,24 +1,17 @@
 ---
+title: "Minka - Crudo - 77% Liso"
+tags: ["Negro", "Puro"]
+categories: ["Minka"]
 layout: post
-title: "Minka - Raw - 77% Puro"
-tags: [Oscuro, Puro]
-categories: [Minka]
-
 ---
 
-Tras probar todas las combinaciones de sabores de Minka Raw, quizá era momento de degustar la versión de chocolate puro.
-
-Impacta desde el primer segundo: la cata comienza con un golpe refrescante, algo mentolado y un poco a eucalipto, lo cual sorprende en un producto de cacao puro. Ese carácter se extiende buena parte de la experiencia. En apoyo, más que en primer plano, hay un tenue sabor a avellana y una redondez amaderada que se aproxima a una ligera amargura de café si se deja derretir lentamente.
-
-A medida que afianzo experiencia con el cacao ecuatoriano, ya no me sorprende la diversidad y profundidad de sabores. Sin embargo, con cada nueva tableta me asombra la variedad que descubre Minka. Hoy, Minka es artesana de esa diversidad.
-
+Después de haber probado todas las combinaciones de sabores de Minka Raw, quizás había llegado el momento de probar la versión de chocolate puro. Esto llama la atención desde el primer segundo: la degustación comienza con un golpe refrescante, un poco mentolado, un poco eucaliptus, lo que resulta sorprendente para un producto de cacao puro. Este aspecto del chocolate se prolonga y cubre buena parte de la experiencia. Sin embargo, hay un toque de avellana, una redondez amaderada, que tiende hacia un ligero amargor de café si se deja que el cuadrado se derrita lentamente. A medida que empiezo a acumular una sólida experiencia con el cacao ecuatoriano, la diversidad y la profundidad de los sabores ya no deberían sorprenderme. Pero con cada nueva barra, me asombra la variedad que descubro. Minka es ahora el artesano
 
 ### Evaluación
-
 _Originalidad_: 4.5  
-_Finesa_: 4.5  
-_Confort_: 4  
+_Fineza_: 4.5  
+_Reconfortante_: 4  
 _Intensidad_: 4.5  
-_Impresión general_: 4.5
+_Impresión general_: 4.5  
 
-**Evaluación final**: 22/25
+**Nota final**: 22/25
