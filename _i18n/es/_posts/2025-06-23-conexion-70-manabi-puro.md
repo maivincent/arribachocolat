@@ -1,22 +1,19 @@
 ---
 layout: post
-title: "Conexion - 70% Cacao Fino - Manabí"
-tags: [Oscuro, Cacao]
+title: Conexion - 70% Cacao Fino - Manabi
+tags: [Negro, Cacao]
 categories: [Conexion]
-
 ---
 
-Como siempre, Conexion nos recibe con un chocolate cuya intensidad se percibe desde el primer segundo y se mantiene a lo largo de la degustación. Es un chocolate muy afrutado en el lado de las bayas: moras, cerezas, frambuesas, grosellas. También te transporta al calor de la costa manabita: casi puedes sentir el aroma de las plantaciones calientes y húmedas, incluso desde un apartamento con aire acondicionado en Montreal.
-
-Impresión general: un chocolate intenso y agradable con un carácter propio. En la tradición de la alta calidad de Conexion.
-
+Como tantas veces, Conexión nos recibe con un chocolate de una intensidad que impacta desde el primer segundo y se prolonga durante toda la degustación. Es un chocolate muy afrutado, con bayas y frutos rojos: moras, cerezas, frambuesas, grosellas. También nos transporta al calor de la Costa Manabita: se pueden oler las cálidas y húmedas plantaciones desde cualquier lugar, incluso desde un departamento con aire acondicionado en Montreal.
+Impresión general: un chocolate intenso, agradable y con personalidad propia. En la tradición de alta calidad de Conexión.
 
 ### Evaluación
 
 _Originalidad_: 4.5  
-_Fineness_: 4.5  
-_Confort_: 4.5  
+_Fineza_: 4.5  
+_Reconfortante_: 4.5  
 _Intensidad_: 5  
-_Impresión general_: 4.5
+_Impresión general_: 4.5  
 
 **Evaluación final**: 23/25

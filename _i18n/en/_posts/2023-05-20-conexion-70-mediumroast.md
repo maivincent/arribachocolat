@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Conexion - Chocolate Medium Roast - 70% Cacao Arriba"
-tags: [Dark, Pure] 
+title: Conexion - Chocolate Medium Roast - 70% Cacao Arriba
+tags: [Dark, Pure]
 categories: [Conexion]
-
 ---
 
 

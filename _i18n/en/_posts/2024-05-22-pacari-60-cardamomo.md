@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Pacari - Organic Chocolate with Cardamom - 60% Cacao"
+title: Pacari - Organic Chocolate with Cardamom - 60% Cacao
 tags: [Dark, Cardamom]
 categories: [Pacari]
-
 ---
 
 Chocolate and cardamom pair very well. Mashpi and Mindo have shown this, and Pacari is no exception with this flavorful bar. Cardamom in the foreground takes advantage of Pacari's chocolate roundness. Powerful yet gentle, it's one of my favorite bars from the brand.

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Pacari - Single Region Fine Chocolate - Los Rios 72% Cacao"
-tags: [Dark, Pure] 
+title: Pacari - Single Region Fine Chocolate - Los Rios 72% Cacao
+tags: [Dark, Pure]
 categories: [Pacari]
 ---
 

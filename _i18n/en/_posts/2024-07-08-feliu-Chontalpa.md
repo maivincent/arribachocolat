@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Feliu - 70% Origin Chontalpa Tabasco"
+title: Feliu - 70% Origin Chontalpa Tabasco
 tags: [Dark, Pure, Mexico]
 categories: [Feliu]
-
 ---
 
 Friends brought me this chocolate from Mexico — always a welcome gift! According to the website, this is a trinitario cacao.

@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Kallari - 63% Dark Chocolate with Inca Peanut"
+title: Kallari - 63% Dark Chocolate with Inca Peanut
 tags: [Dark, Peanut]
 categories: [Kallari]
-
 ---
 
-Plukenetia volubilis, also known as sacha inchi, is native to South America; its roasted seeds resemble peanuts. That's primarily what you taste in this bar, while the Kallari chocolate itself remains fairly restrained. The sacha inchi pieces, scattered as fragments, bring a peanut-like flavor—just different enough from familiar peanuts to pique curiosity. Slightly more herbaceous, maybe a touch rancio, but overall pleasant.
+Plukenetia volubilis — also known as sacha inchi — is native to South America, its roasted seeds reminiscent of peanuts. This is what takes center stage in this bar, while the Kallari chocolate itself remains characteristically restrained. The sacha inchi pieces, broken into fragments, deliver a peanut-like flavor — close enough to be familiar, yet different enough to pique curiosity. Slightly more herbaceous, with a faint wild note that sets it apart.
 
-An original chocolate worth trying!
+An original chocolate, and a genuine discovery.
 
 
 ### Evaluation

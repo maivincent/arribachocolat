@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Pacari - Pimenton de la vera - 60% Cacao"
-tags: [Dark, Paprika] 
+title: Pacari - Pimenton de la vera - 60% Cacao
+tags: [Dark, Paprika]
 categories: [Pacari]
-
 ---
 
 Who ever thought of mixing paprika and chocolate?

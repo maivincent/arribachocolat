@@ -1,15 +1,13 @@
 ---
 layout: post
-title: "Conexion - 75% Fine Cacao - Los Rios"
+title: Conexion - 75% Fine Cacao - Los Rios
 tags: [Dark, Pure]
 categories: [Conexion]
-
 ---
 
-Fruity and floral, as the purple box of this Conexion chocolate states. It's true: a light mix of bitterness and acidity recalls grapefruit, rounded by the sweetness of red grapes and powerful fermentation-derived notes.
+Fruity and floral, as the purple box of this Conexión chocolate promises. It's true: a light interplay of bitterness and acidity recalls grapefruit, softened by the sweetness of red grapes and deep fermentation notes.
 
-All of this sits in a crunchy yet smooth texture — a success that confirms Conexion's steady quality.
-
+All of this in a crunchy yet smooth texture — a chocolate that confirms, once again, Conexión's steady excellence.
 
 ### Evaluation
 

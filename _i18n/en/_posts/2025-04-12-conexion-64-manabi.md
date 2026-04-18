@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Conexion - 64% Fine Cacao - Light Roast - Manabi"
+title: Conexion - 64% Fine Cacao - Light Roast - Manabi
 tags: [Dark, Pure]
 categories: [Conexion]
-
 ---
 
 At 64%, this Conexion chocolate is gentle and sweet. Aromatic, it brings notes of honey, cardamom and cinnamon, as well as a strong herbal character.

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Pacari - Chocolate Organico con Limon Mandarina - Bitter Orange - 60% Cacao"
-tags: [Dark, Orange] 
+title: Pacari - Chocolate Organico con Limon Mandarina - Bitter Orange - 60% Cacao
+tags: [Dark, Orange]
 categories: [Pacari]
 ---
 

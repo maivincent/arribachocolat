@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Arariwa - Chocolate organico 75% Cacao"
-tags: [Dark, Pure] 
+title: Arariwa - Chocolate organico 75% Cacao
+tags: [Dark, Pure]
 categories: [Arariwa]
-
 ---
 
 This is another tablet provided in preview by the store Cacao & Cacao, located in Quito on Juan Leon Mera Avenue. A big thank you!

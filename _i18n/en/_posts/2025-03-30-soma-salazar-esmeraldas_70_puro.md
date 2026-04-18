@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Soma - Mr Salazar - Costa Esmeraldas - 70%"
+title: Soma - Mr Salazar - Costa Esmeraldas - 70%
 tags: [Dark, Pure]
 categories: [Soma]
-
 ---
 
 Soma is a Toronto chocolatier working with plantations in South America and Africa. With the Costa Esmeraldas bar, a yellow Nacional-Venezuelan cacao is showcased.

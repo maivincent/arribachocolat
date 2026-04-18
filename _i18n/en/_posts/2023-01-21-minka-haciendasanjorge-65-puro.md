@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Minka - 65% Hacienda San Jorge"
-tags: [Dark, Pure] 
+title: Minka - 65% Hacienda San Jorge
+tags: [Dark, Pure]
 categories: [Minka]
 ---
 

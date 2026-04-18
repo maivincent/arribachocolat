@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Victory 60% Floral"
+title: Victory 60% Floral
 tags: [Dark, Pure]
 categories: [Victory]
-
 ---
 
 Despite the "floral" label on the box, I wouldn't really classify this chocolate in that category. This chocolate leans more toward cereal flavors, like malt or quinoa, with a slightly fermented edge that evokes yogurt.

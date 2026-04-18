@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Mazorca Negra - 70% Origin Tuzantán"
+title: Mazorca Negra - 70% Origin Tuzantán
 tags: [Dark, Pure, Mexico]
 categories: [Mazorca Negra]
-
 ---
 
 Another Mexican chocolate, found at Mango y Chile in Bacalar. This bar uses cacao from Tuzantán in Chiapas. The bar is made from criollo (lizard-tail variety according to the box).

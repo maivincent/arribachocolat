@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "La Chocolaterie du Village - Baie St-Paul - 76% Ecuador"
+title: La Chocolaterie du Village - Baie St-Paul - 76% Ecuador
 tags: [Dark, Pure]
 categories: [Chocolaterie du Village - Baie St-Paul]
-
 ---
 
 This bar was offered by a friend from a chocolaterie in Baie St-Paul, in the heart of Charlevoix, Québec. Seeing a bar made with Ecuadorian cocoa, my friend thought of me — many thanks!

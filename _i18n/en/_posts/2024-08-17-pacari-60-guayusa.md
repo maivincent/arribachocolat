@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Pacari - Organic Chocolate with Guayusa - 60% Cocoa"
+title: Pacari - Organic Chocolate with Guayusa - 60% Cocoa
 tags: [Dark, Guayusa]
 categories: [Pacari]
-
 ---
 
 Guayusa is an aromatic, stimulating herb mainly cultivated in Ecuador. It was therefore expected that Pacari would incorporate it into a chocolate bar.

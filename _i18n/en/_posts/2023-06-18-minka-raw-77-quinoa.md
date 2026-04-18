@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Minka - Raw 77% with Quinoa"
-tags: [Dark, Quinoa] 
+title: Minka - Raw 77% with Quinoa
+tags: [Dark, Quinoa]
 categories: [Minka]
-
 ---
 
 Like other Minka Raw 77% bars, this is a somewhat bitter chocolate evoking coffee and pepper.

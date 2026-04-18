@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Conexion - Chocolate & Cacao Nibs - 70% Fine Cacao"
-tags: [Dark, Cocoa Nibs] 
+title: Conexion - Chocolate & Cacao Nibs - 70% Fine Cacao
+tags: [Dark, Cocoa Nibs]
 categories: [Conexion]
-
 ---
 
 Conexion offers us a very good bar. It's a pure, smooth chocolate, with a caramel taste, a touch of acidity reminiscent of rhubarb and a hint of bitterness, just to deserve its 70%.

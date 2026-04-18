@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Wayta - 85% Lemongrass Chocolate"
+title: Wayta - 85% Lemongrass Chocolate
 tags: [Dark, Lemongrass]
 categories: [Wayta]
-
 ---
 
 Wayta offers a powerful chocolate here, with intense floral and woody aromas and a light but present bitterness, while an acidity emerges at the end.

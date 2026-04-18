@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Mashpi - Chocolate Organico 65% Cacao con Cereza de Brunei"
-tags: [Dark, Cherry] 
+title: Mashpi - Chocolate Organico 65% Cacao con Cereza de Brunei
+tags: [Dark, Cherry]
 categories: [Mashpi]
-
 ---
 
 

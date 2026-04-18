@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Pacari - Andean Guaviduca - 60% Cocoa"
+title: Pacari - Andean Guaviduca - 60% Cocoa
 tags: [Dark, Guaviduca]
 categories: [Pacari]
-
 ---
 
 Guaviduca has a lovely name — but you'd be very good to know what it is. A search brings up scientific articles about an Amazonian essence, Latin name Piper carpunya (a pepper species), traditionally used by the Shuar people to treat inflammation, wounds and ulcers.

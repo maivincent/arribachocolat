@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Alluvia - Dark Chocolate 70%"
+title: Alluvia - Dark Chocolate 70%
 tags: [Dark, Pure]
 categories: [Alluvia]
-
 ---
 
 After Thailand and Cambodia, it's Vietnam's turn. Found in a high-end souvenir shop on Dong Khoi street in Ho Chi Minh City, this bar is part of Alluvia's collection that includes pure chocolates as well as ones flavored with local influences.

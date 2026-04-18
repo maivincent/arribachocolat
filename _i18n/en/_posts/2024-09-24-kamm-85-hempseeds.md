@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Kamm - Chocolate with Hemp Seeds - 85%"
+title: Kamm - Chocolate with Hemp Seeds - 85%
 tags: [Dark, Hemp]
 categories: [Kamm]
-
 ---
 
 Rest assured — this chocolate does not actually contain cannabis. It is topped with hemp seeds placed behind the bar. It's the "mild" counterpart to Kamm's CBD chocolate, a signature of the brand.

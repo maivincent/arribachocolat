@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Pacari - Raw Chocolate Organico - 85% Cacao + Azucar de coco"
-tags: [Dark, Pure, Coconut sugar] 
+title: Pacari - Raw Chocolate Organico - 85% Cacao + Azucar de coco
+tags: [Dark, Pure, Coconut sugar]
 categories: [Pacari]
 ---
 

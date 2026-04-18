@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Belly's Cocoa - Chocolate 62% Cacao Sabor Maracuya"
-tags: [Dark, Maracuya] 
+title: Belly's Cocoa - Chocolate 62% Cacao Sabor Maracuya
+tags: [Dark, Maracuya]
 categories: [Belly's]
 ---
 

@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Mashpi - Chocolate Organico 65% Cacao con Sal y Cardamomo"
-tags: [Dark, Salt, Cardamom] 
+title: Mashpi - Chocolate Organico 65% Cacao con Sal y Cardamomo
+tags: [Dark, Salt, Cardamom]
 categories: [Mashpi]
-
 ---
 
 

@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Huma - 70% - Guayaquil"
+title: Huma - 70% - Guayaquil
 tags: [Dark, Pure]
 categories: [Huma]
-
 ---
 
 Oh wow!

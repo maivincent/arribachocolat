@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Hoja Verde - 58%"
-tags: [Dark, Pure] 
+title: Hoja Verde - 58%
+tags: [Dark, Pure]
 categories: [Hoja Verde]
-
 ---
 
 This small bar from Hoja Verde, with notes of blackberry and hazelnut, is quite light. A distinct flavor for the first few seconds that evolves until a fruity note lingers on the palate.

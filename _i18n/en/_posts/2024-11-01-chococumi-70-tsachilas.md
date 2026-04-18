@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "ChocoCumi - Tsachilas - 70%"
+title: ChocoCumi - Tsachilas - 70%
 tags: [Dark, Pure]
 categories: [ChocoCumi]
-
 ---
 
 ChocoCumi's "Lugares de mi tierra" bars are often excellent from the first square. This one, however, requires time to appreciate and explore its flavors.

@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Kamm - Chocolate with crystals - 85% - Big Mango"
-tags: [Dark, Mango] 
+title: Kamm - Chocolate with crystals - 85% - Big Mango
+tags: [Dark, Mango]
 categories: [Kamm]
-
 ---
 
 Despite the presence of mango and sweeteners, this is not a very sweet chocolate. The mango here has no acidity: it completes the depth of a dark and sober chocolate, without bitterness but without sparkle.

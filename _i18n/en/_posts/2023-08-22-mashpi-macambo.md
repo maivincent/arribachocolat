@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Mashpi - Chocolate Organico Edicion Especial - Macambo"
-tags: [Dark, Macambo] 
+title: Mashpi - Chocolate Organico Edicion Especial - Macambo
+tags: [Dark, Macambo]
 categories: [Mashpi]
-
 ---
 
 What is macambo?

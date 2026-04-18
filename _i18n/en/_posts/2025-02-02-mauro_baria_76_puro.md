@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Marou - Bà Ria - Saigon - 70%"
+title: Marou - Bà Ria - Saigon - 70%
 tags: [Dark, Pure]
 categories: [Marou]
-
 ---
 
 Marou is a Vietnamese fine chocolate brand with shops in several tourist spots. This bar was bought in Hanoi. Because they're rather expensive, I had to be reasonable and choose only one of the six single-origin dark chocolate bars from different Vietnamese regions. Bà Ria is located southeast of Ho Chi Minh City, on the South China Sea coast.

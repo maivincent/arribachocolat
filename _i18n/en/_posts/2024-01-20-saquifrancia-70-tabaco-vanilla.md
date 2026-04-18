@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Finca Saquifrancia - Tobacco & Vanilla - 70%"
+title: Finca Saquifrancia - Tobacco & Vanilla - 70%
 tags: [Dark, Tobacco, Vanilla]
 categories: [Saquifrancia]
-
 ---
 
 I'll admit it — apart from second-hand smoke, I have never been in contact with tobacco, neither by smoking nor chewing.

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Minka - 100% - Hacienda Guantupi"
-tags: [Dark, Pure] 
+title: Minka - 100% - Hacienda Guantupi
+tags: [Dark, Pure]
 categories: [Minka]
 ---
 

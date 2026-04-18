@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Republica del Cacao - Single Origin Amazonia - 75% Fine Cacao"
-tags: [Dark, Pure] 
+title: Republica del Cacao - Single Origin Amazonia - 75% Fine Cacao
+tags: [Dark, Pure]
 categories: [Republica del Cacao]
-
 ---
 
 

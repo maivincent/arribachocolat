@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Rights Chocolate Negro - 60% Sin Azucar"
-tags: [Dark, Pure] 
+title: Rights Chocolate Negro - 60% Sin Azucar
+tags: [Dark, Pure]
 categories: [Rights]
 ---
 

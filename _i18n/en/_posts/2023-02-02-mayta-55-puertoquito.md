@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mayta Luxury Ecuadorian Chocolate - 55% Single Origin Puero Quito"
-tags: [Dark, Pure] 
+title: Mayta Luxury Ecuadorian Chocolate - 55% Single Origin Puero Quito
+tags: [Dark, Pure]
 categories: [Mayta]
 ---
 

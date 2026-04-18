@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mayta Luxury Ecuadorian Chocolate - 55% Raspberry"
-tags: [Dark, Raspberry] 
+title: Mayta Luxury Ecuadorian Chocolate - 55% Raspberry
+tags: [Dark, Raspberry]
 categories: [Mayta]
 ---
 

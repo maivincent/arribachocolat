@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mindo Chocolate - 70% Panela"
-tags: [Dark, Panela] 
+title: Mindo Chocolate - 70% Panela
+tags: [Dark, Panela]
 categories: [Mindo Chocolate Makers]
 ---
 

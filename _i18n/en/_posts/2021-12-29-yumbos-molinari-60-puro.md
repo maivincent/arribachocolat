@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Yumbos - Molinari chocolate – Cacao Fino de Aroma 60%"
-tags: [Dark, Pure] 
+title: Yumbos - Molinari chocolate – Cacao Fino de Aroma 60%
+tags: [Dark, Pure]
 categories: [Yumbos]
-
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Valdivian - Chocolate negro - Manabi 72%"
-tags: [Dark, Pure] 
+title: Valdivian - Chocolate negro - Manabi 72%
+tags: [Dark, Pure]
 categories: [Valdivian]
 ---
 

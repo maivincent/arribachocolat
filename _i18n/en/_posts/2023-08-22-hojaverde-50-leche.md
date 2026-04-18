@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Hoja Verde - Chocolate 50% Con Leche"
-tags: [Dark, Milk] 
+title: Hoja Verde - Chocolate 50% Con Leche
+tags: [Dark, Milk]
 categories: [Hoja Verde]
-
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mindo Chocolate - 77% Jengibre"
-tags: [Dark, Ginger] 
+title: Mindo Chocolate - 77% Jengibre
+tags: [Dark, Ginger]
 categories: [Mindo Chocolate Makers]
 ---
 

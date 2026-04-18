@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Minka - Singe Farm - El Refugio - 55%"
-tags: [Dark, Pure] 
+title: Minka - Singe Farm - El Refugio - 55%
+tags: [Dark, Pure]
 categories: [Minka]
 ---
 

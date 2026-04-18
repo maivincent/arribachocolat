@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Galletti - Andina - Strawberry & Raspberry"
-tags: [Dark, Strawberry, Raspberry] 
+title: Galletti - Andina - Strawberry & Raspberry
+tags: [Dark, Strawberry, Raspberry]
 categories: [Galletti]
-
 ---
 
 This is a little treat. 

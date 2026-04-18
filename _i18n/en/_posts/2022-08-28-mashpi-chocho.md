@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mashpi - Chocolate organico semi-oscuro con pulverizado de chocho"
-tags: [Dark, Chocho] 
+title: Mashpi - Chocolate organico semi-oscuro con pulverizado de chocho
+tags: [Dark, Chocho]
 categories: [Mashpi]
 ---
 

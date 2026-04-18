@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Mestizo - Dark Gourmet Chocolate - 85% Premium"
+title: Mestizo - Dark Gourmet Chocolate - 85% Premium
 tags: [Dark, Pure]
 categories: [Mestizo]
-
 ---
 
 This is a chocolate with surprisingly restrained flavor, not helped by the delicate physical nature of the bar.

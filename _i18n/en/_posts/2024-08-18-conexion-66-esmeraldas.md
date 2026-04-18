@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Conexion - 66% Fine Cacao - Esmeraldas"
+title: Conexion - 66% Fine Cacao - Esmeraldas
 tags: [Dark, Pure]
 categories: [Conexion]
-
 ---
 
 When a square of chocolate melts in the mouth, the nose comes alive to recognize its perfumes. Sometimes they present themselves clearly; other times you must dig deeper, searching for gustatory links to other foods. Often I let my imagination guide the exploration, and when a fruit, herb, or other aroma comes to mind, I try to find the resemblance to what I'm tasting.

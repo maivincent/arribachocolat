@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "ChocoCumi - Pichincha - 70%"
+title: ChocoCumi - Pichincha - 70%
 tags: [Dark, Pure]
 categories: [ChocoCumi]
-
 ---
 
 ChocoCumi's single-origin bars do not disappoint. The brand's signature remains: a rich, intense chocolate with tart berry notes. Here, aromatic herb flavors come forward — thyme, rosemary and tea — in an original, nuanced blend.

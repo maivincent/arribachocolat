@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Galletti - 87+ - Bella Donna - Higos y pétalos de rosa"
-tags: [Dark, Fig, Rose] 
+title: Galletti - 87+ - Bella Donna - Higos y pétalos de rosa
+tags: [Dark, Fig, Rose]
 categories: [Galletti]
 ---
 

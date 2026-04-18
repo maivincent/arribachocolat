@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Chaman Ecuador - Supreme Dark Chocolate 70% Cacao"
-tags: [Dark, Pure] 
+title: Chaman Ecuador - Supreme Dark Chocolate 70% Cacao
+tags: [Dark, Pure]
 categories: [Chaman]
 ---
 

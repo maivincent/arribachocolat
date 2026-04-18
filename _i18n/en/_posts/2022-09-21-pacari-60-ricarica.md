@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Pacari - Chocolate con Rica Rica - 60% Cacao"
-tags: [Dark, Rica Rica] 
+title: Pacari - Chocolate con Rica Rica - 60% Cacao
+tags: [Dark, Rica Rica]
 categories: [Pacari]
-
 ---
 
 The [rica rica](https://es.wikipedia.org/wiki/Acantholippia_deserticola), generic name of the Acantholippia deserticola, is an aromatic plant from the Andean high plateau. This is the first time I've tasted it, and it's hard to separate it from the taste of cocoa.

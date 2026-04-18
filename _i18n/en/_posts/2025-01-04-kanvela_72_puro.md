@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "KanVela - C72% Dark Chocolate Klong Loi Origin"
+title: KanVela - C72% Dark Chocolate Klong Loi Origin
 tags: [Dark, Pure]
 categories: [Kanvela]
-
 ---
 
 When traveling in a tropical country, one should look for chocolate. I happily found this small bar (a bit pricey) in a souvenir shop at Bangkok airport.

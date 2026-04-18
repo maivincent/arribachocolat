@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Pacari - White Truffle - 60% Cocoa"
+title: Pacari - White Truffle - 60% Cocoa
 tags: [Dark, Truffle]
 categories: [Pacari]
-
 ---
 
 The white truffle is a highly aromatic fungus from Piedmont, Italy. Wikipedia compares its scent to camembert with garlic. What led Pacari to incorporate it into a chocolate bar?

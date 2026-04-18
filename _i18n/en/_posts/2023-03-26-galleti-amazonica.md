@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Galletti - Amazonica - Pineapple, Passion Fruit & Guayusa Energy Plant"
-tags: [Dark, Pineapple, Maracuya, Guayusa] 
+title: Galletti - Amazonica - Pineapple, Passion Fruit & Guayusa Energy Plant
+tags: [Dark, Pineapple, Maracuya, Guayusa]
 categories: [Galletti]
 ---
 

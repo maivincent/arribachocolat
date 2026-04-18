@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Maison du Cacao - 70% - Bois d'Inde"
+title: Maison du Cacao - 70% - Bois d'Inde
 tags: [Dark, Bois d'Inde, Guadeloupe]
 categories: [Maison du Cacao]
-
 ---
 
 The history of chocolate has many fascinating detours. One of them was told to me by a good friend who visited Guadeloupe, a small French island in the Antilles. There, apparently, cocoa was once cultivated for the pleasure of the King's Court of France.

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Minka - 70% Hacienda La Zambrano"
-tags: [Dark, Pure] 
+title: Minka - 70% Hacienda La Zambrano
+tags: [Dark, Pure]
 categories: [Minka]
 ---
 

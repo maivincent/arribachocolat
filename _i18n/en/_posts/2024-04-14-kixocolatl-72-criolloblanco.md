@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Ki'Xocolatl - 72% Bitter Chocolate (White Criollo)"
+title: Ki'Xocolatl - 72% Bitter Chocolate (White Criollo)
 tags: [Dark, Pure, Mexico]
 categories: [Ki'Xocolatl]
-
 ---
 
 During a trip to the Yucatan, I couldn't resist. The Yucatan is where the Maya used cacao as currency and sacred fruit. Mexico is where Europeans discovered and transformed cacao into the chocolate we know.

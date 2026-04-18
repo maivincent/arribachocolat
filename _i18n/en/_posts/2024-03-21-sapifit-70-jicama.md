@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Sapifit - 70% Sweetened with Jicama"
+title: Sapifit - 70% Sweetened with Jicama
 tags: [Dark, Jicama]
 categories: [Sapifit]
-
 ---
 
 I had written a sharp critique of this bar. I indulged myself, exaggerating the criticism, because I don't often have occasion to be dramatic about Ecuadorian chocolate. Jicama is a slightly sweet tuber also called yam-bean, and I found it gives the bar an unpleasant turn reminiscent of turnip.

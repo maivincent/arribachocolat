@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Legast - Guayas Équateur - 80%"
-tags: [Dark, Pure] 
+title: Legast - Guayas Équateur - 80%
+tags: [Dark, Pure]
 categories: [Legast]
 ---
 

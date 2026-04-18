@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Patrimonio Cacao - Cacao Nacional Arriba 72%"
-tags: [Dark, Pure] 
+title: Patrimonio Cacao - Cacao Nacional Arriba 72%
+tags: [Dark, Pure]
 categories: [Patrimonio]
-
 ---
 
 First of all, a special thanks to the Cacao & Cacao store located in Quito on Juan Leon Mera Avenue for providing me with a special preview of this chocolate.

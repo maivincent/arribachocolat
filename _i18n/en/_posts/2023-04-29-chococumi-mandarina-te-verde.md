@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "ChocoCumi - Mandarina y Te Verde - 60% Cacao"
-tags: [Dark, Tangerine, Tea] 
+title: ChocoCumi - Mandarina y Te Verde - 60% Cacao
+tags: [Dark, Tangerine, Tea]
 categories: [ChocoCumi]
-
 ---
 
 This is a chocolate that gives much more space to the added flavors than to the cocoa. The essence of mandarin, in particular, is very strong, and leaves no room for the cocoa arriba to express itself.

@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Pacari - Chocolate con Menta - 60% Cacao"
-tags: [Dark, Mint] 
+title: Pacari - Chocolate con Menta - 60% Cacao
+tags: [Dark, Mint]
 categories: [Pacari]
-
 ---
 
 

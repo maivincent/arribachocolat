@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Republica del Cacao - Single Origin El Oro - 67% Fine Cacao"
-tags: [Dark, Pure] 
+title: Republica del Cacao - Single Origin El Oro - 67% Fine Cacao
+tags: [Dark, Pure]
 categories: [Republica del Cacao]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mashpi - Chocolate organico 65% relleno con pulpa de cacao"
-tags: [Dark, Cacao pulp] 
+title: Mashpi - Chocolate organico 65% relleno con pulpa de cacao
+tags: [Dark, Cacao pulp]
 categories: [Mashpi]
 ---
 

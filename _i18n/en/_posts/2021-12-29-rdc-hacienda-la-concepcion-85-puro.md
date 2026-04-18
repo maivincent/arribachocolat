@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Republica del Cacao - Single Origin Los Rios - Hacienda la Concepcion - 85% Fine Cacao"
-tags: [Dark, Pure] 
+title: Republica del Cacao - Single Origin Los Rios - Hacienda la Concepcion - 85%
+  Fine Cacao
+tags: [Dark, Pure]
 categories: [Republica del Cacao]
 ---
 

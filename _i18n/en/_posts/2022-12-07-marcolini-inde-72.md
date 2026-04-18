@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Pierre Marcolini - Grands Crus - Inde Almonado - 72% Cacao"
-tags: [Dark, Pure] 
+title: Pierre Marcolini - Grands Crus - Inde Almonado - 72% Cacao
+tags: [Dark, Pure]
 categories: [Pierre Marcolini]
-
 ---
 
 A visit to Brussels was the occasion to visit several chocolate stores. The brand Pierre Marcolini is among the most famous, and not only for its bonbons: they also sell great grand crus. 

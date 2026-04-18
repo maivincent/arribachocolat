@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Pacari - Chocolate Organico con Cereza – Cherry - 60% Cacao"
-tags: [Dark, Cherry] 
+title: Pacari - Chocolate Organico con Cereza – Cherry - 60% Cacao
+tags: [Dark, Cherry]
 categories: [Pacari]
-
 ---
 
 I really like cherries. And I really like chocolate (yep!). So it was with high expectations that I opened the case of this bar.

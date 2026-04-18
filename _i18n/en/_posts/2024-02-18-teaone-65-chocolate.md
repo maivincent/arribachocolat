@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Teaone - 65% Chocolate"
+title: Teaone - 65% Chocolate
 tags: [Dark, Pure]
 categories: [Teaone]
-
 ---
 
 I finally managed to find a new Teaone bar and try it.

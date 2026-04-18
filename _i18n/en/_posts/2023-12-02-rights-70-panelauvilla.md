@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Rights Chocolate Negro - 70% Panela y Uvilla"
-tags: [Dark, Goldenberry, Panela] 
+title: Rights Chocolate Negro - 70% Panela y Uvilla
+tags: [Dark, Goldenberry, Panela]
 categories: [Rights]
 ---
 

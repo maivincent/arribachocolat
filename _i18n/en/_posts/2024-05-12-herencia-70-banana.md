@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Herencia Esmeraldas - 70% Dark Chocolate with Banana"
+title: Herencia Esmeraldas - 70% Dark Chocolate with Banana
 tags: [Dark, Banana]
 categories: [Herencia]
-
 ---
 
 Of high quality, this fragrant chocolate fills the mouth with a thousand sensations. Herencia's rich cocoa — woody, fruity, and influenced by cane sugar — combines with the round, salty crunch of dried bananas.

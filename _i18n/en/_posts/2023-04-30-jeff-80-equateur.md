@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Jeff de Bruges - No 8 - Équateur Corsé & Aromatique - 80% Cacao"
-tags: [Dark, Pure] 
+title: Jeff de Bruges - No 8 - Équateur Corsé & Aromatique - 80% Cacao
+tags: [Dark, Pure]
 categories: [Jeff de Bruges]
-
 ---
 
 Here's another European chocolatier offering Ecuadorian cocoa.

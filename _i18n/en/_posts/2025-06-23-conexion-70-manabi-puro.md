@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Conexion - 70% Fine Cacao - Manabi"
+title: Conexion - 70% Fine Cacao - Manabi
 tags: [Dark, Cocoa]
 categories: [Conexion]
-
 ---
 
-As often, Conexion greets us with a chocolate whose intensity strikes from the first second and continues throughout the tasting. This is a very fruity chocolate on the berry side: blackberries, cherries, raspberries, currants. You are also transported to the warmth of the Manabí coast — you can almost sense the scent of hot, humid plantations, even from an air-conditioned apartment in Montreal.
+As often, Conexión greets us with a chocolate whose intensity strikes from the first second and carries through the entire tasting. It is a deeply fruity chocolate — blackberries, cherries, raspberries, currants. It also transports us to the warmth of the Manabí coast: one can almost catch the scent of hot, humid plantations, even from an air-conditioned apartment in Montreal.
 
-Overall impression: an intense and pleasant chocolate with a color all its own. In the tradition of Conexion's high quality.
+Overall: an intense, generous chocolate with a personality all its own. In the finest tradition of Conexión.
 
 
 ### Evaluation

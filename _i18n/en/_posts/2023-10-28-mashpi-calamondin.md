@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Mashpi - Chocolate Organico 65% con Calamondin"
-tags: [Dark, Calamondin] 
+title: Mashpi - Chocolate Organico 65% con Calamondin
+tags: [Dark, Calamondin]
 categories: [Mashpi]
-
 ---
 
 Calamondin? In Ecuador? With chocolate? That's an original and bold choice. Calamondin is a small citrus fruit native to the Philippines, similar to mandarin and kumquat.

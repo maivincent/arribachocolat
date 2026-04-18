@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Mindo Chocolate - 70% Rustico"
-tags: [Dark, Pure] 
+title: Mindo Chocolate - 70% Rustico
+tags: [Dark, Pure]
 categories: [Mindo Chocolate Makers]
-
 ---
 
 

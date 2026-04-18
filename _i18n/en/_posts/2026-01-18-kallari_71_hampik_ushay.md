@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Kallari - Sacha - 71% Hampik Ushay with Ginger"
+title: Kallari - Sacha - 71% Hampik Ushay with Ginger
 tags: [Dark, Ginger]
 categories: [Kallari]
-
 ---
 
-Kallari's cacao is, as always, very gentle. Here it is accompanied by candied ginger pieces and ginger essence present in the chocolate itself. The result is a calm, composed chocolate that doesn't aim to overwhelm with intense or singular flavors. It is rather a small, fragrant, and pleasant sweetness.
+Kallari's cacao is, as always, very gentle. Here it is accompanied by candied ginger pieces, with ginger essence woven into the chocolate itself. The result is a calm, quietly composed chocolate — one that has no interest in overwhelming, preferring instead a delicate, fragrant sweetness.
 
 
 ### Evaluation

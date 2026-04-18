@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Leyenda - 54.7% - Dark Chocolate"
+title: Leyenda - 54.7% - Dark Chocolate
 tags: [Dark, Pure]
 categories: [Leyenda]
-
 ---
 
 Quite sweet — as one might expect from a 55% chocolate — this Leyenda bar is fruity, with flavors that evolve between citrus, raisins and wine-soaked prunes.

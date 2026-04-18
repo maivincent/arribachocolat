@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Golden Bean Co - 68% - Fine Dark Chocolate"
+title: Golden Bean Co - 68% - Fine Dark Chocolate
 tags: [Dark, Pure]
 categories: [Golden Bean]
-
 ---
 
 This bar with thick squares is not very sweet despite its relatively low 68% level. It's somewhat bitter with smoky notes, stout-beer hints and coconut. Toward the end, a touch of green mint appears, hidden behind a buttery taste.

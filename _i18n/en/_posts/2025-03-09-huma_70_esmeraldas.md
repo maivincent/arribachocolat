@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Huma - 70% - Esmeraldas"
+title: Huma - 70% - Esmeraldas
 tags: [Dark, Pure]
 categories: [Huma]
-
 ---
 
 This fruity and gentle chocolate recalls a pear-and-almond tart. Slightly sweet, it finishes on a light bitterness.

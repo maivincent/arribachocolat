@@ -1,16 +1,15 @@
 ---
 layout: post
-title: "Muyus - Otavalo - 60% Passion Fruit"
+title: Muyus - Otavalo - 60% Passion Fruit
 tags: [Dark, Passionfruit]
 categories: [Muyus]
-
 ---
 
-In Otavalo, north of Quito, the Muyus café sells coffee and chocolate. They produce their own bars, though the small print reveals the bar was made by Huma — a collaboration.
+In Otavalo, north of Quito, the Muyus café sells coffee and chocolate — including bars of their own, though the fine print reveals a collaboration with Huma.
 
-This chocolate is a refined candy: small passion fruit pieces strongly punctuate the experience, with the always-winning cocoa-passion combination. It's a bright, comforting chocolate. Of course, it's harder to assess the cacao's finesse itself beyond its round, warm character.
+This is a refined confection: small passion fruit pieces punctuate the experience with bright intensity, delivering the always-winning cocoa-passion combination. It is a cheerful, comforting chocolate — though the richness of the inclusion makes it difficult to fully assess the cacao's own finesse, beyond its round and warm character.
 
-A lovely experience, a treat that stands out.
+A treat, and a memorable one.
 
 
 ### Evaluation

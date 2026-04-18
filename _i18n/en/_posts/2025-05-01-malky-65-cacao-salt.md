@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Malky Productos Amazonicos - 65% Cocoa"
+title: Malky Productos Amazonicos - 65% Cocoa
 tags: [Dark, Salt, Cocoa]
 categories: [Malky]
-
 ---
 
 It's not written on the box except in the ingredients, but this chocolate bar is enhanced with pieces of cocoa and grains of salt.

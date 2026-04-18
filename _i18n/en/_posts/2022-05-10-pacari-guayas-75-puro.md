@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Pacari - Guayas - 75% Cacao"
-tags: [Dark, Pure] 
+title: Pacari - Guayas - 75% Cacao
+tags: [Dark, Pure]
 categories: [Pacari]
-
 ---
 
 Dark and deep, yet floral and sweet. At first, notes of wine red and violet blue, then comes a heart of caramel and banana, for a light woody finish that stays on the palate.

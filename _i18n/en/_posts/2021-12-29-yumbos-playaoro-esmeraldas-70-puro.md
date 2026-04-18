@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Yumbos - Playa de Oro – Esmeraldas 70% Puro"
-tags: [Dark, Pure] 
+title: Yumbos - Playa de Oro – Esmeraldas 70% Puro
+tags: [Dark, Pure]
 categories: [Yumbos]
-
 ---
 
 It is a chocolate with a sweet and pleasant taste. The texture is peculiar: a bit brittle, it lacks smoothness. It forces to chew at the very beginning, which does not facilitate the tasting. But once the chocolate finally starts to melt, you can feel different flavors mixing. A little bitter, a little toasted, a little butter, a little nutty. A bit of sweetness at last.

@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Arapegua - 60% Pure"
+title: Arapegua - 60% Pure
 tags: [Dark, Cocoa]
 categories: [Arapegua]
-
 ---
 
 Arapegua's 60% is a gentle and balanced chocolate. It offers soft notes of cocoa powder, milk caramel, and light dried fruit. The texture is creamy and the finish leaves a pleasant sweetness without being cloying. An enjoyable bar for those who appreciate subtlety over force.

@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Pacari - Chocolate con Mole Rojo - 60% Cacao"
-tags: [Dark, Paprika] 
+title: Pacari - Chocolate con Mole Rojo - 60% Cacao
+tags: [Dark, Paprika]
 categories: [Pacari]
-
 ---
 
 Look up mole rojo on the internet: you'll find that it's a traditional Mexican chili-based sauce (mole). 

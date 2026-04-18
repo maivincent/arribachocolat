@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Pacari - Single Region Fine Chocolate - Piura Quemazon 70% Cacao"
-tags: [Dark, Pure] 
+title: Pacari - Single Region Fine Chocolate - Piura Quemazon 70% Cacao
+tags: [Dark, Pure]
 categories: [Pacari]
 ---
 

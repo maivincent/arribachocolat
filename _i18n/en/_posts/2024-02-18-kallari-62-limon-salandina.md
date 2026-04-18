@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Kallari - Sacha - 62% Cacao - Ali Kayak - Lemon & Andean Salt"
+title: Kallari - Sacha - 62% Cacao - Ali Kayak - Lemon & Andean Salt
 tags: [Dark, Lemon, Salt]
 categories: [Kallari]
-
 ---
 
 Soft, rich yet light.

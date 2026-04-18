@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Kallari - Farmer Owned Organic Chocolate - 75% cacao nacional"
-tags: [Dark, Pure] 
+title: Kallari - Farmer Owned Organic Chocolate - 75% cacao nacional
+tags: [Dark, Pure]
 categories: [Kallari]
 ---
 

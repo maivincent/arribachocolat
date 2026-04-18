@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Pacari - Raw Chocolate Organico - 100% Cacao"
-tags: [Dark, Pure] 
+title: Pacari - Raw Chocolate Organico - 100% Cacao
+tags: [Dark, Pure]
 categories: [Pacari]
 ---
 

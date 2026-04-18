@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Arariwa - Chocolate organico 55% Cacao"
-tags: [Dark, Pure] 
+title: Arariwa - Chocolate organico 55% Cacao
+tags: [Dark, Pure]
 categories: [Arariwa]
-
 ---
 
 

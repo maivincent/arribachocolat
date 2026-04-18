@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Pacari - Single Region Fine Chocolate - Manabi 65% Cacao"
-tags: [Dark, Pure] 
+title: Pacari - Single Region Fine Chocolate - Manabi 65% Cacao
+tags: [Dark, Pure]
 categories: [Pacari]
 ---
 

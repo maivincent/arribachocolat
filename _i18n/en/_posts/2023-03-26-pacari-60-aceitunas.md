@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Pacari - Chocolate con Aceitunas - 60% Cacao"
-tags: [Dark, Olives] 
+title: Pacari - Chocolate con Aceitunas - 60% Cacao
+tags: [Dark, Olives]
 categories: [Pacari]
-
 ---
 
 A former flatmate of mine used to eat nutella with feta cheese. In the face of my initial disgust, he offered me a taste - and I was surprised to have to admit that it wasn't such a bad idea (though I haven't had it since).

@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Asoproaval - Artisanal Chocolate - 54% Cocoa"
+title: Asoproaval - Artisanal Chocolate - 54% Cocoa
 tags: [Dark, Pure]
 categories: [Asoproaval]
-
 ---
 
 Asoproaval is a community association of cocoa producers from the village of La Mana in Cotopaxi. It's hard to find much information about them. According to an academic article about their work, they recently organized to create tablets — whereas previously they mainly exported cocoa.

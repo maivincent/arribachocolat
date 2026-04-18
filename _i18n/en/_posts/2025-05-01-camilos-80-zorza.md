@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Camilo's 80% - Reserva Zorzal"
+title: Camilo's 80% - Reserva Zorzal
 tags: [Dark, Pure]
 categories: [Camilo's]
-
 ---
 
 Camilo's is a bean-to-bar chocolaterie from Rosemère. I met them at an artisan market. The cocoa comes from the Reserva Zorzal in the Dominican Republic.

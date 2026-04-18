@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "ChocoCumi - Guayas - 70%"
+title: ChocoCumi - Guayas - 70%
 tags: [Dark, Pure]
 categories: [ChocoCumi]
-
 ---
 
 When you taste several chocolates from the same brand, you begin to recognize a certain signature—flavors that echo across different cocoa origins.

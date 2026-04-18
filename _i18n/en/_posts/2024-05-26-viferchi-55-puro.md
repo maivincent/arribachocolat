@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Viferchi - 55% Traditional Dark Chocolate"
+title: Viferchi - 55% Traditional Dark Chocolate
 tags: [Dark, Pure]
 categories: [Viferchi]
-
 ---
 
 Viferchi offers a very fruity chocolate with notes of peach, red fruit and mint. Unfortunately, at 55% it is very, perhaps too, sweet — giving the impression of a supermarket candy rather than a fine chocolate.

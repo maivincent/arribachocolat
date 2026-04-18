@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Mashpi - Chocolate organico Edicion especial - Guayusa"
-tags: [Dark, Guayusa] 
+title: Mashpi - Chocolate organico Edicion especial - Guayusa
+tags: [Dark, Guayusa]
 categories: [Mashpi]
-
 ---
 
 Guayusa is a plant from the holly family, native to the Amazon rainforest, and it contains caffeine. It is used as an herbal tea, similar to tea, for its stimulating effects. My taste buds struggle to recognize its flavor. In this chocolate - a special edition from Mashpi - an herbal aspect comes through, leaving a slightly bitter aftertaste.

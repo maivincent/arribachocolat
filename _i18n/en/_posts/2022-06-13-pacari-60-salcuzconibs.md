@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Pacari - Cuzco Salt & Nibs - 60% Cacao"
-tags: [Dark, Salt, Cocoa] 
+title: Pacari - Cuzco Salt & Nibs - 60% Cacao
+tags: [Dark, Salt, Cocoa]
 categories: [Pacari]
-
 ---
 
 Another inspired mix from Pacari. Salt in chocolate is a classic: it brings out certain aspects of the chocolate and shifts its balance. It becomes rounder, leaning more toward caramel notes. The salt also brings a peanut-like accent, oddly reminding me of an Oh Henry! candy bar.

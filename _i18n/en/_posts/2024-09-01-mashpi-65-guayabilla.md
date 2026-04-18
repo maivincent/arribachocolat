@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Mashpi - Guayabilla Chocolate Bar - 65% Cocoa"
+title: Mashpi - Guayabilla Chocolate Bar - 65% Cocoa
 tags: [Dark, Guayabilla]
 categories: [Mashpi]
-
 ---
 
 The fruit of the plant known by the Latin name Eugenia victoriana has no official English name; I'll call it guayabilla for this article. It's a small orange local fruit, about the size of a closed fist, with pulpy and slightly tart flesh.

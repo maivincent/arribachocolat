@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Galletti - Sweed - Organic Hemp Seeds"
-tags: [Dark, Hemp] 
+title: Galletti - Sweed - Organic Hemp Seeds
+tags: [Dark, Hemp]
 categories: [Galletti]
 ---
 

@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Yumbos - Playa de Oro – Esmeraldas 70% Aji"
-tags: [Dark, Hot pepper] 
+title: Yumbos - Playa de Oro – Esmeraldas 70% Aji
+tags: [Dark, Hot pepper]
 categories: [Yumbos]
-
 ---
 
 

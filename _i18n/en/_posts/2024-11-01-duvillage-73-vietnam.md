@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "La Chocolaterie du Village - Baie St-Paul - 73% Vietnam"
+title: La Chocolaterie du Village - Baie St-Paul - 73% Vietnam
 tags: [Dark, Pure]
 categories: [Chocolaterie du Village - Baie St-Paul]
-
 ---
 
 La Chocolaterie du Village mentioned in the October 5 post does not only sell Ecuadorian chocolate. Anticipating a trip to Vietnam, my friend brought this small bar back. The design is very pretty; the uneven thickness squares are engraved with tropical flowers.

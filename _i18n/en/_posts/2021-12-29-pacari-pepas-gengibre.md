@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Pacari - Pepas de cacao cubiertas con chocolate – Gengibre"
-tags: [Dark, Ginger, Cocoa nibs] 
+title: Pacari - Pepas de cacao cubiertas con chocolate – Gengibre
+tags: [Dark, Ginger, Cocoa nibs]
 categories: [Pacari]
 ---
 

@@ -1,17 +1,15 @@
 ---
 layout: post
-title: "Minka - Raw - 77% Plain"
+title: Minka - Raw - 77% Plain
 tags: [Dark, Pure]
 categories: [Minka]
-
 ---
 
 After trying all the flavor combinations from Minka Raw, it was perhaps time to taste the pure chocolate version.
 
-It hits from the first second: the tasting begins with a refreshing punch, slightly mentholated, a bit eucalyptus-like, which surprises for a pure cocoa product. This aspect stretches across much of the experience. In support rather than front and center, there is a faint hazelnut note and a woody roundness that leans toward a light coffee bitterness if you let the square melt slowly.
+It hits from the first second: the tasting opens with a refreshing punch, slightly mentholated, with hints of eucalyptus — surprising for a pure cocoa product. This profile carries across much of the experience. Quieter but present, a faint hazelnut note and a woody roundness emerge, leaning toward a light coffee bitterness if you let the piece melt slowly.
 
-As I build experience with Ecuadorian cacao, the diversity and depth of flavors no longer surprise me. Yet with every new bar I'm still amazed by the variety Minka delivers. Minka is an artisan of that diversity.
-
+As I build experience with Ecuadorian cacao, its diversity and depth should no longer amaze me. And yet, with every new bar, they do. Minka is the one making that case, once again.
 
 ### Evaluation
 

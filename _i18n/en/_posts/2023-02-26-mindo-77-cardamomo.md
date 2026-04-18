@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Mindo Chocolate - 77% Cardamom"
-tags: [Dark, Cardamom] 
+title: Mindo Chocolate - 77% Cardamom
+tags: [Dark, Cardamom]
 categories: [Mindo Chocolate Makers]
-
 ---
 
 The Mindo 77% plain chocolate is a concentrate of roundness, honey and almond notes.

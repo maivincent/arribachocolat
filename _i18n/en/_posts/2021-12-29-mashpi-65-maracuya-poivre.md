@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Mashpi - Chocolate Organico 65% Cacao con Maracuya y Pimiento Negro"
-tags: [Dark, Maracuya, Pepper] 
+title: Mashpi - Chocolate Organico 65% Cacao con Maracuya y Pimiento Negro
+tags: [Dark, Maracuya, Pepper]
 categories: [Mashpi]
-
 ---
 
 

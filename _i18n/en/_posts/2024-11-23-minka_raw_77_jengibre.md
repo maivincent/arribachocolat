@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Minka - Raw 77% with Ginger"
+title: Minka - Raw 77% with Ginger
 tags: [Dark, Ginger]
 categories: [Minka]
-
 ---
 
 Minka's Raw range often conveys seriousness: low sugar, intense chocolate, slightly bitter with notes of tea and pepper. This bar is no exception.

@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Pacari - Chocolate Organico con Maracuya 60% - Passionfruit"
-tags: [Dark, Maracuya] 
+title: Pacari - Chocolate Organico con Maracuya 60% - Passionfruit
+tags: [Dark, Maracuya]
 categories: [Pacari]
-
 ---
 
 Sometimes there are little mysteries that spice up everyday life. For example, the fact that I waited until February 9, 2022 to write about this chocolate, which is a classic for me, and a first choice for gift giving. It was while doing the translations that I realized this!

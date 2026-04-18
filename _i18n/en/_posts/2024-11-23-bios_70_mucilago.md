@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Bios - Fine Mucilage - 70%"
+title: Bios - Fine Mucilage - 70%
 tags: [Dark, Cocoa Pulp]
 categories: [Bios]
-
 ---
 
 Bios is one of Ecuador's more established chocolate brands. Often their chocolate is of average quality and sold at a low price, and my previous tries hadn't convinced me to cover them here. So I was surprised to learn this new bar won Gold at the Ecuadorian Chocolate Awards in 2023.

@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Hoja Verde - 58% Roses + Lemon"
-tags: [Dark, Rose, Lemon] 
+title: Hoja Verde - 58% Roses + Lemon
+tags: [Dark, Rose, Lemon]
 categories: [Hoja Verde]
-
 ---
 
 Do you like rosewater?

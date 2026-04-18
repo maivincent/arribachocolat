@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Arariwa - Chocolate 72% with Pineapple"
+title: Arariwa - Chocolate 72% with Pineapple
 tags: [Dark, Pineapple]
 categories: [Arariwa]
-
 ---
 
 Why aren't there more pineapple chocolates?

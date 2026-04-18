@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Pacari - Organic Chocolate with Lemon Essence – 60% Cacao"
+title: Pacari - Organic Chocolate with Lemon Essence – 60% Cacao
 tags: [Dark, Lemon]
 categories: [Pacari]
-
 ---
 
 It's subtle, but it's present beneath Pacari's classic cacao. A slight note of lemon zest lifts this chocolate. Rather than the acidity of a lemon tart, it's the citrusy side — like candied lemon — that comes through with a touch of bitterness. It complements the cacao's roundness well.

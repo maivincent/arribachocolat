@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Hoja Verde - 100% Cacao Fino de Aroma"
-tags: [Dark, Pure] 
+title: Hoja Verde - 100% Cacao Fino de Aroma
+tags: [Dark, Pure]
 categories: [Hoja Verde]
-
 ---
 
 

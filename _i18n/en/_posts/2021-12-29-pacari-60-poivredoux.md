@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Pacari - Chocolate Organico con Esencia de Pimienta Dulce – Allspice - 60% Cacao"
-tags: [Dark, Pepper] 
+title: Pacari - Chocolate Organico con Esencia de Pimienta Dulce – Allspice - 60%
+  Cacao
+tags: [Dark, Pepper]
 categories: [Pacari]
 ---
 

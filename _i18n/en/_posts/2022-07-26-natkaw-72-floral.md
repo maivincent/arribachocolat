@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Nat Kaw - 72% Floral Nativo"
-tags: [Dark, Pure] 
+title: Nat Kaw - 72% Floral Nativo
+tags: [Dark, Pure]
 categories: [Nat Kaw]
-
 ---
 
 

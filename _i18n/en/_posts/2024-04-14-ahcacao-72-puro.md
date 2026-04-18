@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Ah Cacao - 70%"
+title: Ah Cacao - 70%
 tags: [Dark, Pure, Mexico]
 categories: [Ah Cacao]
-
 ---
 
 One last Mexican chocolate — Ah Cacao, found at the Soda Gourmet shop in Tulum, Quintana Roo.

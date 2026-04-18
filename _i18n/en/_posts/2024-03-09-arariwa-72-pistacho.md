@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Arariwa - Chocolate 72% with Pistachio"
+title: Arariwa - Chocolate 72% with Pistachio
 tags: [Dark, Pistachio]
 categories: [Arariwa]
-
 ---
 
 Pistachio is added to this chocolate in the form of pieces under the bar — a relatively classic technique to add an element without integrating it into the chocolate mass. In this case, pistachio and chocolate flavors don't really blend; the result is rather particular and heterogeneous, where the tongue sometimes tastes pistachio and sometimes chocolate in alternation.

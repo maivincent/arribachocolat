@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Avanaa - 80% - Kallari Équateur"
-tags: [Dark, Pure] 
+title: Avanaa - 80% - Kallari Équateur
+tags: [Dark, Pure]
 categories: [Avanaa]
-
 ---
 
 It is usually a challenge for international chocolatiers to capture all the nuances of Ecuadorian cocoa. 

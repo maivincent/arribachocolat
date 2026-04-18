@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Origenec - 60% - Highland Chocolate"
+title: Origenec - 60% - Highland Chocolate
 tags: [Dark, Pure]
 categories: [Origenec]
-
 ---
 
 Origenec from Latacunga in the Cotopaxi highlands offers a very fine bar. The chocolate is gentle, with notes of dried apricot and cardamom that extend toward walnut.

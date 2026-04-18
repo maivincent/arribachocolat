@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Leyenda - Dark Chocolate 70% - Sweetened with Panela"
+title: Leyenda - Dark Chocolate 70% - Sweetened with Panela
 tags: [Dark, Pure, Panela]
 categories: [Leyenda]
-
 ---
 
 Panela has a pronounced flavor and takes center stage here. Still, you can detect a chocolate that goes straight to caramel flavors without any bitterness. With some effort, fruity accents appear.

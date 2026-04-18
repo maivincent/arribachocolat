@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Mestizo - Dark Gourmet Chocolate - 75% Cacao Premium"
-tags: [Dark, Pure] 
+title: Mestizo - Dark Gourmet Chocolate - 75% Cacao Premium
+tags: [Dark, Pure]
 categories: [Mestizo]
-
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Kallari - Sacha - 61% Cacao - Samachik"
-tags: [Dark, Hierbaluisa] 
+title: Kallari - Sacha - 61% Cacao - Samachik
+tags: [Dark, Hierbaluisa]
 categories: [Kallari]
 ---
 

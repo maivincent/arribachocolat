@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Nat Kaw - 76% Herbal Nativo"
-tags: [Dark, Pure] 
+title: Nat Kaw - 76% Herbal Nativo
+tags: [Dark, Pure]
 categories: [Nat Kaw]
-
 ---
 
 Nat Kaw blends cocoa beans to create distinctive flavors. In this "herbal" chocolate, the objective is achieved. Flavors of tea, thyme, cumin and mint orbit a heart reminiscent of caramel.

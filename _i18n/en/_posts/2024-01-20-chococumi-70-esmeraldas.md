@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "ChocoCumi - Esmeraldas - 70%"
+title: ChocoCumi - Esmeraldas - 70%
 tags: [Dark, Pure]
 categories: [ChocoCumi]
-
 ---
 
 Here is a surprising dark chocolate whose notes clearly differ from the Ecuadorian chocolates I've tried so far.

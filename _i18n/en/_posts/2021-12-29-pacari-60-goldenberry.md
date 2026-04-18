@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Pacari - Chocolate Organico con Uvilla – Goldenberry - 60% Cacao"
-tags: [Dark, Goldenberry] 
+title: Pacari - Chocolate Organico con Uvilla – Goldenberry - 60% Cacao
+tags: [Dark, Goldenberry]
 categories: [Pacari]
 ---
 

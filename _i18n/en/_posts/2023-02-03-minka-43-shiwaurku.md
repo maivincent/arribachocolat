@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Minka - 43% Dark Milk - Communidad Shiwa Urku"
-tags: [Dark, Milk] 
+title: Minka - 43% Dark Milk - Communidad Shiwa Urku
+tags: [Dark, Milk]
 categories: [Minka]
 ---
 

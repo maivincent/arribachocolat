@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Pacari - Sea Pine Essence - 60% Cocoa"
+title: Pacari - Sea Pine Essence - 60% Cocoa
 tags: [Dark, Pine]
 categories: [Pacari]
-
 ---
 
 Maritime pine originates from the Mediterranean basin and is cultivated for its wood. It may also be found in Chile as an invasive species. Its essence is sometimes used in cough syrups. How Pacari decided to use it in a chocolate is a curiosity.

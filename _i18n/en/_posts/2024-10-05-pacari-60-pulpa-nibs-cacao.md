@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Pacari - Cocoa Pulp & Nibs - 60% Cocoa"
+title: Pacari - Cocoa Pulp & Nibs - 60% Cocoa
 tags: [Dark, Cocoa Pulp]
 categories: [Pacari]
-
 ---
 
 Cocoa pulp, also called mucilage, surrounds the beans inside the pod. It's a sweet and tart food.

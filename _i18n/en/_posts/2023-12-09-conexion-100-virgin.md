@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Conexion - Virgin - 100% Cacao Arriba"
-tags: [Dark, Pure] 
+title: Conexion - Virgin - 100% Cacao Arriba
+tags: [Dark, Pure]
 categories: [Conexion]
-
 ---
 
 

@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Minka - Raw 77% with Golden Berry"
+title: Minka - Raw 77% with Golden Berry
 tags: [Dark, Goldenberry]
 categories: [Minka]
-
 ---
 
 Small pieces of uvilla (golden berry) are added dry under the bar. They quickly give an acidic-sweet color to an otherwise serious Minka Raw chocolate with notes of tea, pepper, and rind.

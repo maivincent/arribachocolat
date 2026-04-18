@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Ethiquable - Equateur - Cacao variété nacional 80%"
-tags: [Dark, Pure] 
+title: Ethiquable - Equateur - Cacao variété nacional 80%
+tags: [Dark, Pure]
 categories: [Ethiquable]
 ---
 
