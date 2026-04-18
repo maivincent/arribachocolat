@@ -1,0 +1,365 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/grids-responsive-min.css">
+  
+   <link rel="stylesheet" href="/en/assets/styles.css"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Arriba Chocolat — Repository Overview | Arriba Chocolat</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Arriba Chocolat — Repository Overview" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="Le défi d’une vie: goûter à toutes les barres de chocolat faites à partir des meilleures fèves de cacao qui soient: le cacao fino d’aroma d’Équateur." />
+<meta property="og:description" content="Le défi d’une vie: goûter à toutes les barres de chocolat faites à partir des meilleures fèves de cacao qui soient: le cacao fino d’aroma d’Équateur." />
+<link rel="canonical" href="/en/REPO_OVERVIEW.html" />
+<meta property="og:url" content="/en/REPO_OVERVIEW.html" />
+<meta property="og:site_name" content="Arriba Chocolat" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Arriba Chocolat — Repository Overview" />
+<script type="application/ld+json">
+{"url":"/en/REPO_OVERVIEW.html","headline":"Arriba Chocolat — Repository Overview","@type":"WebPage","description":"Le défi d’une vie: goûter à toutes les barres de chocolat faites à partir des meilleures fèves de cacao qui soient: le cacao fino d’aroma d’Équateur.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link type="application/atom+xml" rel="alternate" href="/en/feed.xml" title="Arriba Chocolat" /></head>
+
+
+  <body>
+
+    <div class="container pure-g"><div class="sidebar-left pure-u-1 pure-u-md-1-4" style="background-color: rgb(40, 73, 77); color: rgb(255, 255, 255); background-image: url(/en/bg.jpeg);"><header class="masthead">
+  
+  <div class="table-headline" style="background-color: rgba(60, 60, 60, 0.5);">
+    <div class="masthead-title">
+      <a href="/en/" title="Home">Arriba Chocolat</a>
+    </div>
+    <div class="masthead-tagline" >
+      <small>A life challenge: taste all the chocolate bars made from the best cocoa beans in the world, Ecuador's fino d'aroma</small>
+    </div>
+  </div><nav class="navigation">
+    <ul class="navigation-list"><li class="navigation-item">
+        <a onclick="sessionStorage.setItem('forceCheckScroll', 'true')" href="/en/">Arriba Chocolat</a>
+      </li><li class="navigation-item">
+        <a onclick="sessionStorage.setItem('forceCheckScroll', 'true')" href="/en/about">About</a>
+      </li><li class="navigation-item">
+        <a onclick="sessionStorage.setItem('forceCheckScroll', 'true')" href="/en/grades">Chocolate bar ranking</a>
+      </li><li class="navigation-item">
+        <a onclick="sessionStorage.setItem('forceCheckScroll', 'true')" href="/en/cacao">Ecuador's chocolate</a>
+      </li><li class="navigation-item">
+        <a onclick="sessionStorage.setItem('forceCheckScroll', 'true')" href="/en/marques">Chocolate brands</a>
+      </li></ul>
+  </nav><div class="social pure-menu pure-menu-horizontal">
+      <ul class="social-icons pure-menu-list">
+      <li class="pure-menu-item">
+          <a class="social-icon pure-menu-link" href="mailto:vmside@protonmail.com">
+            <i class="fas fa-envelope" title="Email"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+    
+  <a href="/" class="footer__link">fr</a>
+
+  
+    | <a href="/en" class="footer__link">en</a>
+  
+
+  
+    | <a href="/es" class="footer__link">es</a>
+  
+
+</header>
+</div>
+
+      <div class="content pure-u-1 pure-u-md-1-2"><main>
+  <article class="page">
+  <h1 class="page-title"></h1>
+  <h1 id="arriba-chocolat--repository-overview">Arriba Chocolat — Repository Overview</h1>
+
+<h2 id="what-this-site-is">What this site is</h2>
+
+<p>A trilingual (French / English / Spanish) Jekyll blog reviewing Ecuadorian fine-aroma (“fino d’aroma”) chocolate bars. Each post reviews one bar with five scored criteria and a final grade out of 25.</p>
+
+<p>Site URL: <strong>www.arribachocolat.ca</strong> (served via GitHub Pages)</p>
+
+<hr />
+
+<h2 id="two-level-git-structure">Two-level git structure</h2>
+
+<h3 id="level-1--source-repo-main-branch">Level 1 — Source repo (<code class="language-plaintext highlighter-rouge">main</code> branch)</h3>
+
+<p>Working directory: <code class="language-plaintext highlighter-rouge">~/Documents/Projects/arriba_choco/arribachocolat/</code><br />
+Remote: <code class="language-plaintext highlighter-rouge">git@github.com:maivincent/arribachocolat.git</code><br />
+Branch: <code class="language-plaintext highlighter-rouge">main</code></p>
+
+<p>This is where all content and code live. Other branches:</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">gh-pages</code> — built site (see below)</li>
+  <li><code class="language-plaintext highlighter-rouge">Translation</code> — feature branch for translation work</li>
+  <li><code class="language-plaintext highlighter-rouge">contents</code> — content-related branch</li>
+</ul>
+
+<h3 id="level-2--_site-is-a-git-worktree-on-gh-pages">Level 2 — <code class="language-plaintext highlighter-rouge">_site/</code> is a git worktree on <code class="language-plaintext highlighter-rouge">gh-pages</code></h3>
+
+<p><code class="language-plaintext highlighter-rouge">_site/</code> is <strong>not</strong> a regular subdirectory. It is a <a href="https://git-scm.com/docs/git-worktree">git worktree</a> pointing at the <code class="language-plaintext highlighter-rouge">gh-pages</code> branch of the same remote. This means:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">_site/</code> has its own <code class="language-plaintext highlighter-rouge">.git</code> file (not <code class="language-plaintext highlighter-rouge">.git/</code> directory — just a pointer)</li>
+  <li>Commits inside <code class="language-plaintext highlighter-rouge">_site/</code> land on <code class="language-plaintext highlighter-rouge">gh-pages</code>, not on <code class="language-plaintext highlighter-rouge">main</code></li>
+  <li><code class="language-plaintext highlighter-rouge">git push</code> from inside <code class="language-plaintext highlighter-rouge">_site/</code> pushes <code class="language-plaintext highlighter-rouge">gh-pages</code> to GitHub Pages</li>
+  <li>The <code class="language-plaintext highlighter-rouge">deploy.sh</code> script manages this lifecycle automatically</li>
+</ul>
+
+<p><strong>Never manually edit files inside <code class="language-plaintext highlighter-rouge">_site/</code></strong> — they are overwritten on every build.</p>
+
+<hr />
+
+<h2 id="jekyll-setup">Jekyll setup</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Setting</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Theme</td>
+      <td><code class="language-plaintext highlighter-rouge">vszhub/not-pure-poole</code> (remote theme)</td>
+    </tr>
+    <tr>
+      <td>Multilingual plugin</td>
+      <td><code class="language-plaintext highlighter-rouge">jekyll-multiple-languages-plugin</code></td>
+    </tr>
+    <tr>
+      <td>Languages</td>
+      <td><code class="language-plaintext highlighter-rouge">fr</code>, <code class="language-plaintext highlighter-rouge">en</code>, <code class="language-plaintext highlighter-rouge">es</code> (French is canonical)</td>
+    </tr>
+    <tr>
+      <td>Pagination</td>
+      <td>5 posts per page</td>
+    </tr>
+    <tr>
+      <td>Markdown</td>
+      <td>kramdown</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="directory-structure">Directory structure</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>arribachocolat/
+├── _config.yml            # Jekyll config (languages, theme, plugins)
+├── _i18n/
+│   ├── fr/
+│   │   ├── _posts/        # 239 French posts (canonical source)
+│   │   ├── about.md
+│   │   ├── cocoa.md
+│   │   └── marques.md
+│   ├── en/                # 231 posts — auto-translated from fr via DeepL
+│   ├── es/                # 231 posts — auto-translated from fr via DeepL
+│   ├── fr.yml             # UI strings in French
+│   ├── en.yml             # UI strings in English
+│   └── es.yml             # UI strings in Spanish
+├── _layouts/
+│   ├── post.html
+│   ├── home.html
+│   ├── page.html
+│   └── archive-taxonomies.html  # powers /grades, /tags, /marques pages
+├── _includes/             # partials (head, sidebar, etc.)
+├── _data/
+│   ├── grades.yml         # GENERATED — do not edit by hand
+│   ├── navigation.yml     # top-nav links
+│   ├── archive.yml
+│   └── social.yml
+├── _sass/                 # custom styles
+├── bin/
+│   ├── translate_posts.rb # DeepL translation of fr posts → en + es
+│   ├── generate_grades.rb # parses post scores → _data/grades.yml
+│   └── README.md
+├── assets/                # images, css, js
+├── _site/                 # git worktree on gh-pages (BUILT OUTPUT)
+├── index.html
+├── grades.md              # /grades archive page
+├── tags.md                # /tags archive page
+├── marques.html           # /marques archive page
+├── about.html
+├── categories.md
+├── dates.md
+├── deploy.sh              # full build + push to gh-pages
+├── Gemfile / Gemfile.lock
+└── mode_emploi.txt        # workflow cheatsheet
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="post-format">Post format</h2>
+
+<p>Posts live in <code class="language-plaintext highlighter-rouge">_i18n/fr/_posts/</code> (French canonical). Filename convention:
+<code class="language-plaintext highlighter-rouge">YYYY-MM-DD-brand-pct-flavour.md</code></p>
+
+<p>Front matter:</p>
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">layout</span><span class="pi">:</span> <span class="s">post</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Brand</span><span class="nv"> </span><span class="s">-</span><span class="nv"> </span><span class="s">XX%</span><span class="nv"> </span><span class="s">Flavour"</span>
+<span class="na">tags</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">Noir</span><span class="pi">,</span> <span class="nv">Gingembre</span><span class="pi">]</span>
+<span class="na">categories</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">Brand Name</span><span class="pi">]</span>
+</code></pre></div></div>
+
+<p>Body: free prose in Markdown. Ends with a structured scoring section:</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gu">### Notes</span>
+<span class="ge">_Unicité_</span>: X
+<span class="ge">_Finesse_</span>: X
+<span class="ge">_Confort_</span>: X
+<span class="ge">_Intensité_</span>: X
+<span class="ge">_Impression générale_</span>: X
+
+<span class="gs">**Note finale**</span>: XX/25
+</code></pre></div></div>
+
+<p>The grade regex in <code class="language-plaintext highlighter-rouge">generate_grades.rb</code> matches all three language variants of the final score label.</p>
+
+<hr />
+
+<h2 id="data-pipeline">Data pipeline</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>fr _posts (239)
+    │
+    ▼
+bin/translate_posts.rb  ──DeepL API──►  en _posts (231) + es _posts (231)
+    │
+    ▼
+bin/generate_grades.rb  ──parses all posts──►  _data/grades.yml
+    │
+    ▼
+bundle exec jekyll build  ──►  _site/ (gh-pages worktree)
+    │
+    ▼
+deploy.sh  ──git push──►  GitHub Pages (www.arribachocolat.ca)
+</code></pre></div></div>
+
+<p><strong>8 French posts do not yet have translations</strong> (239 fr vs 231 en/es).</p>
+
+<hr />
+
+<h2 id="workflow-from-mode_emploitxt">Workflow (from mode_emploi.txt)</h2>
+
+<ol>
+  <li>Write/edit posts in <code class="language-plaintext highlighter-rouge">_i18n/fr/_posts/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">ruby bin/translate_posts.rb</code> — generates/updates en+es translations (needs DeepL key in <code class="language-plaintext highlighter-rouge">.deepl_key</code> or <code class="language-plaintext highlighter-rouge">DEEPL_AUTH_KEY</code> env var)</li>
+  <li><code class="language-plaintext highlighter-rouge">ruby bin/generate_grades.rb</code> — regenerates <code class="language-plaintext highlighter-rouge">_data/grades.yml</code></li>
+  <li><code class="language-plaintext highlighter-rouge">git add --all &amp;&amp; git commit -m 'MESSAGE'</code></li>
+  <li><code class="language-plaintext highlighter-rouge">git push</code> — pushes <code class="language-plaintext highlighter-rouge">main</code> to GitHub</li>
+  <li><code class="language-plaintext highlighter-rouge">bundle exec jekyll build</code> — builds into <code class="language-plaintext highlighter-rouge">_site/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">./deploy.sh 'MESSAGE'</code> — syncs <code class="language-plaintext highlighter-rouge">_site/</code> and pushes <code class="language-plaintext highlighter-rouge">gh-pages</code></li>
+</ol>
+
+<p>Steps 6–7 can be collapsed: <code class="language-plaintext highlighter-rouge">deploy.sh</code> handles the build internally.</p>
+
+<hr />
+
+<h2 id="archive--taxonomy-pages">Archive / taxonomy pages</h2>
+
+<p>Three archive views, all using <code class="language-plaintext highlighter-rouge">_layouts/archive-taxonomies.html</code>:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Page</th>
+      <th>Source</th>
+      <th>URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>By grade</td>
+      <td><code class="language-plaintext highlighter-rouge">_data/grades.yml</code></td>
+      <td><code class="language-plaintext highlighter-rouge">/grades/</code></td>
+    </tr>
+    <tr>
+      <td>By tag/flavour</td>
+      <td>Jekyll tags</td>
+      <td><code class="language-plaintext highlighter-rouge">/tags/</code></td>
+    </tr>
+    <tr>
+      <td>By brand</td>
+      <td>Jekyll categories</td>
+      <td><code class="language-plaintext highlighter-rouge">/marques/</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Grade buckets: <code class="language-plaintext highlighter-rouge">&lt;=20</code>, <code class="language-plaintext highlighter-rouge">21</code>, <code class="language-plaintext highlighter-rouge">21.5</code>, <code class="language-plaintext highlighter-rouge">22</code>, <code class="language-plaintext highlighter-rouge">22.5</code>, <code class="language-plaintext highlighter-rouge">23</code>, <code class="language-plaintext highlighter-rouge">23.5</code>, <code class="language-plaintext highlighter-rouge">24</code>, <code class="language-plaintext highlighter-rouge">24.5</code>, <code class="language-plaintext highlighter-rouge">25</code>.</p>
+
+<hr />
+
+<h2 id="key-constraints">Key constraints</h2>
+
+<ul>
+  <li><strong>Never edit <code class="language-plaintext highlighter-rouge">_site/</code> directly</strong> — it is regenerated on every build.</li>
+  <li><strong><code class="language-plaintext highlighter-rouge">_data/grades.yml</code> is generated</strong> — edit posts, then re-run <code class="language-plaintext highlighter-rouge">generate_grades.rb</code>.</li>
+  <li><strong>French posts are canonical</strong> — en/es are derived; editing them directly will be overwritten by the next translation run unless <code class="language-plaintext highlighter-rouge">--force</code> is avoided.</li>
+  <li><strong>DeepL key required</strong> for translation (stored in <code class="language-plaintext highlighter-rouge">.deepl_key</code>, not tracked by git).</li>
+  <li><strong>Deploy must be from <code class="language-plaintext highlighter-rouge">main</code> with a clean working tree</strong> (enforced by <code class="language-plaintext highlighter-rouge">deploy.sh</code>).</li>
+</ul>
+
+</article>
+
+</main>
+
+<footer class="footer"><small>
+    &copy; 2021&nbsp;-&nbsp;2026 . All rights reserved.
+    Powered by <a href="https://jekyllrb.com/">Jekyll</a> & <a href="https://github.com/vszhub/not-pure-poole">Not Pure Poole</a>.
+  </small>
+</footer>
+</div>
+      <div class="sidebar-right pure-u-1 pure-u-md-1-4">
+</div>
+    </div>
+
+    <script async src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script><script>
+  function strip(str, remove) {
+    while (str.length > 0 && remove.indexOf(str.charAt(0)) != -1) {
+      str = str.substr(1);
+    }
+    while (str.length > 0 && remove.indexOf(str.charAt(str.length - 1)) != -1) {
+      str = str.substr(0, str.length - 1);
+    }
+    return str;
+  }
+
+  function scroll() {
+    console.log('scroll');
+    window.scrollTo({
+      left: 0, 
+      top: window.innerHeight,
+      behavior: 'smooth'
+    });
+    sessionStorage.removeItem('forceCheckScroll');
+  }
+
+  const forceCheckScroll = sessionStorage.getItem('forceCheckScroll') === 'true';
+  const checkScroll = strip(window.location.pathname, '/') !== strip('/en', '/');
+
+  if (forceCheckScroll || checkScroll) {
+    const maxWidth = "(max-width: 48rem)";
+    const result = window.matchMedia(maxWidth);
+    if (result.matches) {
+      scroll();
+    } else {
+      result.addListener((match) => {
+        if (match.media == maxWidth) {
+          if (match.matches) {
+            scroll();
+          }
+        }
+      });
+    }
+  }
+</script>
+</body>
+</html>

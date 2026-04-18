@@ -3,10 +3,23 @@ Sur branche main
 # (Optional) Translate latest French posts to English + Spanish using DeepL.
 # You can store the key in a file named `.deepl_key` at repo root (not tracked by git).
 # Or set DEEPL_AUTH_KEY in your environment.
-# Example: DEEPL_AUTH_KEY=xxx ruby bin/translate_posts.rb
-# Dry-run: ruby bin/translate_posts.rb --dry-run
+#
+# First time only — create the venv (once per machine):
+#   python3 -m venv ../venv
+#   ../venv/bin/pip install -r requirements.txt
+#
+# Each time — activate the venv, then run:
+#   source ../venv/bin/activate
+#   python3 bin/translate_posts.py               # translate new posts
+#   python3 bin/translate_posts.py --dry-run     # preview without calling DeepL
+#   python3 bin/translate_posts.py FILE.md       # retranslate a specific post
+#   deactivate
+#
+# Reviewing translations (new posts are flagged needs_review: true automatically):
+#   python3 bin/translation_status.py            # list posts pending review
+#   python3 bin/translation_status.py --mark FILE.md  # mark a post as reviewed (en + es)
 
-1. ruby bin/translate_posts.rb  # génère/_met à jour _i18n/en/_posts et _i18n/es/_posts
+1. source ../venv/bin/activate && python3 bin/translate_posts.py  # génère/_met à jour _i18n/en/_posts et _i18n/es/_posts
 2. ruby bin/generate_grades.rb  # regenère _data/grades.yml
 3. git add --all
 4. git commit -a -m 'MESSAGE'
