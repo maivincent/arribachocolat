@@ -20,9 +20,4 @@ Sur branche main
 #   python3 bin/translation_status.py --mark FILE.md  # mark a post as reviewed (en + es)
 
 1. source ../venv/bin/activate && python3 bin/translate_posts.py  # génère/_met à jour _i18n/en/_posts et _i18n/es/_posts
-2. ruby bin/generate_grades.rb  # regenère _data/grades.yml
-3. git add --all
-4. git commit -a -m 'MESSAGE'
-5. git push
-6. bundle exec jekyll build
-7. ./deploy.sh 'MESSAGE'
+2. ./publish.sh 'MESSAGE'  # grades + commit + push main + build + deploy gh-pages
