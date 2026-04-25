@@ -15,5 +15,14 @@ titles:
   brands: Buscar por marca
   older: Más antiguo
   newer: Más reciente
+brand:
+  reviews: tabletas probadas
+  back: Todas las marcas
+  tiers:
+    exceptionnel: Excepcional
+    excellent: Excelente
+    bon: Bueno
+    moyen: Regular
+    unrated: Sin nota
 text:
   description: "El reto de una vida: probar todas las tabletas de chocolate elaboradas con los mejores granos de cacao que existen, el cacao fino de aroma de Ecuador"

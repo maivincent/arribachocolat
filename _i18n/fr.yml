@@ -19,6 +19,15 @@ titles:
   brands: Chercher par marque
   older: Plus ancien
   newer: Plus récent
+brand:
+  reviews: tablettes dégustées
+  back: Toutes les marques
+  tiers:
+    exceptionnel: Exceptionnel
+    excellent: Excellent
+    bon: Bon
+    moyen: Moyen
+    unrated: Non notées
 text:
   description: "Le défi d'une vie: goûter à toutes les barres de chocolat faites à partir des meilleures fèves de cacao qui soient, le cacao fino d'aroma d'Équateur."
 

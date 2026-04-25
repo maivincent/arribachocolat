@@ -14,6 +14,7 @@ repo_root=$(git rev-parse --show-toplevel)
 cd "$repo_root"
 
 ruby bin/generate_grades.rb
+ruby bin/generate_brand_pages.rb
 git add --all
 git commit -m "$commit_message"
 git push

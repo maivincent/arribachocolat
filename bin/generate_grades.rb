@@ -8,6 +8,7 @@ require 'set'
 score_re = /(?:final evaluation|evaluaci[oó]n final|evaluaci[oó]n|evaluación final|note finale|évaluation finale|evaluation finale)\s*[:\s]*\s*([0-9]+(?:\.[0-9]+)?)\s*\/\s*25/i
 
 grades = {}
+post_grades = {}
 grades['<=20'] = []
 (20..24).each do |i|
   grades[i.to_s] = []
@@ -69,8 +70,9 @@ post_dirs.each do |dir|
     # Skip if we've already seen this URL (from another language version)
     next if seen_urls.include?(url)
     seen_urls.add(url)
-    
+
     grades[label] << { 'title' => title, 'date' => date, 'url' => url }
+    post_grades[url] = score
   end
 end
 
@@ -82,5 +84,11 @@ File.open('_data/grades.yml', 'w') do |f|
   f.write(grades.to_yaml)
 end
 
+# Write post_grades.yml (URL → numeric score, used by brand pages for tier grouping)
+File.open('_data/post_grades.yml', 'w') do |f|
+  f.write(post_grades.to_yaml)
+end
+
 total = grades.values.map(&:size).reduce(0, :+)
 puts "Generated grades.yml with #{total} posts across #{grades.keys.size} buckets"
+puts "Generated post_grades.yml with #{post_grades.size} entries"

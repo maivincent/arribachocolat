@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+{% include home-header.html %}
+
+<a class="brand-back-link" href="{{ '/brands/' | relative_url }}">&#8592; {% t brand.back %}</a>
+
+<h1 class="brand-title">{{ page.brand_name }}</h1>
+
+{% assign all_posts = site.categories[page.brand_name] %}
+{% assign brand_posts = "" | split: "" %}
+{% for post in all_posts %}
+  {% unless post.url contains '/en/' or post.url contains '/es/' %}
+    {% assign brand_posts = brand_posts | push: post %}
+  {% endunless %}
+{% endfor %}
+
+<p class="brand-count">{{ brand_posts.size }} {% t brand.reviews %}</p>
+
+{% assign post_grades = site.data.post_grades %}
+
+{% assign tiers = "exceptionnel,excellent,bon,moyen,unrated" | split: "," %}
+
+{% for tier in tiers %}
+  {% assign tier_posts = "" | split: "" %}
+  {% for post in brand_posts %}
+    {% assign score = post_grades[post.url] | plus: 0 %}
+    {% if tier == "exceptionnel" %}
+      {% if score >= 24 %}{% assign tier_posts = tier_posts | push: post %}{% endif %}
+    {% elsif tier == "excellent" %}
+      {% if score >= 22 and score < 24 %}{% assign tier_posts = tier_posts | push: post %}{% endif %}
+    {% elsif tier == "bon" %}
+      {% if score >= 20 and score < 22 %}{% assign tier_posts = tier_posts | push: post %}{% endif %}
+    {% elsif tier == "moyen" %}
+      {% if score > 0 and score < 20 %}{% assign tier_posts = tier_posts | push: post %}{% endif %}
+    {% elsif tier == "unrated" %}
+      {% unless post_grades[post.url] %}{% assign tier_posts = tier_posts | push: post %}{% endunless %}
+    {% endif %}
+  {% endfor %}
+
+  {% if tier_posts.size > 0 %}
+    <h2 class="brand-tier-heading brand-tier-{{ tier }}">{% t brand.tiers.{{ tier }} %}</h2>
+    <ul class="brand-post-list">
+      {% for post in tier_posts %}
+        <li class="brand-post-item">
+          <a class="brand-post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <div class="brand-post-meta">
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+            {% for tag in post.tags %}
+              <span class="brand-tag">{{ tag }}</span>
+            {% endfor %}
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %}

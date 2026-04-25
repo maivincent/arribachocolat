@@ -14,5 +14,14 @@ titles:
   brands: Find per brand
   older: Older
   newer: Newer
+brand:
+  reviews: bars reviewed
+  back: All brands
+  tiers:
+    exceptionnel: Exceptional
+    excellent: Excellent
+    bon: Good
+    moyen: Fair
+    unrated: Unrated
 text:
-  description: "A life challenge: taste all the chocolate bars made from the best cocoa beans in the world, Ecuador's fino d'aroma"  
+  description: "A life challenge: taste all the chocolate bars made from the best cocoa beans in the world, Ecuador's fino d'aroma"
