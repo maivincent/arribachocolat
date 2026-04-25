@@ -2,7 +2,7 @@
 layout: post
 title:  "RaqEri - Salami de chocolate clasico - 75% cacao"
 tags: [Salami, Macadam, Cranberry, Almonds, Sunflower] 
-categories: [Raqeri]
+categories: [RaqEri]
 
 ---
 
