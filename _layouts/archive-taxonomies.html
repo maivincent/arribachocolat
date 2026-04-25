@@ -40,8 +40,9 @@ layout: default
 
 {%- elsif page.type == 'tags' -%}
 
-  {% comment %} Tags index: type tags (Noir/Lait/Blanc) first, then all other tags sorted by count {% endcomment %}
-  {%- assign type_tag_names = "Noir,Lait,Blanc" | split: "," -%}
+  {% comment %} Tags index: type tags first, then all other tags sorted by count {% endcomment %}
+  {%- capture type_tags_str -%}{% t tags.type_tags %}{%- endcapture -%}
+  {%- assign type_tag_names = type_tags_str | split: "," -%}
 
   <h2 class="tags-section-heading">{% t tags.section_types %}</h2>
   <div class="taxonomies-wrapper">
