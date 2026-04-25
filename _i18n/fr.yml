@@ -19,6 +19,9 @@ titles:
   brands: Chercher par marque
   older: Plus ancien
   newer: Plus récent
+tags:
+  section_types: Types de chocolat
+  section_flavors: Saveurs et inclusions
 brand:
   reviews: tablettes dégustées
   back: Toutes les marques

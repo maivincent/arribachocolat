@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+{% include home-header.html %}
+
+<a class="brand-back-link" href="{{ '/tags/' | relative_url }}">&#8592; {% t titles.tags %}</a>
+
+<h1 class="brand-title">{{ page.tag_name }}</h1>
+
+{% assign all_posts = site.tags[page.tag_name] %}
+{% assign tag_posts = "" | split: "" %}
+{% for post in all_posts %}
+  {% unless post.url contains '/en/' or post.url contains '/es/' %}
+    {% assign tag_posts = tag_posts | push: post %}
+  {% endunless %}
+{% endfor %}
+
+<p class="brand-count">{{ tag_posts.size }} {% t brand.reviews %}</p>
+
+{% assign post_grades = site.data.post_grades %}
+
+{% assign tiers = "exceptionnel,excellent,bon,moyen,unrated" | split: "," %}
+
+{% for tier in tiers %}
+  {% assign tier_posts = "" | split: "" %}
+  {% for post in tag_posts %}
+    {% assign score = post_grades[post.url] | plus: 0 %}
+    {% if tier == "exceptionnel" %}
+      {% if score >= 24 %}{% assign tier_posts = tier_posts | push: post %}{% endif %}
+    {% elsif tier == "excellent" %}
+      {% if score >= 22 and score < 24 %}{% assign tier_posts = tier_posts | push: post %}{% endif %}
+    {% elsif tier == "bon" %}
+      {% if score >= 20 and score < 22 %}{% assign tier_posts = tier_posts | push: post %}{% endif %}
+    {% elsif tier == "moyen" %}
+      {% if score > 0 and score < 20 %}{% assign tier_posts = tier_posts | push: post %}{% endif %}
+    {% elsif tier == "unrated" %}
+      {% unless post_grades[post.url] %}{% assign tier_posts = tier_posts | push: post %}{% endunless %}
+    {% endif %}
+  {% endfor %}
+
+  {% if tier_posts.size > 0 %}
+    <h2 class="brand-tier-heading brand-tier-{{ tier }}">{% t brand.tiers.{{ tier }} %}</h2>
+    <ul class="brand-post-list">
+      {% for post in tier_posts %}
+        <li class="brand-post-item">
+          <a class="brand-post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <div class="brand-post-meta">
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+            {% for tag in post.tags %}
+              {% assign tag_lower = tag | downcase %}
+              {% if tag_lower == "noir" or tag_lower == "dark" or tag_lower == "oscuro" %}
+                {% assign tag_class = "brand-tag--noir" %}
+              {% elsif tag_lower == "lait" or tag_lower == "au lait" or tag_lower == "milk" or tag_lower == "leche" %}
+                {% assign tag_class = "brand-tag--lait" %}
+              {% elsif tag_lower == "blanc" or tag_lower == "white" or tag_lower == "blanco" %}
+                {% assign tag_class = "brand-tag--blanc" %}
+              {% elsif tag_lower == "pur" or tag_lower == "pure" or tag_lower == "puro" %}
+                {% assign tag_class = "brand-tag--pur" %}
+              {% else %}
+                {% assign tag_class = "" %}
+              {% endif %}
+              <span class="brand-tag {{ tag_class }}">{{ tag }}</span>
+            {% endfor %}
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %}

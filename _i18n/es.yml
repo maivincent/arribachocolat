@@ -15,6 +15,9 @@ titles:
   brands: Buscar por marca
   older: Más antiguo
   newer: Más reciente
+tags:
+  section_types: Tipos de chocolate
+  section_flavors: Sabores e inclusiones
 brand:
   reviews: tabletas probadas
   back: Todas las marcas

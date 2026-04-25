@@ -17,8 +17,9 @@ layout: default
   {%- assign taxonomies = none -%}
 {%- endif -%}
 
-{% comment %} Render taxonomies. For grades we show fixed buckets 25→<=20 in that order. {% endcomment %}
+{% comment %} Render taxonomies. {% endcomment %}
 {%- if page.type == 'grades' -%}
+
   {%- assign labels = "25,24.5,24,23.5,23,22.5,22,21.5,21,20.5,20,<=20" | split: "," -%}
   <div class="taxonomies-wrapper">
     <ul class="taxonomies">
@@ -36,14 +37,66 @@ layout: default
       {%- endfor -%}
     </ul>
   </div>
-{%- else -%}
-  {% comment %} Calculate the max count of taxonomies {% endcomment %}
+
+{%- elsif page.type == 'tags' -%}
+
+  {% comment %} Tags index: type tags (Noir/Lait/Blanc) first, then all other tags sorted by count {% endcomment %}
+  {%- assign type_tag_names = "Noir,Lait,Blanc" | split: "," -%}
+
+  <h2 class="tags-section-heading">{% t tags.section_types %}</h2>
+  <div class="taxonomies-wrapper">
+    <ul class="taxonomies">
+      {%- for type_tag in type_tag_names -%}
+        {%- assign tag_posts = site.tags[type_tag] -%}
+        {%- if tag_posts and tag_posts.size > 0 -%}
+          {%- assign slug = type_tag | slugify: 'latin' -%}
+          <li>
+            <a class="taxonomy" href="{{ '/tags/' | append: slug | append: '/' | relative_url }}">
+              <span>{{ type_tag }}</span>
+              <span class="taxonomy-count">{{ tag_posts.size }}</span>
+            </a>
+          </li>
+        {%- endif -%}
+      {%- endfor -%}
+    </ul>
+  </div>
+
   {%- assign max_count = 0 -%}
   {%- for taxonomy in taxonomies -%}
     {%- assign posts = taxonomy[1] -%}
-    {%- if posts.size > max_count -%}
-      {%- assign max_count = posts.size -%}
-    {%- endif -%}
+    {%- if posts.size > max_count -%}{%- assign max_count = posts.size -%}{%- endif -%}
+  {%- endfor -%}
+
+  <h2 class="tags-section-heading">{% t tags.section_flavors %}</h2>
+  <div class="taxonomies-wrapper">
+    <ul class="taxonomies">
+      {%- for i in (1..max_count) reversed -%}
+        {%- for taxonomy in taxonomies -%}
+          {%- assign taxonomy_name = taxonomy[0] -%}
+          {%- unless type_tag_names contains taxonomy_name -%}
+            {%- assign posts = taxonomy[1] -%}
+            {%- if posts.size == i -%}
+              {%- assign slug = taxonomy_name | slugify: 'latin' -%}
+              <li>
+                <a class="taxonomy" href="{{ '/tags/' | append: slug | append: '/' | relative_url }}">
+                  <span>{{ taxonomy_name }}</span>
+                  <span class="taxonomy-count">{{ posts.size }}</span>
+                </a>
+              </li>
+            {%- endif -%}
+          {%- endunless -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    </ul>
+  </div>
+
+{%- else -%}
+
+  {% comment %} Brands index: sorted by post count {% endcomment %}
+  {%- assign max_count = 0 -%}
+  {%- for taxonomy in taxonomies -%}
+    {%- assign posts = taxonomy[1] -%}
+    {%- if posts.size > max_count -%}{%- assign max_count = posts.size -%}{%- endif -%}
   {%- endfor -%}
 
   <div class="taxonomies-wrapper">
@@ -55,19 +108,8 @@ layout: default
           {%- assign posts = taxonomy[1] -%}
           {%- if posts.size == i -%}
             <li>
-              {%- if page.type == 'categories' -%}
-                {%- capture link -%}/brands/{{ slugified_taxonomy_name }}/{%- endcapture -%}
-              {%- else -%}
-                {%- capture link -%}{{ page.permalink }}#{{ slugified_taxonomy_name }}{%- endcapture -%}
-              {%- endif -%}
-              <a class="taxonomy" href="{{ link | relative_url }}">
-                <span>
-                  {%- if page.type == 'tags' -%}
-                    {{ slugified_taxonomy_name }}
-                  {%- else -%}
-                    {{ taxonomy_name }}
-                  {%- endif -%}
-                </span>
+              <a class="taxonomy" href="{{ '/brands/' | append: slugified_taxonomy_name | append: '/' | relative_url }}">
+                <span>{{ taxonomy_name }}</span>
                 <span class="taxonomy-count">{{ posts.size }}</span>
               </a>
             </li>
@@ -76,9 +118,10 @@ layout: default
       {%- endfor -%}
     </ul>
   </div>
+
 {%- endif -%}
 
-{% comment %} Show posts by taxonomy — only for tags and grades, not categories (brands have their own pages) {% endcomment %}
+{% comment %} Expanded post list — grades only (brands and tags have their own pages) {% endcomment %}
 {%- if page.type == 'grades' -%}
   {%- assign labels = "25,24.5,24,23.5,23,22.5,22,21.5,21,20.5,20,<=20" | split: "," -%}
   {%- for label in labels -%}
@@ -97,25 +140,6 @@ layout: default
       </ul>
       <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
     {%- endif -%}
-  {%- endfor -%}
-{%- elsif page.type == 'tags' -%}
-  {%- for i in (1..max_count) reversed -%}
-    {%- for taxonomy in taxonomies -%}
-      {%- assign taxonomy_name = taxonomy[0] -%}
-      {%- assign slugified_taxonomy_name = taxonomy_name | slugify -%}
-      {%- assign posts = taxonomy[1] -%}
-      {%- if posts.size == i -%}
-        <h2 id="{{ slugified_taxonomy_name }}">{{ slugified_taxonomy_name }}</h2>
-        <ul class="post-list-by-taxonomy">
-          {%- for post in posts -%}
-            <li>
-              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time> &raquo; <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-            </li>
-          {%- endfor -%}
-        </ul>
-        <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
-      {%- endif -%}
-    {%- endfor -%}
   {%- endfor -%}
 {%- endif -%}
 
