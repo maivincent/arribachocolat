@@ -59,10 +59,14 @@ post_dirs.each do |dir|
     # Format: YYYY-MM-DD-slug.md => /category/YYYY/MM/DD/slug.html
     basename = File.basename(file, '.md')
     category = (data&.[]('categories')&.first || 'post').downcase
-    
+    # Encode to match Jekyll's URL generation: spaces → %20, non-ASCII → %XX
+    encoded_category = category
+      .gsub(' ', '%20')
+      .gsub(/[^\x00-\x7F]/) { |c| c.bytes.map { |b| '%' + b.to_s(16).upcase }.join }
+
     if basename =~ /^(\d{4})-(\d{2})-(\d{2})-(.+)$/
       year, month, day, slug = $1, $2, $3, $4
-      url = "/#{category}/#{year}/#{month}/#{day}/#{slug}.html"
+      url = "/#{encoded_category}/#{year}/#{month}/#{day}/#{slug}.html"
     else
       url = "/#{basename}/"
     end
