@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Franchy - 70% Pure
-tags: [Dark, Cocoa]
+tags: [Dark, Milk]
 categories: [Franchy]
 ---
 

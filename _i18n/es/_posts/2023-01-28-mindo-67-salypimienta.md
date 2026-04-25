@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mindo Chocolate - 67% Sal y Pimienta"
-tags: [Noir, Sal, Pimienta] 
+tags: [Negro, Sal, Pimienta]
 categories: [Mindo Chocolate Makers]
 ---
 
