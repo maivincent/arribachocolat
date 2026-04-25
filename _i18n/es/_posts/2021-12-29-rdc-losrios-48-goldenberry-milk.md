@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Republica del Cacao - Single Origin Los Rios – 48% Fine Cacao - Golden Berry & Dark Milk Chocolate"
-tags: [Negro, Uvilla] 
+tags: [Leche, Uvilla]
 categories: [Republica del Cacao]
 
 ---
