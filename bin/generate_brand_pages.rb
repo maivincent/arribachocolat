@@ -9,8 +9,7 @@ def slugify(name)
   name
     .unicode_normalize(:nfd).gsub(/\p{Mn}/, '')  # strip combining diacritics
     .downcase
-    .gsub(/[''']/, '')                             # strip apostrophes
-    .gsub(/[^a-z0-9]+/, '-')
+    .gsub(/[^a-z0-9]+/, '-')                      # non-alphanumeric → hyphen (matches Jekyll/Liquid slugify)
     .gsub(/^-|-$/, '')
 end
 
