@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RaqEri - Salami de chocolate clasico - 75% cacao"
-tags: [Salami, Macadam, Arandano Rojo, Almendra, Girasol] 
+tags: [Salami, Macadamia, Arandano Rojo, Almendra, Girasol] 
 categories: [RaqEri]
 
 ---

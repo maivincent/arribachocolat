@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Belly's Cocoa - Chocolate 62% Cacao - Sabor Café
-tags: [Dark, Café]
+tags: [Dark, Coffee]
 categories: [Belly's]
 ---
 

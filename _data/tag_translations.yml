@@ -1,0 +1,261 @@
+---
+amande:
+  fr: Amande
+  en: Almond
+  es: Almendra
+ananas:
+  fr: Ananas
+  en: Pineapple
+  es: Piña
+arachide:
+  fr: Arachide
+  en: Peanut
+  es: Cacahuete
+avocat:
+  fr: Avocat
+  en: Avocado
+  es: Aguacate
+banane:
+  fr: Banane
+  en: Banana
+  es: Plátano
+blanc:
+  fr: Blanc
+  en: White
+  es: Blanco
+bois-d-inde:
+  fr: Bois d'Inde
+  en: Bois d'Inde
+  es: Bois d'Inde
+cacao:
+  fr: Cacao
+  en: Cocoa
+  es: Cacao
+cafe:
+  fr: Café
+  en: Coffee
+  es: Café
+calamondin:
+  fr: Calamondin
+  en: Calamondin
+  es: Calamondin
+canneberge:
+  fr: Canneberge
+  en: Cranberry
+  es: Arandano Rojo
+cardamome:
+  fr: Cardamome
+  en: Cardamom
+  es: Cardamomo
+cerise:
+  fr: Cerise
+  en: Cherry
+  es: Cereza
+chanvre:
+  fr: Chanvre
+  en: Hemp
+  es: Cáñamo
+chocho:
+  fr: Chocho
+  en: Chocho
+  es: Chocho
+citron:
+  fr: Citron
+  en: Lemon
+  es: Limón
+citron-mandarine:
+  fr: Citron-Mandarine
+  en: Lemon-Mandarin
+  es: Limón Mandarina
+curcuma:
+  fr: Curcuma
+  en: Turmeric
+  es: Cúrcuma
+figues:
+  fr: Figues
+  en: Fig
+  es: Higos
+fraise:
+  fr: Fraise
+  en: Strawberry
+  es: Fresa
+framboise:
+  fr: Framboise
+  en: Raspberry
+  es: Frambuesa
+genievre:
+  fr: Genièvre
+  en: Juniper
+  es: Enebro
+gingembre:
+  fr: Gingembre
+  en: Ginger
+  es: Jengibre
+goldenberry:
+  fr: Goldenberry
+  en: Goldenberry
+  es: Uvilla
+graines-de-cacao:
+  fr: Graines de cacao
+  en: Cocoa nibs
+  es: Pepas de cacao
+guadeloupe:
+  fr: Guadeloupe
+  en: Guadeloupe
+  es: Guadalupe
+guadivuca:
+  fr: Guadivuca
+  en: Guaviduca
+  es: Guaviduca
+guayabilla:
+  fr: Guayabilla
+  en: Guayabilla
+  es: Guayabilla
+guayusa:
+  fr: Guayusa
+  en: Guayusa
+  es: Guayusa
+hierbaluisa:
+  fr: Hierbaluisa
+  en: Lemongrass
+  es: Hierbaluisa
+hors-serie:
+  fr: Hors-série
+  en: Special issue
+  es: Especial
+huile-d-olive:
+  fr: Huile d'olive
+  en: Olive Oil
+  es: Aceite de oliva
+jicama:
+  fr: Jicama
+  en: Jicama
+  es: Jicama
+lait:
+  fr: Lait
+  en: Milk
+  es: Leche
+macadamia:
+  fr: Macadamia
+  en: Macadamia
+  es: Macadamia
+macambo:
+  fr: Macambo
+  en: Macambo
+  es: Macambo
+mandarine:
+  fr: Mandarine
+  en: Mandarin
+  es: Mandarina
+mangue:
+  fr: Mangue
+  en: Mango
+  es: Mango
+maracuya:
+  fr: Maracuya
+  en: Maracuya
+  es: Maracuya
+menthe:
+  fr: Menthe
+  en: Mint
+  es: Menta
+mexique:
+  fr: Mexique
+  en: Mexico
+  es: México
+noir:
+  fr: Noir
+  en: Dark
+  es: Negro
+olives:
+  fr: Olives
+  en: Olives
+  es: Aceitunas
+orange:
+  fr: Orange
+  en: Orange
+  es: Naranja
+panela:
+  fr: Panela
+  en: Panela
+  es: Panela
+paprika:
+  fr: Paprika
+  en: Paprika
+  es: Paprika
+paprika-fume:
+  fr: Paprika fumé
+  en: Smoked Paprika
+  es: Pimentón
+piment:
+  fr: Piment
+  en: Chili
+  es: Aji
+pin:
+  fr: Pin
+  en: Pine
+  es: Pino
+pistache:
+  fr: Pistache
+  en: Pistachio
+  es: Pistacho
+poivre:
+  fr: Poivre
+  en: Pepper
+  es: Pimienta
+pulpe-de-cacao:
+  fr: Pulpe de cacao
+  en: Cocoa Pulp
+  es: Pulpa de cacao
+pur:
+  fr: Pur
+  en: Pure
+  es: Puro
+quinoa:
+  fr: Quinoa
+  en: Quinoa
+  es: Quinoa
+rica-rica:
+  fr: Rica Rica
+  en: Rica Rica
+  es: Rica Rica
+rose:
+  fr: Rose
+  en: Rose
+  es: Rosa
+salami:
+  fr: Salami
+  en: Salami
+  es: Salami
+sel:
+  fr: Sel
+  en: Salt
+  es: Sal
+sucre-de-coco:
+  fr: Sucre de coco
+  en: Coconut sugar
+  es: Azucar de coco
+tabac:
+  fr: Tabac
+  en: Tobacco
+  es: Tabaco
+the:
+  fr: Thé
+  en: Tea
+  es: Te
+tournesol:
+  fr: Tournesol
+  en: Sunflower
+  es: Girasol
+truffe:
+  fr: Truffe
+  en: Truffle
+  es: Trufa
+vanille:
+  fr: Vanille
+  en: Vanilla
+  es: Vainilla
+yuca:
+  fr: Yuca
+  en: Yuca
+  es: Yuca

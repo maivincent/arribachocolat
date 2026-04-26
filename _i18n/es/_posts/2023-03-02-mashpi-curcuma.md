@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mashpi - Chocolate ecicion especial - Curcuma"
-tags: [Negro, Curcuma] 
+tags: [Negro, Cúrcuma] 
 categories: [Mashpi]
 ---
 

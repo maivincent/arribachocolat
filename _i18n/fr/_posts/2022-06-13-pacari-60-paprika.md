@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pacari - Pimenton de la vera - 60% Cacao"
-tags: [Noir, Paprika] 
+tags: [Noir, Paprika fumé] 
 categories: [Pacari]
 
 ---

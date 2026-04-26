@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minka - 43% Dark Milk - Communidad Shiwa Urku
-tags: [Dark, Milk]
+tags: [Milk, Pure]
 categories: [Minka]
 ---
 

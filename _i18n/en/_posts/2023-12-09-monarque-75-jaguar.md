@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monarque - Ecuador Jaguar - 75% Cacao
-tags: [Dark, Mocambo]
+tags: [Dark, Macambo]
 categories: [Monarque]
 ---
 

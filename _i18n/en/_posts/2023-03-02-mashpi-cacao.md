@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mashpi - Chocolate organico con nibs de cacao - 70%
-tags: [Dark, Cocoa Nibs]
+tags: [Dark, Cocoa]
 categories: [Mashpi]
 ---
 

@@ -6,13 +6,21 @@ layout: default
 
 <a class="brand-back-link" href="{{ '/tags/' | relative_url }}">&#8592; {% t titles.tags %}</a>
 
-<h1 class="brand-title">{{ page.tag_name }}</h1>
+{% assign fr_slug = page.tag_name | slugify: 'latin' %}
+{% assign tag_display_name = site.data.tag_translations[fr_slug][site.lang] | default: page.tag_name %}
+<h1 class="brand-title">{{ tag_display_name }}</h1>
 
-{% assign all_posts = site.tags[page.tag_name] %}
+{% assign page_tag_fr_slug = page.tag_name | slugify: 'latin' %}
 {% assign tag_posts = "" | split: "" %}
-{% for post in all_posts %}
+{% for post in site.posts %}
   {% unless post.url contains '/en/' or post.url contains '/es/' %}
-    {% assign tag_posts = tag_posts | push: post %}
+    {% for post_tag in post.tags %}
+      {% assign post_tag_fr_slug = site.data.tag_fr_slugs[post_tag] %}
+      {% if post_tag_fr_slug == page_tag_fr_slug %}
+        {% assign tag_posts = tag_posts | push: post %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
   {% endunless %}
 {% endfor %}
 

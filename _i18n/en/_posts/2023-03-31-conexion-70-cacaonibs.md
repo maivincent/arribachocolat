@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conexion - Chocolate & Cacao Nibs - 70% Fine Cacao
-tags: [Dark, Cocoa Nibs]
+tags: [Dark, Cocoa]
 categories: [Conexion]
 ---
 

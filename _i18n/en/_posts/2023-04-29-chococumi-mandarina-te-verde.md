@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ChocoCumi - Mandarina y Te Verde - 60% Cacao
-tags: [Dark, Tangerine, Tea]
+tags: [Dark, Mandarin, Tea]
 categories: [ChocoCumi]
 ---
 

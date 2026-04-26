@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Republica del Cacao - Single Origin 75% Fine Cacao - Dark Chocolate with Lemongrass
-tags: [Dark, Hierbaluisa]
+tags: [Dark, Lemongrass]
 categories: [Republica del Cacao]
 ---
 

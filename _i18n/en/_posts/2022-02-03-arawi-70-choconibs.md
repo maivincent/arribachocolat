@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arawi - 70% Choco + Nibs
-tags: [Dark, Cocoa nibs]
+tags: [Dark, Cocoa]
 categories: [Arawi]
 ---
 

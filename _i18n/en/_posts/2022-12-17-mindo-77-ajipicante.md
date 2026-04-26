@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mindo Chocolate - 77% Aji picante
-tags: [Dark, Hot pepper]
+tags: [Dark, Chili]
 categories: [Mindo Chocolate Makers]
 ---
 

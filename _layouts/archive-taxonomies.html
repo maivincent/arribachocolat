@@ -50,9 +50,9 @@ layout: default
       {%- for type_tag in type_tag_names -%}
         {%- assign tag_posts = site.tags[type_tag] -%}
         {%- if tag_posts and tag_posts.size > 0 -%}
-          {%- assign slug = type_tag | slugify: 'latin' -%}
+          {%- assign fr_slug = site.data.tag_fr_slugs[type_tag] | default: type_tag | slugify: 'latin' -%}
           <li>
-            <a class="taxonomy" href="{{ '/tags/' | append: slug | append: '/' | relative_url }}">
+            <a class="taxonomy" href="{{ '/tags/' | append: fr_slug | append: '/' | relative_url }}">
               <span>{{ type_tag }}</span>
               <span class="taxonomy-count">{{ tag_posts.size }}</span>
             </a>
@@ -77,9 +77,9 @@ layout: default
           {%- unless type_tag_names contains taxonomy_name -%}
             {%- assign posts = taxonomy[1] -%}
             {%- if posts.size == i -%}
-              {%- assign slug = taxonomy_name | slugify: 'latin' -%}
+              {%- assign fr_slug = site.data.tag_fr_slugs[taxonomy_name] | default: taxonomy_name | slugify: 'latin' -%}
               <li>
-                <a class="taxonomy" href="{{ '/tags/' | append: slug | append: '/' | relative_url }}">
+                <a class="taxonomy" href="{{ '/tags/' | append: fr_slug | append: '/' | relative_url }}">
                   <span>{{ taxonomy_name }}</span>
                   <span class="taxonomy-count">{{ posts.size }}</span>
                 </a>

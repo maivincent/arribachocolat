@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pacari Raw - 90% Pure
-tags: [Dark, Raw]
+tags: [Dark, Pure]
 categories: [Pacari]
 ---
 

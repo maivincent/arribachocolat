@@ -21,10 +21,10 @@
   url: "/pacari/2021/12/29/pacari-60-yuca.html"
 - title: Republica del Cacao - White Chocolate and Fine Cacao Nibs
   date: ''
-  url: "/republica del cacao/2021/12/29/rdc-blanc-cacao.html"
+  url: "/republica%20del%20cacao/2021/12/29/rdc-blanc-cacao.html"
 - title: Republica del Cacao - Single Origin – 40% Fine Cacao - Milk chocolate
   date: ''
-  url: "/republica del cacao/2021/12/29/rdc-ecuador-40-lait.html"
+  url: "/republica%20del%20cacao/2021/12/29/rdc-ecuador-40-lait.html"
 - title: Yumbos - Napo – Amazonia 60% Puro
   date: ''
   url: "/yumbos/2021/12/29/yumbos-napo-amazonia-60-puro.html"
@@ -51,7 +51,7 @@
   url: "/galletti/2022/07/12/galleti-sweed-hempseeds.html"
 - title: Por ti - Ecuador Dark Arriba Chocolate Bar - 70% Cacao
   date: ''
-  url: "/por ti/2022/08/09/porti-70-puro.html"
+  url: "/por%20ti/2022/08/09/porti-70-puro.html"
 - title: Ethiquable - Equateur - Cacao variété nacional 80%
   date: ''
   url: "/ethiquable/2022/08/25/ethiquable-80-puro.html"
@@ -60,7 +60,7 @@
   url: "/cleo's/2022/09/07/Cleos-55.html"
 - title: El Rincon Amazonico
   date: ''
-  url: "/el rincon amazonico/2022/12/21/rinconamazonico.html"
+  url: "/el%20rincon%20amazonico/2022/12/21/rinconamazonico.html"
 - title: Witoca - 70%
   date: ''
   url: "/witoca/2023/01/21/witoca-70-puro.html"
@@ -110,7 +110,7 @@
   url: "/pacari/2021/12/29/pacari-60-cranberry.html"
 - title: Republica del Cacao - Single Origin Provincia Los Rios - 52% Dark Milk chocolate
   date: ''
-  url: "/republica del cacao/2021/12/29/rdc-losrios-52-lait.html"
+  url: "/republica%20del%20cacao/2021/12/29/rdc-losrios-52-lait.html"
 - title: Valdivian - Chocolate negro - Manabi 72%
   date: ''
   url: "/valdivian/2022/03/11/valdivian-72-manabi-puro.html"
@@ -134,10 +134,10 @@
   url: "/kamm/2024/09/24/kamm-85-hempseeds.html"
 - title: Mi Luz - 71 Dark Chocolate
   date: ''
-  url: "/mi luz/2024/11/01/miluz_71_puro.html"
+  url: "/mi%20luz/2024/11/01/miluz_71_puro.html"
 - title: Golden Bean Co - Chocolate 68% - Fino Chocolate Negro
   date: ''
-  url: "/golden bean/2024/12/01/goldenbean_68_puro.html"
+  url: "/golden%20bean/2024/12/01/goldenbean_68_puro.html"
 - title: Franchy - Dark Chocolate - 70% Cacao Fino de Aroma
   date: ''
   url: "/franchy/2025/05/18/franchy-70-puro.html"
@@ -159,7 +159,7 @@
   url: "/minka/2023/06/18/minka-raw-77-cacaonibs.html"
 - title: Hoja Verde - 58% Roses + Lemon
   date: ''
-  url: "/hoja verde/2023/12/30/hojaverde-58-roses-lemon.html"
+  url: "/hoja%20verde/2023/12/30/hojaverde-58-roses-lemon.html"
 - title: Arariwa - Chocolate 72% con Pistacho
   date: ''
   url: "/arariwa/2024/03/09/arariwa-72-pistacho.html"
@@ -171,7 +171,7 @@
   url: "/wat/2025/04/07/wat-85-intense.html"
 - title: Hacienda San José - 80% Chocolate Negro - Los Rios
   date: ''
-  url: "/hacienda san josé/2026/04/19/sanjose-80-puro.html"
+  url: "/hacienda%20san%20jos%C3%A9/2026/04/19/sanjose-80-puro.html"
 '21.5':
 - title: Pacari - Chocolate Organico con Esencia de Naranja – Orange - 60% Cacao
   date: ''
@@ -187,22 +187,22 @@
   url: "/arawi/2022/02/03/arawi-70-choconibs.html"
 - title: Hoja Verde - 72% Cacao Fino de Aroma
   date: ''
-  url: "/hoja verde/2022/08/23/hojaverde-72-puro.html"
+  url: "/hoja%20verde/2022/08/23/hojaverde-72-puro.html"
 - title: Valdivian - Chocolate negro - Esmeraldas 78%
   date: ''
   url: "/valdivian/2022/10/05/valdivian-78-esmeraldas.html"
 - title: Pierre Marcolini - Grands Crus - Inde Almonado - 72% Cacao
   date: ''
-  url: "/pierre marcolini/2022/12/07/marcolini-inde-72.html"
+  url: "/pierre%20marcolini/2022/12/07/marcolini-inde-72.html"
 - title: Minka - 43% Dark Milk - Communidad Shiwa Urku
   date: ''
   url: "/minka/2023/02/03/minka-43-shiwaurku.html"
 - title: Hoja Verde - 100% Cacao Fino de Aroma
   date: ''
-  url: "/hoja verde/2023/02/26/hojaverde-100-puro.html"
+  url: "/hoja%20verde/2023/02/26/hojaverde-100-puro.html"
 - title: Jeff de Bruges - No 8 - Équateur Corsé & Aromatique - 80% Cacao
   date: ''
-  url: "/jeff de bruges/2023/04/30/jeff-80-equateur.html"
+  url: "/jeff%20de%20bruges/2023/04/30/jeff-80-equateur.html"
 - title: Arariwa - Chocolate organico 55% Cacao
   date: ''
   url: "/arariwa/2023/11/18/arariwa-55-puro.html"
@@ -217,16 +217,16 @@
   url: "/arariwa/2024/03/22/arariwa-72-almandra.html"
 - title: Ah Cacao - Chocolate 70%
   date: ''
-  url: "/ah cacao/2024/04/14/ahcacao-72-puro.html"
+  url: "/ah%20cacao/2024/04/14/ahcacao-72-puro.html"
 - title: Hacienda El Castillo - Natural de plantacion - 70% Cacao
   date: ''
-  url: "/hacienda el castillo/2024/07/18/hacienda-elcastillo-70-puro.html"
+  url: "/hacienda%20el%20castillo/2024/07/18/hacienda-elcastillo-70-puro.html"
 - title: Herencia Esmeraldas - 70% Dark Chocolate with Mango
   date: ''
   url: "/herencia/2024/09/01/herencia-70-mango.html"
 - title: La Chocolaterie du Village - Baie St-Paul - 76% Équateur
   date: ''
-  url: "/chocolaterie du village - baie st-paul/2024/10/05/duvillage-76-equateur.html"
+  url: "/chocolaterie%20du%20village%20-%20baie%20st-paul/2024/10/05/duvillage-76-equateur.html"
 - title: Britt - Chocolate Oscuro - 70% Cacao - Ecuador
   date: ''
   url: "/britt/2024/11/23/britt_70_puro.html"
@@ -252,14 +252,14 @@
 - title: Republica del Cacao - Single Origin 51% Fine Cacao - Dark Milk Chocolate
     with Hot Peppers
   date: ''
-  url: "/republica del cacao/2021/12/29/rdc-51-aji.html"
+  url: "/republica%20del%20cacao/2021/12/29/rdc-51-aji.html"
 - title: Republica del Cacao - Single Origin Los Rios - Hacienda la Concepcion - 85%
     Fine Cacao
   date: ''
-  url: "/republica del cacao/2021/12/29/rdc-hacienda-la-concepcion-85-puro.html"
+  url: "/republica%20del%20cacao/2021/12/29/rdc-hacienda-la-concepcion-85-puro.html"
 - title: Republica del Cacao - Single Origin Provincia Manabi - 75% Fine Cacao
   date: ''
-  url: "/republica del cacao/2021/12/29/rdc-manabi-75-puro.html"
+  url: "/republica%20del%20cacao/2021/12/29/rdc-manabi-75-puro.html"
 - title: Belly's Cocoa - Chocolate 62% Cacao Sabor Maracuya
   date: ''
   url: "/belly's/2022/02/28/bellys-62-maracuya.html"
@@ -271,13 +271,13 @@
   url: "/pacari/2022/06/13/pacari-60-salcuzconibs.html"
 - title: Mindo Chocolate - 70% Rustico
   date: ''
-  url: "/mindo chocolate makers/2022/06/23/mindo-70-rustico.html"
+  url: "/mindo%20chocolate%20makers/2022/06/23/mindo-70-rustico.html"
 - title: Minka - 70% Hacienda La Zambrano
   date: ''
   url: "/minka/2022/10/05/minka-70-lazambrano.html"
 - title: Hoja Verde - 66% Cacao Fino de Aroma
   date: ''
-  url: "/hoja verde/2022/11/01/hojaverde-66-puro.html"
+  url: "/hoja%20verde/2022/11/01/hojaverde-66-puro.html"
 - title: Mashpi - Chocolate ecicion especial - Curcuma
   date: ''
   url: "/mashpi/2023/03/02/mashpi-curcuma.html"
@@ -301,7 +301,7 @@
   url: "/feliu/2024/07/08/feliu-Chontalpa.html"
 - title: La Chocolaterie du Village - Baie St-Paul - 73% Vietnam
   date: ''
-  url: "/chocolaterie du village - baie st-paul/2024/11/01/duvillage-73-vietnam.html"
+  url: "/chocolaterie%20du%20village%20-%20baie%20st-paul/2024/11/01/duvillage-73-vietnam.html"
 - title: Alluvia - Dark chocolate 70%
   date: ''
   url: "/alluvia/2025/01/12/alluvia_70_puro.html"
@@ -316,7 +316,7 @@
   url: "/camilo's/2025/05/01/camilos-80-zorza.html"
 - title: Choco Samona - Reserva de Biosfera Yasuni - 70% Cacao Amazonico de origen
   date: ''
-  url: "/choco samona/2025/05/10/ChocoSamona-70-amazonico_puro.html"
+  url: "/choco%20samona/2025/05/10/ChocoSamona-70-amazonico_puro.html"
 - title: Pacari - Raw Chocolate Organico - 90% Cacao
   date: ''
   url: "/pacari/2025/05/17/pacari-raw-90-puro.html"
@@ -342,13 +342,13 @@
 - title: Republica del Cacao - Single Origin Los Rios – 48% Fine Cacao - Golden Berry
     & Dark Milk Chocolate
   date: ''
-  url: "/republica del cacao/2021/12/29/rdc-losrios-48-goldenberry-milk.html"
+  url: "/republica%20del%20cacao/2021/12/29/rdc-losrios-48-goldenberry-milk.html"
 - title: Kallari - Farmer Owned Organic Chocolate - 75% cacao nacional
   date: ''
   url: "/kallari/2022/01/21/kallari-75-puro.html"
 - title: Republica del Cacao - Single Origin El Oro - 67% Fine Cacao
   date: ''
-  url: "/republica del cacao/2022/02/28/rdc-eloro-67-puro.html"
+  url: "/republica%20del%20cacao/2022/02/28/rdc-eloro-67-puro.html"
 - title: Yaussa - Chocolate sin azúcar añadido - 70%
   date: ''
   url: "/yaussa/2022/06/12/yaussa-60-puro.html"
@@ -360,10 +360,10 @@
   url: "/arariwa/2022/12/14/arariwa-75-puro.html"
 - title: Mindo Chocolate - 77% Aji picante
   date: ''
-  url: "/mindo chocolate makers/2022/12/17/mindo-77-ajipicante.html"
+  url: "/mindo%20chocolate%20makers/2022/12/17/mindo-77-ajipicante.html"
 - title: Mindo Chocolate - 77% Macadamia
   date: ''
-  url: "/mindo chocolate makers/2023/02/26/mindo-77-macadamia.html"
+  url: "/mindo%20chocolate%20makers/2023/02/26/mindo-77-macadamia.html"
 - title: Conexion - Chocolate & Cacao Nibs - 70% Fine Cacao
   date: ''
   url: "/conexion/2023/03/31/conexion-70-cacaonibs.html"
@@ -372,7 +372,7 @@
   url: "/pacari/2023/07/30/pacari-60-molerojo.html"
 - title: Hoja Verde - Chocolate 50% Con Leche
   date: ''
-  url: "/hoja verde/2023/08/22/hojaverde-50-leche.html"
+  url: "/hoja%20verde/2023/08/22/hojaverde-50-leche.html"
 - title: Kallari - Sacha - 61% Cacao - Samachik
   date: ''
   url: "/kallari/2023/10/28/kallari-61-samachick.html"
@@ -396,7 +396,7 @@
   url: "/belly's/2024/03/02/bellys-62-puro.html"
 - title: Mazorca Negra - Chocolate oscuro 70% Cacao origen Tuzantan
   date: ''
-  url: "/mazorca negra/2024/04/14/mazorcanegra-70-tuzantan.html"
+  url: "/mazorca%20negra/2024/04/14/mazorcanegra-70-tuzantan.html"
 - title: Arariwa - Chocolate 72% con Piña
   date: ''
   url: "/arariwa/2024/05/10/arariwa-72-pina.html"
@@ -411,7 +411,7 @@
   url: "/chococumi/2024/07/26/chococumi-70-guayas.html"
 - title: Maison du Cacao - 70% - Bois d'Inde
   date: ''
-  url: "/maison du cacao/2024/07/26/maisonducacao-70-boisdinde.html"
+  url: "/maison%20du%20cacao/2024/07/26/maisonducacao-70-boisdinde.html"
 - title: Bios - Mucilago Fino - 70%
   date: ''
   url: "/bios/2024/11/23/bios_70_mucilago.html"
@@ -423,7 +423,7 @@
   url: "/huma/2025/04/12/huma_70_yasuni.html"
 - title: Napo Cultural Center
   date: ''
-  url: "/napo cultural center/2026/01/05/yasuni-puro.html"
+  url: "/napo%20cultural%20center/2026/01/05/yasuni-puro.html"
 - title: Salapi - 70% - Cosecha 2025
   date: ''
   url: "/salapi/2026/01/31/salapi_70_cosecha2025.html"
@@ -441,10 +441,10 @@
 - title: Republica del Cacao - Single Origin 75% Fine Cacao - Dark Chocolate with
     Raw Sea Salt
   date: ''
-  url: "/republica del cacao/2021/12/29/rdc-75-seasalt.html"
+  url: "/republica%20del%20cacao/2021/12/29/rdc-75-seasalt.html"
 - title: Republica del Cacao - Single Origin La Comunidad Vinces - 75% Fine Cacao
   date: ''
-  url: "/republica del cacao/2021/12/29/rdc-vinces-75-puro.html"
+  url: "/republica%20del%20cacao/2021/12/29/rdc-vinces-75-puro.html"
 - title: Cleo's Al Natural - 65% Puro
   date: ''
   url: "/cleo's/2022/01/14/Cleos-65.html"
@@ -456,7 +456,7 @@
   url: "/rights/2023/02/10/rights-60-sinazucar.html"
 - title: Hoja Verde - Chocolate 58%
   date: ''
-  url: "/hoja verde/2023/08/22/hojaverde-58-puro.html"
+  url: "/hoja%20verde/2023/08/22/hojaverde-58-puro.html"
 - title: Conexion - Chocolate Dark Roast - 81% Cacao Arriba
   date: ''
   url: "/conexion/2023/11/22/conexion-81-darkroast.html"
@@ -538,7 +538,7 @@
   url: "/legast/2022/07/17/legast-80-guayas.html"
 - title: Mindo Chocolate - 70% Panela
   date: ''
-  url: "/mindo chocolate makers/2022/08/27/mindo-70-panela.html"
+  url: "/mindo%20chocolate%20makers/2022/08/27/mindo-70-panela.html"
 - title: Mayta Luxury Ecuadorian Chocolate - 70% Puro
   date: ''
   url: "/mayta/2023/02/02/mayta-70-puro.html"
@@ -547,7 +547,7 @@
   url: "/mashpi/2023/03/02/mashpi-cacao.html"
 - title: Nat Kaw - 76% Herbal Nativo
   date: ''
-  url: "/nat kaw/2023/05/20/natkaw-76-herbalnativo.html"
+  url: "/nat%20kaw/2023/05/20/natkaw-76-herbalnativo.html"
 - title: Cleo's Al Natural - 80% Puro
   date: ''
   url: "/cleo's/2023/06/18/cleo-80-puro.html"
@@ -584,7 +584,7 @@
 '24':
 - title: Mindo Chocolate - 77% Jengibre
   date: ''
-  url: "/mindo chocolate makers/2021/12/28/mindo-77-jengibre.html"
+  url: "/mindo%20chocolate%20makers/2021/12/28/mindo-77-jengibre.html"
 - title: Pacari - Single Region Fine Chocolate - Esmeraldas 60% Cacao
   date: ''
   url: "/pacari/2021/12/29/pacari-esmeraldas-60-puro.html"
@@ -593,7 +593,7 @@
   url: "/pacari/2021/12/29/pacari-piura-quemazon-70-puro.html"
 - title: Republica del Cacao - Single Origin Amazonia - 75% Fine Cacao
   date: ''
-  url: "/republica del cacao/2021/12/29/rdc-amazonia-75-puro.html"
+  url: "/republica%20del%20cacao/2021/12/29/rdc-amazonia-75-puro.html"
 - title: Pacari - Chocolate Organico con Maracuya 60% - Passionfruit
   date: ''
   url: "/pacari/2022/02/09/pacari-60-maracuya.html"
@@ -611,7 +611,7 @@
   url: "/kallari/2023/08/24/kallari-80-kuripaki.html"
 - title: Mindo Chocolate - 85% Puro Cacao Nacional
   date: ''
-  url: "/mindo chocolate makers/2023/11/25/mindo-85-puro.html"
+  url: "/mindo%20chocolate%20makers/2023/11/25/mindo-85-puro.html"
 - title: Conexion - Virgin - 100% Cacao Arriba
   date: ''
   url: "/conexion/2023/12/09/conexion-100-virgin.html"
@@ -620,7 +620,7 @@
   url: "/herencia/2024/02/24/herencia-70-puro.html"
 - title: Wiñak - Organico 85% Cacao
   date: ''
-  url: "/wiñak/2024/03/16/winak-85-puro.html"
+  url: "/wi%C3%B1ak/2024/03/16/winak-85-puro.html"
 - title: 'Arariwa - Cacao Heart Chocolate 100% '
   date: ''
   url: "/arariwa/2024/03/22/arariwa-100-puro.html"
@@ -648,19 +648,19 @@
   url: "/mashpi/2021/12/29/mashpi-65-puro.html"
 - title: Mindo Chocolate - 67% Puro Cacao Nacional
   date: ''
-  url: "/mindo chocolate makers/2021/12/29/mindo-67-puro.html"
+  url: "/mindo%20chocolate%20makers/2021/12/29/mindo-67-puro.html"
 - title: Nat Kaw - 80% Frutal Nativo
   date: ''
-  url: "/nat kaw/2022/05/23/natkaw-80-pur.html"
+  url: "/nat%20kaw/2022/05/23/natkaw-80-pur.html"
 - title: Nat Kaw - 72% Floral Nativo
   date: ''
-  url: "/nat kaw/2022/07/26/natkaw-72-floral.html"
+  url: "/nat%20kaw/2022/07/26/natkaw-72-floral.html"
 - title: Mashpi - Chocolate organico semi-oscuro con pulverizado de chocho
   date: ''
   url: "/mashpi/2022/08/28/mashpi-chocho.html"
 - title: Mindo Chocolate - 67% Sal y Pimienta
   date: ''
-  url: "/mindo chocolate makers/2023/01/28/mindo-67-salypimienta.html"
+  url: "/mindo%20chocolate%20makers/2023/01/28/mindo-67-salypimienta.html"
 - title: Mayta Luxury Ecuadorian Chocolate - 55% Raspberry
   date: ''
   url: "/mayta/2023/09/23/mayta-55-raspberry.html"
@@ -673,13 +673,13 @@
 '25':
 - title: Mindo Chocolate - 77% Macadamia
   date: ''
-  url: "/mindo chocolate makers/2021/12/28/mindo-77-macadamia.html"
+  url: "/mindo%20chocolate%20makers/2021/12/28/mindo-77-macadamia.html"
 - title: Mindo Chocolate - 77% Puro Cacao Nacional
   date: ''
-  url: "/mindo chocolate makers/2021/12/29/mindo-77-puro.html"
+  url: "/mindo%20chocolate%20makers/2021/12/29/mindo-77-puro.html"
 - title: Nat Kaw - 65% Frutal Nativo
   date: ''
-  url: "/nat kaw/2022/01/01/natkaw-65-pur.html"
+  url: "/nat%20kaw/2022/01/01/natkaw-65-pur.html"
 - title: Mashpi - Chocolate organico 65% relleno con pulpa de cacao
   date: ''
   url: "/mashpi/2022/03/07/mashpi-65-pulpa-cacao.html"
@@ -691,7 +691,7 @@
   url: "/mashpi/2022/07/29/mashpi-65-cardamome-sel.html"
 - title: Mindo Chocolate - 77% Cardamomo
   date: ''
-  url: "/mindo chocolate makers/2023/02/26/mindo-77-cardamomo.html"
+  url: "/mindo%20chocolate%20makers/2023/02/26/mindo-77-cardamomo.html"
 - title: Mashpi - Chocolate Organico 65% Cacao con Cereza de Brunei
   date: ''
   url: "/mashpi/2023/05/08/mashpi-65-bruneicherry.html"
@@ -700,7 +700,7 @@
   url: "/mashpi/2023/10/28/mashpi-80-puro.html"
 - title: Wiñak - Organico 70% Cacao
   date: ''
-  url: "/wiñak/2024/04/25/winak-70-puro.html"
+  url: "/wi%C3%B1ak/2024/04/25/winak-70-puro.html"
 - title: Huma 70% - Guayaquil
   date: ''
   url: "/huma/2024/09/01/huma-70-guayaquil.html"

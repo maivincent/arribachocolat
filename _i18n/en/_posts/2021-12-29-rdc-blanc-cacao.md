@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Republica del Cacao - White Chocolate and Fine Cacao Nibs"
-tags: [White, Cocoa Nibs] 
+tags: [White, Cocoa] 
 categories: [Republica del Cacao]
 
 ---

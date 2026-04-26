@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Republica del Cacao - Single Origin 47% Fine Cacao - Dark Milk Chocolate with Banana Chips"
-tags: [Leche, Platano] 
+tags: [Leche, Plátano] 
 categories: [Republica del Cacao]
 
 ---

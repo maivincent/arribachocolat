@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kallari - Sacha - 61% Cacao - Samachik
-tags: [Dark, Hierbaluisa]
+tags: [Dark, Lemongrass]
 categories: [Kallari]
 ---
 

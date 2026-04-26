@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kallari - Sacha - 73% cacao - Guiña dorada - Platano Frito"
-tags: [Negro, Platano] 
+tags: [Negro, Plátano] 
 categories: [Kallari]
 ---
 

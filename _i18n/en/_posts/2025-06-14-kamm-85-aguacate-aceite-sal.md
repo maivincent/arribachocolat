@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kamm - 85% Avocado, Oil & Salt
-tags: [Dark, Innovative]
+tags: [Dark, Avocado, Olive Oil, Salt]
 categories: [Kamm]
 ---
 

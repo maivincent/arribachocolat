@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kamm - 85% - Aguacate, Aceite de Oliva Virgen y Sel Marina
-tags: [Negro, Abogado, Aceite de oliva, Sal]
+tags: [Negro, Aguacate, Aceite de oliva, Sal]
 categories: [Kamm]
 ---
 

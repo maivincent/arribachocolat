@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yumbos - Playa de Oro – Esmeraldas 70% Aji
-tags: [Dark, Hot pepper]
+tags: [Dark, Chili]
 categories: [Yumbos]
 ---
 

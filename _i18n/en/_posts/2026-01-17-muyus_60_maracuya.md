@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Muyus - Otavalo - 60% Passion Fruit
-tags: [Dark, Passionfruit]
+tags: [Dark, Maracuya]
 categories: [Muyus]
 ---
 

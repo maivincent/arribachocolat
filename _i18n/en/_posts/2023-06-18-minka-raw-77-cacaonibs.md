@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minka - Raw 77% with Cacao Nibs
-tags: [Dark, Cocoa Nibs]
+tags: [Dark, Cocoa]
 categories: [Minka]
 ---
 

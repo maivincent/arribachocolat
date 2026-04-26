@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pacari - Chocolate con Pulpa de Cacao & Nibs - 60% Cacao"
-tags: [Noir, Pulpe de cacao, Cacao] 
+tags: [Noir, Pulpe de cacao]
 categories: [Pacari]
 ---
 
