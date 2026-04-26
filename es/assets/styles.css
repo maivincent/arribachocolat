@@ -207,6 +207,51 @@ figcaption.align-left { text-align: left; }
 
 figcaption.align-center { text-align: center; }
 
+.brand-back-link { display: inline-block; margin-bottom: var(--spacer); font-size: 0.9em; color: var(--gray-600); text-decoration: none; }
+.brand-back-link:hover { color: var(--link-color); }
+
+.brand-title { margin-top: calc(var(--spacer) * 0.25); }
+
+.brand-count { color: var(--gray-600); font-size: 0.95em; margin-top: calc(var(--spacer) * -0.75); margin-bottom: var(--spacer-2); }
+
+.brand-tier-heading { padding-left: var(--spacer); border-left: 4px solid var(--gray-400); margin-top: var(--spacer-2); margin-bottom: var(--spacer); font-size: 1.05em; font-weight: 600; }
+
+.brand-tier-exceptionnel { border-left-color: #c49a2a; }
+
+.brand-tier-excellent { border-left-color: #6d3a2a; }
+
+.brand-tier-bon { border-left-color: #a07850; }
+
+.brand-tier-moyen { border-left-color: var(--gray-500); }
+
+.brand-tier-unrated { border-left-color: var(--gray-400); }
+
+.brand-post-list { list-style: none; padding: 0; margin: 0 0 var(--spacer-2); }
+
+.brand-post-item { padding: 0.6rem 0; border-bottom: 1px solid var(--border-color); }
+.brand-post-item:last-child { border-bottom: none; }
+
+.brand-post-link { display: block; font-weight: 500; text-decoration: none; margin-bottom: 0.3rem; }
+.brand-post-link:hover { text-decoration: underline; }
+
+.brand-post-meta { display: flex; align-items: center; flex-wrap: wrap; gap: 0.35rem; }
+.brand-post-meta time { font-family: var(--code-font); font-size: 0.8em; color: var(--gray-600); }
+
+.brand-tag { display: inline-block; padding: 0.1em 0.55em; border-radius: 2rem; font-size: 0.78em; font-weight: 500; background: var(--gray-200); color: var(--gray-700); }
+@media (prefers-color-scheme: dark) { .brand-tag { background: var(--gray-700); color: var(--gray-200); } }
+
+.brand-tag--pur { background: transparent; color: var(--body-color); border: 1px solid var(--border-color); }
+@media (prefers-color-scheme: dark) { .brand-tag--pur { background: transparent; color: var(--body-color); border-color: var(--border-color); } }
+
+.brand-tag--noir { background: #2c1a0e; color: #f0e0cc; }
+@media (prefers-color-scheme: dark) { .brand-tag--noir { background: #4a2c18; color: #f0e0cc; } }
+
+.brand-tag--lait { background: #d4a87a; color: #3d2008; }
+@media (prefers-color-scheme: dark) { .brand-tag--lait { background: #9a6840; color: #fdf0e4; } }
+
+.brand-tag--blanc { background: #faf5ec; color: #5a4230; border: 1px solid #d8c8a8; }
+@media (prefers-color-scheme: dark) { .brand-tag--blanc { background: #3a3028; color: #f0e8d8; border-color: #5c4a38; } }
+
 /** rougify style gruvbox.light */
 .highlight table td { padding: 5px; }
 
