@@ -20,23 +20,39 @@ layout: default
 {% comment %} Render taxonomies. {% endcomment %}
 {%- if page.type == 'grades' -%}
 
-  {%- assign labels = "25,24.5,24,23.5,23,22.5,22,21.5,21,20.5,20,<=20" | split: "," -%}
-  <div class="taxonomies-wrapper">
-    <ul class="taxonomies">
-      {%- for label in labels -%}
-        {%- assign posts_for_label = site.data.grades[label] -%}
-        {%- if posts_for_label and posts_for_label.size > 0 -%}
-          <li>
-            {%- capture link -%}{{ page.permalink }}#grade-{{ label | replace: '<','lt' | slugify }}{%- endcapture -%}
-            <a class="taxonomy" href="{{ link | relative_url }}">
-              <span>{{ label }}</span>
-              <span class="taxonomy-count">{{ posts_for_label.size }}</span>
-            </a>
-          </li>
-        {%- endif -%}
-      {%- endfor -%}
-    </ul>
-  </div>
+  {%- assign tier_defs = "exceptionnel:25,24.5,24|excellent:23.5,23,22.5,22|bon:21.5,21,20.5|moyen:<=20" | split: "|" -%}
+
+  {%- for tier_def in tier_defs -%}
+    {%- assign parts = tier_def | split: ":" -%}
+    {%- assign tier = parts[0] -%}
+    {%- assign tier_labels = parts[1] | split: "," -%}
+
+    {%- assign tier_has_posts = false -%}
+    {%- for label in tier_labels -%}
+      {%- assign posts_for_label = site.data.grades[label] -%}
+      {%- if posts_for_label and posts_for_label.size > 0 -%}{%- assign tier_has_posts = true -%}{%- endif -%}
+    {%- endfor -%}
+
+    {%- if tier_has_posts -%}
+      <h2 class="brand-tier-heading brand-tier-{{ tier }}">{% t brand.tiers.{{ tier }} %}</h2>
+      <div class="taxonomies-wrapper">
+        <ul class="taxonomies">
+          {%- for label in tier_labels -%}
+            {%- assign posts_for_label = site.data.grades[label] -%}
+            {%- if posts_for_label and posts_for_label.size > 0 -%}
+              <li>
+                {%- capture link -%}/grades/{{ label | replace: '<','lt' | slugify }}/{%- endcapture -%}
+                <a class="taxonomy" href="{{ link | relative_url }}">
+                  <span>{%- if label == "<=20" -%}{% t grade.labels.lt20 %}{%- else -%}{{ label }}{%- endif -%}</span>
+                  <span class="taxonomy-count">{{ posts_for_label.size }}</span>
+                </a>
+              </li>
+            {%- endif -%}
+          {%- endfor -%}
+        </ul>
+      </div>
+    {%- endif -%}
+  {%- endfor -%}
 
 {%- elsif page.type == 'tags' -%}
 
@@ -122,31 +138,3 @@ layout: default
 
 {%- endif -%}
 
-{% comment %} Expanded post list — grades only (brands and tags have their own pages) {% endcomment %}
-{%- if page.type == 'grades' -%}
-  {%- assign labels = "25,24.5,24,23.5,23,22.5,22,21.5,21,20.5,20,<=20" | split: "," -%}
-  {%- for label in labels -%}
-    {%- assign posts_for_label = site.data.grades[label] -%}
-    {%- if posts_for_label and posts_for_label.size > 0 -%}
-      <h2 id="grade-{{ label | replace: '<','lt' | slugify }}">{{ label }}</h2>
-      <ul class="post-list-by-taxonomy">
-        {%- for post in posts_for_label -%}
-          <li>
-            {%- if post.date and post.date != empty -%}
-              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
-            {%- endif -%}
-            &raquo; <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          </li>
-        {%- endfor -%}
-      </ul>
-      <a href="#" onclick="backToTop()" class="back-to-top">Top &#8648;</a>
-    {%- endif -%}
-  {%- endfor -%}
-{%- endif -%}
-
-<script>
-  function backToTop() {
-    const main = document.getElementById("site-main");
-    main.scrollTop = 0;
-  }
-</script>

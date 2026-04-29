@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+{% include home-header.html %}
+
+<a class="brand-back-link" href="{{ '/grades/' | relative_url }}">&#8592; {% t grade.back %}</a>
+
+<h1 class="brand-title">{%- if page.grade_label == "<=20" -%}{% t grade.labels.lt20 %}{%- else -%}{{ page.grade_label }}{%- endif -%}</h1>
+
+{% assign grade_data = site.data.grades[page.grade_label] %}
+
+{% assign grade_posts = "" | split: "" %}
+{% for entry in grade_data %}
+  {% for post in site.posts %}
+    {% unless post.url contains '/en/' or post.url contains '/es/' %}
+      {% if post.url == entry.url %}
+        {% assign grade_posts = grade_posts | push: post %}
+        {% break %}
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
+
+<p class="brand-count">{{ grade_posts.size }} {% t brand.reviews %}</p>
+
+{% assign brand_groups = grade_posts | group_by_exp: "post", "post.categories | first" %}
+{% assign brand_groups = brand_groups | sort: "size" | reverse %}
+
+{% for group in brand_groups %}
+  <h2 class="brand-tier-heading">{{ group.name }}</h2>
+  <ul class="brand-post-list">
+    {% for post in group.items %}
+      <li class="brand-post-item">
+        <a class="brand-post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        <div class="brand-post-meta">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+          {% for tag in post.tags %}
+            {% assign tag_lower = tag | downcase %}
+            {% if tag_lower == "noir" or tag_lower == "dark" or tag_lower == "oscuro" %}
+              {% assign tag_class = "brand-tag--noir" %}
+            {% elsif tag_lower == "lait" or tag_lower == "au lait" or tag_lower == "milk" or tag_lower == "leche" %}
+              {% assign tag_class = "brand-tag--lait" %}
+            {% elsif tag_lower == "blanc" or tag_lower == "white" or tag_lower == "blanco" %}
+              {% assign tag_class = "brand-tag--blanc" %}
+            {% elsif tag_lower == "pur" or tag_lower == "pure" or tag_lower == "puro" %}
+              {% assign tag_class = "brand-tag--pur" %}
+            {% else %}
+              {% assign tag_class = "" %}
+            {% endif %}
+            <span class="brand-tag {{ tag_class }}">{{ tag }}</span>
+          {% endfor %}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}

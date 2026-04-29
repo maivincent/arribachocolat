@@ -18,6 +18,10 @@ tags:
   section_types: Chocolate types
   section_flavors: Flavors & inclusions
   type_tags: "Dark,Milk,White"
+grade:
+  back: All grades
+  labels:
+    lt20: "20 and less"
 brand:
   reviews: bars reviewed
   back: All brands

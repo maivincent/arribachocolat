@@ -23,6 +23,10 @@ tags:
   section_types: Types de chocolat
   section_flavors: Saveurs et inclusions
   type_tags: "Noir,Lait,Blanc"
+grade:
+  back: Toutes les notes
+  labels:
+    lt20: "20 et moins"
 brand:
   reviews: tablettes dégustées
   back: Toutes les marques
