@@ -96,3 +96,42 @@ end
 total = grades.values.map(&:size).reduce(0, :+)
 puts "Generated grades.yml with #{total} posts across #{grades.keys.size} buckets"
 puts "Generated post_grades.yml with #{post_grades.size} entries"
+
+# Generate per-grade page stubs
+def slugify(name)
+  name
+    .unicode_normalize(:nfd).gsub(/\p{Mn}/, '')
+    .downcase
+    .gsub(/[^a-z0-9]+/, '-')
+    .gsub(/^-|-$/, '')
+end
+
+FileUtils.mkdir_p('grades')
+
+active_slugs = {}
+grades.each do |label, posts|
+  next if posts.empty?
+  slug = slugify(label.gsub('<', 'lt'))
+  active_slugs[slug] = label
+end
+
+# Remove stubs for grades that no longer have posts
+Dir.glob('grades/*.md').each do |f|
+  slug = File.basename(f, '.md')
+  File.delete(f) unless active_slugs.key?(slug)
+end
+
+active_slugs.each do |slug, label|
+  path = "grades/#{slug}.md"
+  content = <<~MD
+    ---
+    layout: grade
+    title: "#{label.gsub('"', '\\"')}"
+    grade_label: "#{label.gsub('"', '\\"')}"
+    permalink: /grades/#{slug}/
+    ---
+  MD
+  File.write(path, content)
+end
+
+puts "Generated #{active_slugs.size} grade pages in grades/"
