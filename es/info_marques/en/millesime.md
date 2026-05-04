@@ -1,0 +1,1 @@
+[Millésime Chocolat](https://www.millesime-chocolat.be/fr/) is a Belgian luxury chocolate brand, run by Jean Christophe Hubert. I understand that each year the available bars change, probably depending on the vintage of the cocoa. We found the Ecuador bar presented on this site at the [fromagerie Yannick](https://www.yannickfromagerie.ca/) on Bernard Street, in Montreal.

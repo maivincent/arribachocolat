@@ -1,0 +1,1 @@
+[Monarque](https://chocolats-monarque.square.site/) is another small bean-to-bar chocolate shop based in Mile End, Montreal, sourcing its cocoa mainly from Central and Latin America. I found its Ecuadorian bars at the [État de Choc](https://www.etatdechoc.com/fc/) store on St-Laurent.

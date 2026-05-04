@@ -1,0 +1,1 @@
+[Huma](https://humachocolate.com/) produce chocolate Single Origin a partir de cacao comprado directamente a productores de varias regiones de Ecuador, como Guayaquil, Tsachila, Montanita, Cotopaxi, Quitu y Yasuni. Aunque no es cacao arriba, es fino de aroma. Encontré sus tabletas en una tienda del Pasaje Arzobispal, ubicado en el corazón del centro histórico de Quito.

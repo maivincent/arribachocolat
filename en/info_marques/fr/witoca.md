@@ -1,0 +1,1 @@
+[Witoca](http://www.witoca.com/) est une communauté d'Amazonie qui produit surtout du café, mais aussi du [chocolat](https://producersmarket.com/product/chocolate-witoca-9ed1bde281984307ab1920dc197261c4) de manière artisanale, selon le sytème Chakra. J'ai trouvé une tablette au marché artisanal de Quito.

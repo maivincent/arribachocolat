@@ -1,0 +1,1 @@
+[Minka Chocolate](https://minkachocolate.com/) se vende en Ecuador, pero también en Estados Unidos y Francia. Minka significa "trabajo en equipo" en quechua, la lengua inca. El cacao procede de plantaciones de la provincia de Guayas, cerca del río Naranjal.

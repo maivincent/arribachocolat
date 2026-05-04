@@ -1,0 +1,1 @@
+Tout le monde connaît [Lindt](https://www.lindt-spruengli.com/), la compagnie internationale de chocolat fin et de truffes suisses. Les tablettes Excellence sont disponibles dans presque toutes les épiceries!

@@ -1,0 +1,3 @@
+[Republica del Cacao](https://republicadelcacao.com) was founded in 2007 by two Ecuadorian brothers who learned in Paris that the best cocoa according to a renowned chocolatier comes from the Guayaquil region. Determined to take advantage of the potential of Ecuadorian cocoa in a local and sustainable way, they first offer bars for the consumer and then in 2014 fine cocoa for companies. They then diversified their sources, going to Peru, the Dominican Republic and Colombia for new flavors of aroma fino cacao.
+
+As far as I know, Republica del Cacao's bars are mostly based on nacional arriba cocoa, but sometimes Sacha as well. They may go for other species - it will always be fino d'aroma.

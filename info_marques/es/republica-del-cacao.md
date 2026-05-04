@@ -1,0 +1,3 @@
+[República del Cacao](https://republicadelcacao.com) fue fundada en 2007 por dos hermanos ecuatorianos que aprendieron en París que el mejor cacao, según un reputado chocolatero, proviene de la región de Guayaquil. Decididos a explotar el potencial del cacao ecuatoriano de forma local y sostenible, primero ofrecieron barritas para los consumidores y luego, en 2014, cacao fino para las empresas. A continuación, diversificaron sus fuentes, yendo a Perú, la República Dominicana y Colombia en busca de nuevos sabores de cacao fino de aroma.
+
+Por lo que sé, las barritas de República del Cacao se basan sobre todo en el cacao nacional de arriba, pero a veces también en el Sacha. Pueden optar por otras especies - siempre será fino d'aroma.

@@ -1,0 +1,3 @@
+[Belly's Cocoa](https://www.chocolatesbellyscocoa.com/) se especializa en cacao fino de aroma de altura, es decir, cultivado a más de 1000 metros de altura en el chocó andino, un ecosistema protegido cerca de Quito. Para lograr producir cacao en estas condiciones, se necesitaron muchos años de investigación y selección genética. Inicialmente proveniente de la familia CCN-51, cuya calidad es inferior al cacao fino de aroma, el llamado [Rio Alambi](https://cocoaflavormap.cacaomovil.com/site/place/rio-alambi) presenta características únicas.
+
+Me regalaron tabletas de Belly's. Puedes hacer pedidos desde Quito a través de su sitio web.

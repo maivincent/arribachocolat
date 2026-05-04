@@ -1,0 +1,1 @@
+[Wiñak](https://www.winak.org/?lang=en) is another community enterprise associated with Chakra, focusing on women and chocolate. I was able to order their chocolate bars in Quito by contacting them via email.

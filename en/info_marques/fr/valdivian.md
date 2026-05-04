@@ -1,0 +1,1 @@
+[Valdivian](https://www.facebook.com/ValdivianChocolate) doit son nom à une des plus vieilles civilisations d'Équateur, qui vivait sur la côte ouest, proche de Guayaquil. Ils utilisent du cacao arriba biologique provenant de plusieurs régions, et distribuent leurs barres dans tous les SuperMaxi.

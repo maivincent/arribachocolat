@@ -1,0 +1,1 @@
+Lancée en 2018 à Cuenca, [Viferchi](http://www.viferchi.com/) propose pour le moment une petite variété de barres. J'ai mis la main dessus à Quito, à la même fruteria que les barres Cleo's, en décembre 2021. Je suppose cependant qu'elle est appelée à grandir.

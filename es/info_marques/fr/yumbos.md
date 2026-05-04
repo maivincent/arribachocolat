@@ -1,0 +1,1 @@
+[Yumbos Chocolate](http://yumboschocolate.com/) est une fabrique de chocolat à Mindo. Elle est fondée par un couple: Claudia Ponce et Pierre-Alain Molinari. Le cacao provient des provinces de Los Rios et d'Esmeraldas. On peut visiter l'atelier à Mindo, ou acheter leurs produits à leur boutique dans le centre historique de Quito.

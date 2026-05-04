@@ -1,0 +1,3 @@
+Le site internet: la page [Facebook](https://www.facebook.com/cleos.tortillas) de Cleo's tortillas. La [vidéo promotionelle](https://www.youtube.com/watch?v=SlsUV0VwxxI) produite par l'ambassade du Mexique en Équateur. Les points de vente à Quito? La petite [fruteria don Vic](https://foursquare.com/v/la-fruteria/4bcb58a6b6c49c745d019291/photos) sur la Gonzalez Suarez.
+
+De ce que j'ai compris, Cleotilde Gascon est une mexicaine établie à Quito, qui produit quelques aliments, dont du chocolat. Qui est par ailleurs excellent. Pour prendre contact avec elle, le numéro est dans la description de la vidéo promotionelle!

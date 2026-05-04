@@ -1,0 +1,1 @@
+Launched in 2018 in Cuenca, [Viferchi](http://www.viferchi.com/) offers a small variety of bars for now. I got my hands on it in Quito, at the same fruteria as Cleo's bars. I assume, however, that it will grow.

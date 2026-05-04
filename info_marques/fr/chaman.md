@@ -1,0 +1,3 @@
+Je pense avoir mis la main sur une des dernières tablettes de cette marque: c'est la barre de chocolat distribuée par [Cacao & Cacao](https://kacaoshop.com/), une petite boutique spécialisée en chocolat à Quito. Ils y vendent toujours d'autres marques de chocolat, ainsi que du café et du cacao pur. C'est là d'ailleurs que je l'ai achetée en décembre 2021, et qu'ils m'ont dit que c'était les derniers modèles.
+
+Un petit doute cependant, car selon la boîte, elle serait élaborée par [La Leyenda del chocolate](http://chocoleyenda.com/) de Calderon... Mais il m'est impossible de trouver la marque dans leur boutique.

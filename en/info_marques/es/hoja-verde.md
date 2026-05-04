@@ -1,0 +1,1 @@
+[Hoja Verde](https://www.facebook.com/hojaverdechocolate/) es la rama chocolatera de una empresa familiar que también produce [rosas](https://www.hojaverde.com.ec). También está asociada a la empresa [café Vélez] (https://www.hvg.com.ec/). Sus productos se pueden encontrar en todo Quito, entre otros en la cafetería Vélez de la Floresta.

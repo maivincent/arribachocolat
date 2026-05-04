@@ -1,0 +1,1 @@
+[Arawi](https://www.arawicacao.com/) es una empresa fundada en 2010 en Cuenca, que produce varios tipos de barras de cacao fino nacional de aroma orgánico. Sus barras se pueden encontrar en los supermercados Supermaxi y Coral, entre otros.

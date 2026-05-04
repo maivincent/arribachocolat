@@ -1,0 +1,1 @@
+Todo el mundo conoce [Lindt](https://www.lindt-spruengli.com/), la empresa internacional de chocolate fino y trufas de Suiza. Las barras Excellence están disponibles en casi todas las tiendas de comestibles.

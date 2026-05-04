@@ -1,0 +1,1 @@
+[Monarque](https://chocolats-monarque.square.site/) est une autre petite chocolaterie montréalaise, bean-to-bar, basée au Mile End, dont le cacao provient surtout d'Amérique centrale et latine. J'ai trouvé ses barres d'Équateur dans la boutique [État de Choc](https://www.etatdechoc.com/fc/), située sur St-Laurent.

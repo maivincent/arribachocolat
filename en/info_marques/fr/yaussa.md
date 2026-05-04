@@ -1,0 +1,1 @@
+La ferme touristique [Yaussa](https://yaussa.com/) est située à Puerto Quito et propose, entre autres produits, deux tablettes de chocolat arriba et du chocolat 100% pour la cuisine. Nous l'avons trouvée dans une foire de Noël à Cumbaya, en 2021.

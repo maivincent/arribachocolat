@@ -1,0 +1,1 @@
+[Wiñak](https://www.winak.org/) es otra empresa comunitaria asociada a Chakra, las mujeres y el chocolate. Al igual que con Tsatsayaku, aún no he encontrado ninguna de sus estanterías. Espero que el año que viene haya más novedades.

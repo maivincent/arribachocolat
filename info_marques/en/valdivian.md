@@ -1,0 +1,1 @@
+[Valdivian](https://www.facebook.com/ValdivianChocolate) owes its name to one of the oldest civilizations in Ecuador, which lived on the west coast, near Guayaquil. They use organic arriba cocoa from several regions, and distribute their bars in all SuperMaxi stores.

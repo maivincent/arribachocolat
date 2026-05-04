@@ -1,0 +1,1 @@
+[Avanaa](https://www.avanaa.ca/en/) is a Montreal based chocolate factory located in Villeray. Their chocolate bars are crafted from cocoa beans directly imported from sustainable producers from everywhere in the world. This includes Ecuador, with Kallari cocoa!

@@ -1,0 +1,1 @@
+[Rights](https://rightschocolates.com/) est une compagnie qui met de l'avant l'inclusivité, en employant des personnes vivant avec des handicaps physiques ou intellectuels et en produisant du chocolat à partir du cacao fin d'arome de manière équitable. Ses tablettes se retrouvent entre autres dans les supermarchés SuperMaxi.

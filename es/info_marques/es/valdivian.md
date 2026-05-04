@@ -1,0 +1,1 @@
+[Valdivian](https://www.facebook.com/ValdivianChocolate) lleva el nombre de una de las civilizaciones más antiguas de Ecuador, que vivía en la costa occidental, cerca de Guayaquil. Utilizan cacao ecológico de arriba de varias regiones y distribuyen sus barritas en todas las tiendas SuperMaxi.

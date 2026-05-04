@@ -49,3 +49,27 @@ brands.each do |slug, brand_name|
 end
 
 puts "Generated #{brands.size} brand pages in brands/"
+
+# Build _data/brand_descriptions.yml from info_marques/{lang}/{slug}.md
+descriptions = {}
+%w[fr en es].each do |lang|
+  descriptions[lang] = {}
+  brands.each_key do |slug|
+    info_path = "info_marques/#{lang}/#{slug}.md"
+    next unless File.exist?(info_path)
+    descriptions[lang][slug] = File.read(info_path).strip
+  end
+end
+
+FileUtils.mkdir_p('_data')
+File.write('_data/brand_descriptions.yml', descriptions.to_yaml)
+puts "Generated _data/brand_descriptions.yml (#{descriptions.values.sum(&:size)} entries)"
+
+# Build _data/brand_intro.yml from info_marques/{lang}/introduction.md
+intro = {}
+%w[fr en es].each do |lang|
+  path = "info_marques/#{lang}/introduction.md"
+  intro[lang] = File.exist?(path) ? File.read(path).strip : ''
+end
+File.write('_data/brand_intro.yml', intro.to_yaml)
+puts "Generated _data/brand_intro.yml"

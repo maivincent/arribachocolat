@@ -1,0 +1,3 @@
+[Malky](https://www.facebook.com/yuramuyo/) es un proyecto del cual hay poca información disponible. Parece (aunque podría equivocarme) que se trata de una empresa fundada por una mujer Kichwa, Senaida Cerda, con el objetivo de apoyar a las mujeres en las comunidades de la Amazonía. Está vinculado, de cerca o de lejos, al proyecto [Woman of the Rio Napo](https://www.rainforestpartnership.org/projects/women-of-the-rio-napo) de Rainforest Partnership. Según el empaque de las tabletas, también hay una conexión con la empresa [Valenco](https://valenco.com.ec/), que produce, entre otras cosas, chocolate fino de aroma para chocolateros.
+
+Encontré una tableta en el Pasaje Arzobispal del centro histórico de Quito.

@@ -1,0 +1,1 @@
+[Hoja Verde](https://www.facebook.com/hojaverdechocolate/) est la branche chocolat d'une compagnie familiale qui produit aussi des [roses](https://www.hojaverde.com.ec/?lang=en). Elle est aussi associée à la compagnie de [café Velez](https://www.hvg.com.ec/). On trouve leur produits un peu partout à Quito, entre autres au café Velez de la Floresta.

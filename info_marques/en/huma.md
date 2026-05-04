@@ -1,0 +1,1 @@
+[Huma](https://humachocolate.com/) produces Single Origin chocolate from cocoa purchased directly from producers in various regions of Ecuador, such as Guayaquil, Tsachila, Montanita, Cotopaxi, Quitu, and Yasuni. It's not arriba cocoa but rather fino de aroma. I found their chocolate bars in a shop in Pasaje Arzobispal, located in the heart of the historic center of Quito.

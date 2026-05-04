@@ -1,0 +1,1 @@
+[Avanaa](https://www.avanaa.ca/) est une chocolaterie montréalaise située à Villeray, qui confectionne du chocolat à partir de fèves de cacaos directement importées de producteurs durables, venant de différents endroits dans le monde, dont l'Équateur avec du cacao Kallari!
