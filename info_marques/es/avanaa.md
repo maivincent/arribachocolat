@@ -1,0 +1,1 @@
+[Avanaa](https://www.avanaa.ca/) es una chocolatería de Montreal ubicada en Villeray, que elabora chocolate a partir de granos de cacao importados directamente de productores sostenibles de diversas partes del mundo, incluido Ecuador con cacao Kallari.

@@ -30,6 +30,7 @@ grade:
 brand:
   reviews: tablettes dégustées
   back: Toutes les marques
+  about: "À propos de cette marque"
   tiers:
     exceptionnel: Exceptionnel
     excellent: Excellent

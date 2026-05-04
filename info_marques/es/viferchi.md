@@ -1,0 +1,1 @@
+Lanzada en 2018 en Cuenca, [Viferchi](http://www.viferchi.com/) ofrece por el momento una pequeña variedad de bares. Lo conseguí en Quito, en la misma frutería de las barras de Cleo, en diciembre de 2021. Sin embargo, supongo que crecerá.

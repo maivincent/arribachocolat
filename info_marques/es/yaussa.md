@@ -1,0 +1,1 @@
+La granja turística [Yaussa](https://yaussa.com/) se encuentra en Puerto Quito y ofrece, entre otros productos, dos tabletas de chocolate de arriba y chocolate 100% para cocinar. Lo encontramos en una feria de Navidad en Cumbayá en 2021.

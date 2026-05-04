@@ -25,6 +25,7 @@ grade:
 brand:
   reviews: bars reviewed
   back: All brands
+  about: "About this brand"
   tiers:
     exceptionnel: Exceptional
     excellent: Excellent

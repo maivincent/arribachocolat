@@ -1,0 +1,1 @@
+[Arariwa](https://www.arariwacacao.com/) is a small Ecuadorian company led by women, whose name means "guardians of the Chakras," representing the traditional way of managing cocoa production by women (refer to the section on Kallari for more details). You can find their chocolate bars at certain gourmet fairs, the artisanal market, or at [Cacao & Cacao](https://kacaoshop.com/).

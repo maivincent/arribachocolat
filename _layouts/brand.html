@@ -8,6 +8,14 @@ layout: default
 
 <h1 class="brand-title">{{ page.brand_name }}</h1>
 
+{% assign brand_slug = page.permalink | remove: '/brands/' | remove: '/' %}
+{% assign brand_desc = site.data.brand_descriptions[site.lang][brand_slug] %}
+{% if brand_desc and brand_desc != "" %}
+<section class="brand-description">
+  {{ brand_desc | markdownify }}
+</section>
+{% endif %}
+
 {% assign all_posts = site.categories[page.brand_name] %}
 {% assign brand_posts = "" | split: "" %}
 {% for post in all_posts %}
@@ -68,3 +76,4 @@ layout: default
     </ul>
   {% endif %}
 {% endfor %}
+

@@ -1,0 +1,1 @@
+[Galletti](https://cafegalletti.com/) is an Ecuadorian coffee brand. However, if you visit their cafe on Gonzalez Suarez in Quito, you will find their homemade chocolate. It is not listed on the Ecuadorian site, but it can be found on the [sales site](https://cafegallettiusa.com/collections/products/products/variety-pack-of-each-fine-chocolate-bar-1) for the United States.

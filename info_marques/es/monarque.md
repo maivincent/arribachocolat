@@ -1,0 +1,1 @@
+[Monarque](https://chocolats-monarque.square.site/) es otra pequeña chocolatería de Montreal, bean-to-bar, con sede en Mile End, cuyo cacao proviene principalmente de América Central y Latina. Encontré sus barras de chocolate ecuatoriano en la tienda [État de Choc](https://www.etatdechoc.com/fc/), ubicada en St-Laurent.

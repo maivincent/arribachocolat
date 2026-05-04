@@ -26,6 +26,7 @@ grade:
 brand:
   reviews: tabletas probadas
   back: Todas las marcas
+  about: "Sobre esta marca"
   tiers:
     exceptionnel: Excepcional
     excellent: Excelente

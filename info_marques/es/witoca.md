@@ -1,0 +1,1 @@
+[Witoca](http://www.witoca.com/) es una comunidad amazónica que se especializa en la producción de café, pero también elabora [chocolate](https://producersmarket.com/product/chocolate-witoca-9ed1bde281984307ab1920dc197261c4) de forma artesanal, utilizando el sistema Chakra. Encontré una tableta en el mercado artesanal de Quito.

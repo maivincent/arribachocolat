@@ -1,0 +1,3 @@
+[Washu](https://www.washuchocolate.com/) est un projet qui vise à donner des opportunités économiques aux communautés vivant dans la forêt primaire du Tesoro Escondido. En vivant de la forêt de manière durable, ces communautés protégent ainsi 250 hectares du chocó equatorien. Cet écosystème en danger abrite nombre d'espèces en voie d'extinction, incluant le singe araignée à tête noire dont le nom en langue Chicha est Washu. Ce singe fait partie des 25 primates les plus à risques au monde et est l'espèce la plus menacée du pays.
+
+Cette initiative fait partie d'une initiative plus globale menée par [Projecto Washu](https://www.proyectowashu.org/), qui y fait aussi de l'éducation, recherche scientifique, et conservation.

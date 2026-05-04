@@ -110,6 +110,11 @@ layout: default
 {%- else -%}
 
   {% comment %} Brands index: sorted by post count {% endcomment %}
+  {%- assign brands_intro = site.data.brand_intro[site.lang] -%}
+  {%- if brands_intro and brands_intro != "" -%}
+    <div class="brands-introduction">{{ brands_intro | markdownify }}</div>
+  {%- endif -%}
+
   {%- assign max_count = 0 -%}
   {%- for taxonomy in taxonomies -%}
     {%- assign posts = taxonomy[1] -%}
